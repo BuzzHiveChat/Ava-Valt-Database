@@ -1,7 +1,7 @@
 {
   "enabled": false,
   "stopRequested": false,
-  "running": true,
+  "running": false,
   "maxAddPerRun": 300,
   "searchTerms": [
     "avatar",
@@ -63,7 +63,7 @@
     "VRCWB": false,
     "NSVR": true
   },
-  "lastRun": "2026-10-06T07:00:24.064Z",
+  "lastRun": "2026-10-06T07:01:15.224Z",
   "lastAdded": 300,
   "lastFound": 403,
   "lastError": null,
@@ -153,6 +153,6 @@
       "term": "cute"
     }
   ],
-  "updatedAt": "2026-10-06T07:01:15.224Z",
+  "updatedAt": "2026-10-06T07:01:24.636Z",
   "lastConflicts": 0
 }
