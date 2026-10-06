@@ -1,7 +1,7 @@
 {
   "enabled": false,
   "stopRequested": false,
-  "running": true,
+  "running": false,
   "maxAddPerRun": 300,
   "searchTerms": [
     "avatar",
@@ -63,9 +63,9 @@
     "VRCWB": false,
     "NSVR": true
   },
-  "lastRun": "2026-10-06T08:07:40.621Z",
-  "lastAdded": 0,
-  "lastFound": 403,
+  "lastRun": "2026-10-06T08:19:47.700Z",
+  "lastAdded": 300,
+  "lastFound": 480,
   "lastError": null,
   "lastHealth": [
     {
@@ -151,8 +151,92 @@
       "count": 0,
       "error": "network: fetch failed",
       "term": "cute"
+    },
+    {
+      "provider": "KitsuneDB",
+      "state": "working",
+      "count": 50,
+      "error": "",
+      "term": "fox"
+    },
+    {
+      "provider": "PAW",
+      "state": "working",
+      "count": 250,
+      "error": "",
+      "term": "fox"
+    },
+    {
+      "provider": "VRCDB",
+      "state": "working",
+      "count": 1000,
+      "error": "",
+      "term": "fox"
+    },
+    {
+      "provider": "NSVR",
+      "state": "unavailable",
+      "count": 0,
+      "error": "network: fetch failed",
+      "term": "fox"
+    },
+    {
+      "provider": "KitsuneDB",
+      "state": "working",
+      "count": 50,
+      "error": "",
+      "term": "dog"
+    },
+    {
+      "provider": "PAW",
+      "state": "working",
+      "count": 250,
+      "error": "",
+      "term": "dog"
+    },
+    {
+      "provider": "VRCDB",
+      "state": "working",
+      "count": 1000,
+      "error": "",
+      "term": "dog"
+    },
+    {
+      "provider": "NSVR",
+      "state": "unavailable",
+      "count": 0,
+      "error": "network: fetch failed",
+      "term": "dog"
+    },
+    {
+      "provider": "KitsuneDB",
+      "state": "working",
+      "count": 50,
+      "error": "",
+      "term": "wolf"
+    },
+    {
+      "provider": "PAW",
+      "state": "working",
+      "count": 250,
+      "error": "",
+      "term": "wolf"
+    },
+    {
+      "provider": "VRCDB",
+      "state": "working",
+      "count": 1000,
+      "error": "",
+      "term": "wolf"
+    },
+    {
+      "provider": "NSVR",
+      "state": "unavailable",
+      "count": 0,
+      "error": "network: fetch failed",
+      "term": "wolf"
     }
   ],
-  "updatedAt": "2026-10-06T08:19:47.700Z",
+  "updatedAt": "2026-10-06T08:20:07.773Z",
   "lastConflicts": 0
 }
