@@ -1,7 +1,7 @@
 {
   "enabled": false,
   "stopRequested": false,
-  "running": false,
+  "running": true,
   "maxAddPerRun": 300,
   "searchTerms": [
     "avatar",
@@ -279,6 +279,6 @@
       "term": "dog"
     }
   ],
-  "updatedAt": "2026-10-06T05:43:49.227Z",
+  "updatedAt": "2026-10-06T05:43:58.982Z",
   "lastConflicts": 0
 }
