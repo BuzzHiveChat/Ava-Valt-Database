@@ -8,6 +8,145 @@
     "fox",
     "dog"
   ],
-  "lastRun": "2026-10-06T05:00:00Z",
-  "lastAdded": 37
+  "providerEnabled": {
+    "avtrDB": true,
+    "KitsuneDB": true,
+    "PAW": true,
+    "VRCDB": true,
+    "VRCWB": true,
+    "NSVR": true
+  },
+  "lastRun": "2026-10-06T05:24:13.435Z",
+  "lastAdded": 300,
+  "lastFound": 465,
+  "lastError": null,
+  "lastHealth": [
+    {
+      "provider": "avtrDB",
+      "state": "blocked",
+      "count": 0,
+      "error": "HTTP 403",
+      "term": "avatar"
+    },
+    {
+      "provider": "KitsuneDB",
+      "state": "working",
+      "count": 41,
+      "error": "",
+      "term": "avatar"
+    },
+    {
+      "provider": "PAW",
+      "state": "working",
+      "count": 250,
+      "error": "",
+      "term": "avatar"
+    },
+    {
+      "provider": "VRCDB",
+      "state": "working",
+      "count": 1000,
+      "error": "",
+      "term": "avatar"
+    },
+    {
+      "provider": "VRCWB",
+      "state": "unavailable",
+      "count": 0,
+      "error": "HTTP 400",
+      "term": "avatar"
+    },
+    {
+      "provider": "NSVR",
+      "state": "unavailable",
+      "count": 0,
+      "error": "network: fetch failed",
+      "term": "avatar"
+    },
+    {
+      "provider": "avtrDB",
+      "state": "blocked",
+      "count": 0,
+      "error": "HTTP 403",
+      "term": "furry"
+    },
+    {
+      "provider": "KitsuneDB",
+      "state": "working",
+      "count": 50,
+      "error": "",
+      "term": "furry"
+    },
+    {
+      "provider": "PAW",
+      "state": "working",
+      "count": 250,
+      "error": "",
+      "term": "furry"
+    },
+    {
+      "provider": "VRCDB",
+      "state": "working",
+      "count": 1000,
+      "error": "",
+      "term": "furry"
+    },
+    {
+      "provider": "VRCWB",
+      "state": "unavailable",
+      "count": 0,
+      "error": "HTTP 400",
+      "term": "furry"
+    },
+    {
+      "provider": "NSVR",
+      "state": "unavailable",
+      "count": 0,
+      "error": "network: fetch failed",
+      "term": "furry"
+    },
+    {
+      "provider": "avtrDB",
+      "state": "blocked",
+      "count": 0,
+      "error": "HTTP 403",
+      "term": "cute"
+    },
+    {
+      "provider": "KitsuneDB",
+      "state": "working",
+      "count": 16,
+      "error": "",
+      "term": "cute"
+    },
+    {
+      "provider": "PAW",
+      "state": "working",
+      "count": 250,
+      "error": "",
+      "term": "cute"
+    },
+    {
+      "provider": "VRCDB",
+      "state": "working",
+      "count": 1000,
+      "error": "",
+      "term": "cute"
+    },
+    {
+      "provider": "VRCWB",
+      "state": "unavailable",
+      "count": 0,
+      "error": "HTTP 400",
+      "term": "cute"
+    },
+    {
+      "provider": "NSVR",
+      "state": "unavailable",
+      "count": 0,
+      "error": "network: fetch failed",
+      "term": "cute"
+    }
+  ],
+  "updatedAt": "2026-10-06T05:24:24.527Z"
 }
