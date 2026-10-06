@@ -1,7 +1,7 @@
 {
   "enabled": false,
   "stopRequested": false,
-  "running": true,
+  "running": false,
   "maxAddPerRun": 300,
   "searchTerms": [
     "avatar",
@@ -63,9 +63,9 @@
     "VRCWB": false,
     "NSVR": true
   },
-  "lastRun": "2026-10-06T08:20:32.081Z",
+  "lastRun": "2026-10-06T08:39:13.479Z",
   "lastAdded": 300,
-  "lastFound": 480,
+  "lastFound": 407,
   "lastError": null,
   "lastHealth": [
     {
@@ -235,8 +235,36 @@
       "count": 0,
       "error": "network: fetch failed",
       "term": "wolf"
+    },
+    {
+      "provider": "KitsuneDB",
+      "state": "working",
+      "count": 50,
+      "error": "",
+      "term": "cat"
+    },
+    {
+      "provider": "PAW",
+      "state": "working",
+      "count": 250,
+      "error": "",
+      "term": "cat"
+    },
+    {
+      "provider": "VRCDB",
+      "state": "working",
+      "count": 1000,
+      "error": "",
+      "term": "cat"
+    },
+    {
+      "provider": "NSVR",
+      "state": "unavailable",
+      "count": 0,
+      "error": "network: fetch failed",
+      "term": "cat"
     }
   ],
-  "updatedAt": "2026-10-06T08:39:13.479Z",
+  "updatedAt": "2026-10-06T08:39:38.706Z",
   "lastConflicts": 0
 }
