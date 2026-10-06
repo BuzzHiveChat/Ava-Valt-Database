@@ -1,7 +1,7 @@
 {
   "enabled": false,
   "stopRequested": false,
-  "running": false,
+  "running": true,
   "maxAddPerRun": 300,
   "searchTerms": [
     "avatar",
@@ -321,6 +321,6 @@
       "term": "wolf"
     }
   ],
-  "updatedAt": "2026-10-06T06:19:00.023Z",
+  "updatedAt": "2026-10-06T06:39:51.827Z",
   "lastConflicts": 0
 }
