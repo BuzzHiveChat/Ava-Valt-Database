@@ -59,7 +59,7 @@
     "avtrDB": false,
     "KitsuneDB": true,
     "PAW": true,
-    "VRCDB": true,
+    "VRCDB": false,
     "VRCWB": true,
     "NSVR": true
   },
@@ -321,6 +321,6 @@
       "term": "wolf"
     }
   ],
-  "updatedAt": "2026-10-06T06:18:44.006Z",
+  "updatedAt": "2026-10-06T06:18:51.872Z",
   "lastConflicts": 0
 }
