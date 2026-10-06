@@ -1,7 +1,7 @@
 {
   "enabled": false,
-  "stopRequested": true,
-  "running": true,
+  "stopRequested": false,
+  "running": false,
   "maxAddPerRun": 300,
   "searchTerms": [
     "avatar",
@@ -63,10 +63,10 @@
     "VRCWB": false,
     "NSVR": true
   },
-  "lastRun": "2026-10-06T07:01:15.224Z",
-  "lastAdded": 300,
+  "lastRun": "2026-10-06T08:07:40.621Z",
+  "lastAdded": 0,
   "lastFound": 403,
-  "lastError": null,
+  "lastError": "GitHub write HTTP 409: {\"message\":\"is at 64e64cbbf675d9457772350cad987c9593ce6f82 but expected 00a61814546e677e99e3e75e8a1372feab3e8742\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"409\"}",
   "lastHealth": [
     {
       "provider": "KitsuneDB",
@@ -153,6 +153,6 @@
       "term": "cute"
     }
   ],
-  "updatedAt": "2026-10-06T08:07:58.061Z",
+  "updatedAt": "2026-10-06T08:07:59.387Z",
   "lastConflicts": 0
 }
