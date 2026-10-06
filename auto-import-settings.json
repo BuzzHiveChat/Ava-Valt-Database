@@ -1,7 +1,7 @@
 {
   "enabled": false,
-  "stopRequested": true,
-  "running": true,
+  "stopRequested": false,
+  "running": false,
   "maxAddPerRun": 300,
   "searchTerms": [
     "avatar",
@@ -63,9 +63,9 @@
     "VRCWB": true,
     "NSVR": true
   },
-  "lastRun": "2026-10-06T05:33:12.225Z",
+  "lastRun": "2026-10-06T05:43:58.982Z",
   "lastAdded": 300,
-  "lastFound": 461,
+  "lastFound": 383,
   "lastError": null,
   "lastHealth": [
     {
@@ -277,8 +277,50 @@
       "count": 0,
       "error": "network: fetch failed",
       "term": "dog"
+    },
+    {
+      "provider": "avtrDB",
+      "state": "blocked",
+      "count": 0,
+      "error": "HTTP 403",
+      "term": "wolf"
+    },
+    {
+      "provider": "KitsuneDB",
+      "state": "working",
+      "count": 50,
+      "error": "",
+      "term": "wolf"
+    },
+    {
+      "provider": "PAW",
+      "state": "working",
+      "count": 250,
+      "error": "",
+      "term": "wolf"
+    },
+    {
+      "provider": "VRCDB",
+      "state": "working",
+      "count": 1000,
+      "error": "",
+      "term": "wolf"
+    },
+    {
+      "provider": "VRCWB",
+      "state": "unavailable",
+      "count": 0,
+      "error": "HTTP 400",
+      "term": "wolf"
+    },
+    {
+      "provider": "NSVR",
+      "state": "unavailable",
+      "count": 0,
+      "error": "network: fetch failed",
+      "term": "wolf"
     }
   ],
-  "updatedAt": "2026-10-06T05:44:08.337Z",
+  "updatedAt": "2026-10-06T05:44:21.978Z",
   "lastConflicts": 0
 }
