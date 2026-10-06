@@ -1,1 +1,13 @@
-
+{
+  "enabled": true,
+  "maxAddPerRun": 300,
+  "searchTerms": [
+    "avatar",
+    "furry",
+    "cute",
+    "fox",
+    "dog"
+  ],
+  "lastRun": "2026-10-06T05:00:00Z",
+  "lastAdded": 37
+}
