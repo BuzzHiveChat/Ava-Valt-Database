@@ -1,7 +1,7 @@
 {
   "enabled": false,
   "stopRequested": false,
-  "running": false,
+  "running": true,
   "maxAddPerRun": 300,
   "searchTerms": [
     "avatar",
@@ -265,6 +265,6 @@
       "term": "cat"
     }
   ],
-  "updatedAt": "2026-10-06T08:39:38.706Z",
+  "updatedAt": "2026-10-06T09:54:43.636Z",
   "lastConflicts": 0
 }
