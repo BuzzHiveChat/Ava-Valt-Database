@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-07T12:03:32.476Z",
+  "updated": "2026-10-07T12:04:30.663Z",
   "avatars": [
     {
       "id": "avtr_7862f56f-2b9e-43bf-986a-ef9558a41961",
@@ -6325,6 +6325,30 @@
       "platformMetadataState": "UNRESOLVED",
       "quarantineReason": "manual-import-platform-unresolved",
       "quarantinedAt": "2026-10-07T12:03:32.476Z"
+    },
+    {
+      "id": "avtr_b4564ed2-0f3a-43a8-b556-8f22542064af",
+      "name": "Yami Chibi Cardboard",
+      "author": "YamikaDesu",
+      "authorId": "usr_09ad9800-8af9-46ef-962c-0b8dcb623576",
+      "description": "Medium cardboard avatar of the music artist producer YamikaDesu's Lust OC",
+      "imageUrl": "http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/file/file_d62b905b-22eb-4fd7-bb10-778306a82238/1/file",
+      "thumbnailImageUrl": "http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_d62b905b-22eb-4fd7-bb10-778306a82238/1/256",
+      "releaseStatus": "public",
+      "searchable": true,
+      "platforms": [],
+      "performancePc": "",
+      "performanceAndroid": "",
+      "performanceIos": "",
+      "tags": "",
+      "createdAt": "2026-06-05T16:27:43.122Z",
+      "updatedAt": "2026-06-05T16:47:20.625Z",
+      "version": 0,
+      "metadataProvider": "PAW",
+      "platformMetadataCheckedAt": "2026-10-07T12:04:30.361Z",
+      "platformMetadataState": "UNRESOLVED",
+      "quarantineReason": "manual-import-platform-unresolved",
+      "quarantinedAt": "2026-10-07T12:04:30.663Z"
     }
   ]
 }
