@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-07T11:52:03.530Z",
+  "updated": "2026-10-07T12:03:32.476Z",
   "avatars": [
     {
       "id": "avtr_7862f56f-2b9e-43bf-986a-ef9558a41961",
@@ -6301,6 +6301,30 @@
       "version": 0,
       "quarantineReason": "new-import-platform-unresolved",
       "quarantinedAt": "2026-10-07T11:52:03.530Z"
+    },
+    {
+      "id": "avtr_e996c0c9-53cf-4721-b442-427d888c868b",
+      "name": "S․O․H - Avatar SFW Public",
+      "author": "LunaticSuccubus",
+      "authorId": "usr_6494d7c9-3b51-4630-b43f-04f7f072da0f",
+      "description": "This avatar is specially for the stoned out hangout updateǃ （Happend in 24-3-2026） （Avatar clothes does NOT Support Quest）",
+      "imageUrl": "http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/file/file_b573f6cd-1210-451b-a5a2-75e1873a49ef/3/file",
+      "thumbnailImageUrl": "http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_b573f6cd-1210-451b-a5a2-75e1873a49ef/3/256",
+      "releaseStatus": "public",
+      "searchable": true,
+      "platforms": [],
+      "performancePc": "",
+      "performanceAndroid": "",
+      "performanceIos": "",
+      "tags": "",
+      "createdAt": "2026-03-24T16:27:02.835Z",
+      "updatedAt": "2026-03-25T18:58:34.416Z",
+      "version": 0,
+      "metadataProvider": "PAW",
+      "platformMetadataCheckedAt": "2026-10-07T12:03:32.319Z",
+      "platformMetadataState": "UNRESOLVED",
+      "quarantineReason": "manual-import-platform-unresolved",
+      "quarantinedAt": "2026-10-07T12:03:32.476Z"
     }
   ]
 }
