@@ -1,5 +1,5 @@
 {
-  "enabled": true,
+  "enabled": false,
   "stopRequested": false,
   "running": false,
   "maxAddPerRun": 300,
@@ -321,6 +321,6 @@
       "term": "canine"
     }
   ],
-  "updatedAt": "2026-10-07T09:16:26.728Z",
+  "updatedAt": "2026-10-07T09:16:48.122Z",
   "lastConflicts": 0
 }
