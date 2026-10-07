@@ -1,6 +1,6 @@
 {
   "enabled": false,
-  "stopRequested": false,
+  "stopRequested": true,
   "running": true,
   "maxAddPerRun": 300,
   "strictPlatformMode": true,
@@ -185,6 +185,6 @@
   "lastQuarantineError": null,
   "currentStage": "VERIFYING NEW AVATAR PLATFORMS",
   "stageUpdatedAt": "2026-10-07T12:44:45.695Z",
-  "updatedAt": "2026-10-07T12:44:45.695Z",
+  "updatedAt": "2026-10-07T12:45:01.254Z",
   "lastConflicts": 0
 }
