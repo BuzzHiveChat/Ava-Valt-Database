@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-07T12:43:41.683Z",
+  "updated": "2026-10-07T12:44:14.444Z",
   "avatars": [
     {
       "id": "avtr_7862f56f-2b9e-43bf-986a-ef9558a41961",
@@ -993,10 +993,13 @@
       "updatedAt": "",
       "version": 0,
       "metadataProvider": "KitsuneDB",
-      "platformMetadataCheckedAt": "2026-10-07T12:31:03.305Z",
+      "platformMetadataCheckedAt": "2026-10-07T12:44:14.274Z",
       "platformMetadataState": "UNRESOLVED",
       "quarantineReason": "new-import-platform-unresolved",
-      "quarantinedAt": "2026-10-07T12:31:07.156Z"
+      "quarantinedAt": "2026-10-07T12:31:07.156Z",
+      "platformRetryCount": 1,
+      "lastPlatformRetryAt": "2026-10-07T12:44:14.444Z",
+      "nextPlatformRetryAt": "2026-10-08T00:44:14.444Z"
     },
     {
       "id": "avtr_1c24cd9a-8218-4130-960b-0b87d0454077",
@@ -1017,10 +1020,13 @@
       "updatedAt": "",
       "version": 0,
       "metadataProvider": "KitsuneDB",
-      "platformMetadataCheckedAt": "2026-10-07T12:31:03.383Z",
+      "platformMetadataCheckedAt": "2026-10-07T12:44:14.274Z",
       "platformMetadataState": "UNRESOLVED",
       "quarantineReason": "new-import-platform-unresolved",
-      "quarantinedAt": "2026-10-07T12:31:07.156Z"
+      "quarantinedAt": "2026-10-07T12:31:07.156Z",
+      "platformRetryCount": 1,
+      "lastPlatformRetryAt": "2026-10-07T12:44:14.444Z",
+      "nextPlatformRetryAt": "2026-10-08T00:44:14.444Z"
     },
     {
       "id": "avtr_a1f019bb-fbe7-43cf-b6fc-54d127579560",
