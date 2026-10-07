@@ -3,6 +3,7 @@
   "stopRequested": false,
   "running": false,
   "maxAddPerRun": 300,
+  "strictPlatformMode": true,
   "searchTerms": [
     "avatar",
     "furry",
@@ -209,6 +210,8 @@
       "term": "fox"
     }
   ],
-  "updatedAt": "2026-10-07T11:26:57.138Z",
+  "currentStage": "STOPPED",
+  "stageUpdatedAt": null,
+  "updatedAt": "2026-10-07T11:51:38.647Z",
   "lastConflicts": 0
 }
