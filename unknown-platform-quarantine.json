@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-07T12:22:15.300Z",
+  "updated": "2026-10-07T12:22:21.203Z",
   "avatars": [
     {
       "id": "avtr_7862f56f-2b9e-43bf-986a-ef9558a41961",
@@ -2213,27 +2213,6 @@
       "tags": "",
       "createdAt": "2026-05-13T07:31:40.110Z",
       "updatedAt": "2026-05-13T07:58:31.635Z",
-      "version": 0,
-      "quarantineReason": "new-import-platform-unresolved",
-      "quarantinedAt": "2026-10-07T11:52:03.529Z"
-    },
-    {
-      "id": "avtr_3994ee69-e4b8-407f-ba18-b7d84401027f",
-      "name": "Yara's RR Avatar",
-      "author": "TheRealShadow_",
-      "authorId": "usr_153dc543-426f-446c-b4e3-76833fea5eb4",
-      "description": "",
-      "imageUrl": "http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/file/file_04e7cd8d-8a2c-43a5-b333-062ea1af68f4/1/file",
-      "thumbnailImageUrl": "http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_04e7cd8d-8a2c-43a5-b333-062ea1af68f4/1/256",
-      "releaseStatus": "public",
-      "searchable": true,
-      "platforms": [],
-      "performancePc": "",
-      "performanceAndroid": "",
-      "performanceIos": "",
-      "tags": "",
-      "createdAt": "2026-05-12T07:41:21.052Z",
-      "updatedAt": "2026-09-13T22:09:03.606Z",
       "version": 0,
       "quarantineReason": "new-import-platform-unresolved",
       "quarantinedAt": "2026-10-07T11:52:03.529Z"
