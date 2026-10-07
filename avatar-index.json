@@ -381086,18 +381086,19 @@
       "version": 0
     },
     {
-      "id": "avtr_d404d3b8-c9fe-4dc6-98fc-833edf3b8006",
-      "name": "＂Green＂ furry",
-      "author": "purple_skittle",
-      "authorId": "usr_e35d4bfa-12ad-4ddc-81a9-7a07ae516175",
+      "id": "avtr_c9d7bfeb-7b9e-4d10-9548-9b5fc1514963",
+      "name": "- Legoshi Beastars Avatar -",
+      "author": "MATTRAXER64xp",
+      "authorId": "usr_546a15a8-f717-487b-89b8-435415fbf33c",
       "description": "",
-      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_a3e26518-8e2f-4da0-84e7-3cd1fcdef617/1/file",
-      "thumbnailImageUrl": "https://api.vrchat.cloud/api/1/file/file_a3e26518-8e2f-4da0-84e7-3cd1fcdef617/1/file",
+      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_be96ea51-425f-42be-a162-a4e30fd8662f/2/file",
+      "thumbnailImageUrl": "https://api.vrchat.cloud/api/1/file/file_be96ea51-425f-42be-a162-a4e30fd8662f/2/file",
       "releaseStatus": "public",
       "searchable": true,
       "platforms": [
         "PC",
-        "Android"
+        "Android",
+        "iOS"
       ],
       "performancePc": "",
       "performanceAndroid": "",
@@ -381107,8 +381108,8 @@
       "updatedAt": "",
       "version": 0,
       "metadataProvider": "Owner verified from VRChat website",
-      "metadataCheckedAt": "2026-10-07T12:12:04.206Z",
-      "platformMetadataCheckedAt": "2026-10-07T12:12:04.206Z",
+      "metadataCheckedAt": "2026-10-07T12:12:41.273Z",
+      "platformMetadataCheckedAt": "2026-10-07T12:12:41.273Z",
       "platformMetadataState": "OWNER_VERIFIED"
     }
   ]
