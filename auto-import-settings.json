@@ -1,7 +1,7 @@
 {
   "enabled": false,
   "stopRequested": false,
-  "running": false,
+  "running": true,
   "maxAddPerRun": 300,
   "searchTerms": [
     "avatar",
@@ -153,6 +153,6 @@
       "term": "cute"
     }
   ],
-  "updatedAt": "2026-10-07T11:23:41.835Z",
+  "updatedAt": "2026-10-07T11:24:00.316Z",
   "lastConflicts": 0
 }
