@@ -381111,6 +381111,32 @@
       "metadataCheckedAt": "2026-10-07T12:12:41.273Z",
       "platformMetadataCheckedAt": "2026-10-07T12:12:41.273Z",
       "platformMetadataState": "OWNER_VERIFIED"
+    },
+    {
+      "id": "avtr_55ef76c7-c2b3-4e8b-96e0-b2876ec56fa0",
+      "name": "（BUYERS EDITION） Slendytubbies Customizable Avatar",
+      "author": "gabrielturkey",
+      "authorId": "usr_72be0ac4-25be-4f1c-84ac-50382ad8fdb5",
+      "description": "Yupǃ Were back‚ this is clearly private dont fucking test me‚ im done․ Also go wild ˸0）",
+      "imageUrl": "http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/file/file_37fc91a2-ac2e-4712-841b-3480ac46257b/1/file",
+      "thumbnailImageUrl": "http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_37fc91a2-ac2e-4712-841b-3480ac46257b/1/256",
+      "releaseStatus": "public",
+      "searchable": true,
+      "platforms": [
+        "PC",
+        "Android"
+      ],
+      "performancePc": "",
+      "performanceAndroid": "",
+      "performanceIos": "",
+      "tags": "",
+      "createdAt": "2026-07-29T04:38:29.853Z",
+      "updatedAt": "2026-07-29T05:08:03.341Z",
+      "version": 0,
+      "metadataProvider": "Owner verified from VRChat website",
+      "metadataCheckedAt": "2026-10-07T12:19:30.906Z",
+      "platformMetadataCheckedAt": "2026-10-07T12:19:30.906Z",
+      "platformMetadataState": "OWNER_VERIFIED"
     }
   ]
 }
