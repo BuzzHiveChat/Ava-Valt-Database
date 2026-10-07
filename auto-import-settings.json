@@ -178,13 +178,13 @@
     "verificationTimeMs": 18052
   },
   "searchTermCursor": 6,
-  "lastQuarantineRepair": "2026-10-07T13:07:08.536Z",
-  "lastQuarantineChecked": 12,
-  "lastQuarantineRestored": 9,
-  "lastQuarantineRemaining": 890,
+  "lastQuarantineRepair": "2026-10-07T13:08:43.359Z",
+  "lastQuarantineChecked": 58,
+  "lastQuarantineRestored": 25,
+  "lastQuarantineRemaining": 865,
   "lastQuarantineError": null,
   "currentStage": "STOPPED",
   "stageUpdatedAt": "2026-10-07T13:00:03.941Z",
-  "updatedAt": "2026-10-07T13:07:30.396Z",
+  "updatedAt": "2026-10-07T13:08:43.359Z",
   "lastConflicts": 0
 }
