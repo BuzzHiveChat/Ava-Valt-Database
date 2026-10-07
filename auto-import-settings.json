@@ -1,7 +1,7 @@
 {
   "enabled": false,
   "stopRequested": false,
-  "running": true,
+  "running": false,
   "maxAddPerRun": 300,
   "searchTerms": [
     "avatar",
@@ -63,9 +63,9 @@
     "VRCWB": false,
     "NSVR": true
   },
-  "lastRun": "2026-10-07T09:16:12.151Z",
+  "lastRun": "2026-10-07T11:06:36.152Z",
   "lastAdded": 300,
-  "lastFound": 381,
+  "lastFound": 455,
   "lastError": null,
   "lastHealth": [
     {
@@ -123,204 +123,8 @@
       "count": 0,
       "error": "network: fetch failed",
       "term": "furry"
-    },
-    {
-      "provider": "KitsuneDB",
-      "state": "working",
-      "count": 16,
-      "error": "",
-      "term": "cute"
-    },
-    {
-      "provider": "PAW",
-      "state": "working",
-      "count": 250,
-      "error": "",
-      "term": "cute"
-    },
-    {
-      "provider": "VRCDB",
-      "state": "working",
-      "count": 1000,
-      "error": "",
-      "term": "cute"
-    },
-    {
-      "provider": "NSVR",
-      "state": "unavailable",
-      "count": 0,
-      "error": "network: fetch failed",
-      "term": "cute"
-    },
-    {
-      "provider": "KitsuneDB",
-      "state": "working",
-      "count": 50,
-      "error": "",
-      "term": "fox"
-    },
-    {
-      "provider": "PAW",
-      "state": "working",
-      "count": 250,
-      "error": "",
-      "term": "fox"
-    },
-    {
-      "provider": "VRCDB",
-      "state": "working",
-      "count": 1000,
-      "error": "",
-      "term": "fox"
-    },
-    {
-      "provider": "NSVR",
-      "state": "unavailable",
-      "count": 0,
-      "error": "network: fetch failed",
-      "term": "fox"
-    },
-    {
-      "provider": "KitsuneDB",
-      "state": "working",
-      "count": 50,
-      "error": "",
-      "term": "dog"
-    },
-    {
-      "provider": "PAW",
-      "state": "working",
-      "count": 250,
-      "error": "",
-      "term": "dog"
-    },
-    {
-      "provider": "VRCDB",
-      "state": "working",
-      "count": 1000,
-      "error": "",
-      "term": "dog"
-    },
-    {
-      "provider": "NSVR",
-      "state": "unavailable",
-      "count": 0,
-      "error": "network: fetch failed",
-      "term": "dog"
-    },
-    {
-      "provider": "KitsuneDB",
-      "state": "working",
-      "count": 50,
-      "error": "",
-      "term": "wolf"
-    },
-    {
-      "provider": "PAW",
-      "state": "working",
-      "count": 250,
-      "error": "",
-      "term": "wolf"
-    },
-    {
-      "provider": "VRCDB",
-      "state": "working",
-      "count": 1000,
-      "error": "",
-      "term": "wolf"
-    },
-    {
-      "provider": "NSVR",
-      "state": "unavailable",
-      "count": 0,
-      "error": "network: fetch failed",
-      "term": "wolf"
-    },
-    {
-      "provider": "KitsuneDB",
-      "state": "working",
-      "count": 50,
-      "error": "",
-      "term": "cat"
-    },
-    {
-      "provider": "PAW",
-      "state": "working",
-      "count": 250,
-      "error": "",
-      "term": "cat"
-    },
-    {
-      "provider": "VRCDB",
-      "state": "working",
-      "count": 1000,
-      "error": "",
-      "term": "cat"
-    },
-    {
-      "provider": "NSVR",
-      "state": "unavailable",
-      "count": 0,
-      "error": "network: fetch failed",
-      "term": "cat"
-    },
-    {
-      "provider": "KitsuneDB",
-      "state": "working",
-      "count": 0,
-      "error": "",
-      "term": "feline"
-    },
-    {
-      "provider": "PAW",
-      "state": "working",
-      "count": 42,
-      "error": "",
-      "term": "feline"
-    },
-    {
-      "provider": "VRCDB",
-      "state": "working",
-      "count": 332,
-      "error": "",
-      "term": "feline"
-    },
-    {
-      "provider": "NSVR",
-      "state": "unavailable",
-      "count": 0,
-      "error": "network: fetch failed",
-      "term": "feline"
-    },
-    {
-      "provider": "KitsuneDB",
-      "state": "working",
-      "count": 12,
-      "error": "",
-      "term": "canine"
-    },
-    {
-      "provider": "PAW",
-      "state": "working",
-      "count": 118,
-      "error": "",
-      "term": "canine"
-    },
-    {
-      "provider": "VRCDB",
-      "state": "working",
-      "count": 543,
-      "error": "",
-      "term": "canine"
-    },
-    {
-      "provider": "NSVR",
-      "state": "unavailable",
-      "count": 0,
-      "error": "network: fetch failed",
-      "term": "canine"
     }
   ],
-  "updatedAt": "2026-10-07T11:06:36.152Z",
+  "updatedAt": "2026-10-07T11:06:45.991Z",
   "lastConflicts": 0
 }
