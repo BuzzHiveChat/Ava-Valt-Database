@@ -183,8 +183,8 @@
   "lastQuarantineRestored": 0,
   "lastQuarantineRemaining": 606,
   "lastQuarantineError": null,
-  "currentStage": "CHECKING LIVE DATABASE",
-  "stageUpdatedAt": "2026-10-07T12:59:30.279Z",
-  "updatedAt": "2026-10-07T12:59:30.279Z",
+  "currentStage": "DISCOVERING NEW AVATARS",
+  "stageUpdatedAt": "2026-10-07T12:59:36.259Z",
+  "updatedAt": "2026-10-07T12:59:36.259Z",
   "lastConflicts": 0
 }
