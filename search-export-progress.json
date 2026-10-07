@@ -1,11 +1,14 @@
 {
   "version": 1,
   "active": true,
-  "stage": "READY",
+  "stage": "PUBLISHING",
   "sourceSha": "de8346e0a55f4332e87b3b77c8c8e66207bb9f4d",
   "sourceCount": 20165,
-  "next": 0,
+  "next": 6,
   "total": 256,
   "startedAt": "2026-10-07T23:32:58.912Z",
-  "error": null
+  "error": null,
+  "lastUpdatedAt": "2026-10-07T23:33:19.401Z",
+  "unique": 20165,
+  "ignored": 0
 }
