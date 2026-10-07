@@ -381113,13 +381113,13 @@
       "platformMetadataState": "OWNER_VERIFIED"
     },
     {
-      "id": "avtr_3a1ef817-5c0b-4db7-a056-b5d53b63a557",
-      "name": "Zari Furry Dragon Avatar by Azule",
-      "author": "ΛＺＵＬΞ",
-      "authorId": "usr_ad9ea183-4d9b-4f21-b72b-699f7923b3d8",
-      "description": "",
-      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_b5e58236-3005-44c1-bcd5-d239a038c425/1/file",
-      "thumbnailImageUrl": "https://api.vrchat.cloud/api/1/file/file_b5e58236-3005-44c1-bcd5-d239a038c425/1/file",
+      "id": "avtr_02b70935-7a06-41f6-88e1-34863b9c9923",
+      "name": "your avatar upload IS TAKING TOO LONG",
+      "author": "Hex_O_Krool",
+      "authorId": "usr_8e6a19b8-1017-4fe1-9f03-823419a689f3",
+      "description": "Not a jackenstein avatar tho․",
+      "imageUrl": "http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/file/file_4aff8cb9-c8d0-46a9-a0bc-e2b2e82d690e/1/file",
+      "thumbnailImageUrl": "http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_4aff8cb9-c8d0-46a9-a0bc-e2b2e82d690e/1/256",
       "releaseStatus": "public",
       "searchable": true,
       "platforms": [
@@ -381130,14 +381130,12 @@
       "performanceAndroid": "",
       "performanceIos": "",
       "tags": "",
-      "createdAt": "",
-      "updatedAt": "",
+      "createdAt": "2025-10-11T22:08:53.491Z",
+      "updatedAt": "2025-10-25T23:38:25.357Z",
       "version": 0,
-      "platformMetadataCheckedAt": "2026-10-07T12:21:43.483Z",
-      "platformRetryCount": 1,
-      "nextPlatformRetryAt": "2026-10-08T00:19:50.354Z",
       "metadataProvider": "Owner verified from VRChat website",
-      "metadataCheckedAt": "2026-10-07T12:21:43.483Z",
+      "metadataCheckedAt": "2026-10-07T12:21:50.237Z",
+      "platformMetadataCheckedAt": "2026-10-07T12:21:50.237Z",
       "platformMetadataState": "OWNER_VERIFIED"
     }
   ]
