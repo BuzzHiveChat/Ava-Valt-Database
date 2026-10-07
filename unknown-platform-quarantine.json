@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-07T12:21:54.692Z",
+  "updated": "2026-10-07T12:22:15.300Z",
   "avatars": [
     {
       "id": "avtr_7862f56f-2b9e-43bf-986a-ef9558a41961",
@@ -2549,27 +2549,6 @@
       "tags": "",
       "createdAt": "2026-04-27T18:51:38.145Z",
       "updatedAt": "2026-06-23T22:48:14.593Z",
-      "version": 0,
-      "quarantineReason": "new-import-platform-unresolved",
-      "quarantinedAt": "2026-10-07T11:52:03.530Z"
-    },
-    {
-      "id": "avtr_75ad6eed-5360-4cb6-8c4f-d808f180f7b6",
-      "name": "Yoshi avatar",
-      "author": "- SKIE -",
-      "authorId": "usr_1fcd1710-8cee-40da-8f86-7072e2d46eab",
-      "description": "Yoshji avatar",
-      "imageUrl": "http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/file/file_b32b6d96-f95c-49ff-9fc4-2bf3851b7148/1/file",
-      "thumbnailImageUrl": "http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_b32b6d96-f95c-49ff-9fc4-2bf3851b7148/1/256",
-      "releaseStatus": "public",
-      "searchable": true,
-      "platforms": [],
-      "performancePc": "",
-      "performanceAndroid": "",
-      "performanceIos": "",
-      "tags": "",
-      "createdAt": "2026-04-27T11:47:07.680Z",
-      "updatedAt": "2026-08-08T20:37:30.996Z",
       "version": 0,
       "quarantineReason": "new-import-platform-unresolved",
       "quarantinedAt": "2026-10-07T11:52:03.530Z"
