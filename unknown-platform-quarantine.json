@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-07T12:22:23.279Z",
+  "updated": "2026-10-07T12:22:30.488Z",
   "avatars": [
     {
       "id": "avtr_7862f56f-2b9e-43bf-986a-ef9558a41961",
@@ -4061,27 +4061,6 @@
       "tags": "",
       "createdAt": "2025-11-10T00:39:00.784Z",
       "updatedAt": "2025-11-10T00:53:53.127Z",
-      "version": 0,
-      "quarantineReason": "new-import-platform-unresolved",
-      "quarantinedAt": "2026-10-07T11:52:03.530Z"
-    },
-    {
-      "id": "avtr_4a2ba5ef-6396-45c3-9422-e364cc7384a5",
-      "name": "xetrenozen official avatar",
-      "author": "xetrenozen",
-      "authorId": "usr_2e74684a-5102-4491-9b8e-94a2d1fc4c1b",
-      "description": "the god of the xetreverse",
-      "imageUrl": "http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/file/file_e39b2356-8dc5-4dc1-acfa-c60540b9b72c/3/file",
-      "thumbnailImageUrl": "http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_e39b2356-8dc5-4dc1-acfa-c60540b9b72c/3/256",
-      "releaseStatus": "public",
-      "searchable": true,
-      "platforms": [],
-      "performancePc": "",
-      "performanceAndroid": "",
-      "performanceIos": "",
-      "tags": "",
-      "createdAt": "2025-11-09T09:30:13.262Z",
-      "updatedAt": "2026-02-04T01:40:58.645Z",
       "version": 0,
       "quarantineReason": "new-import-platform-unresolved",
       "quarantinedAt": "2026-10-07T11:52:03.530Z"
