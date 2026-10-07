@@ -159,13 +159,13 @@
   ],
   "lastBreakdown": null,
   "searchTermCursor": 0,
-  "lastQuarantineRepair": "2026-10-07T12:18:52.304Z",
+  "lastQuarantineRepair": "2026-10-07T12:19:51.806Z",
   "lastQuarantineChecked": 12,
   "lastQuarantineRestored": 0,
-  "lastQuarantineRemaining": 299,
+  "lastQuarantineRemaining": 298,
   "lastQuarantineError": null,
   "currentStage": "WAITING FOR NEXT RUN",
   "stageUpdatedAt": "2026-10-07T11:52:06.315Z",
-  "updatedAt": "2026-10-07T12:18:52.304Z",
+  "updatedAt": "2026-10-07T12:19:51.806Z",
   "lastConflicts": 0
 }
