@@ -4,11 +4,11 @@
   "stage": "PUBLISHING",
   "sourceSha": "de8346e0a55f4332e87b3b77c8c8e66207bb9f4d",
   "sourceCount": 20165,
-  "next": 66,
+  "next": 72,
   "total": 256,
   "startedAt": "2026-10-07T23:32:58.912Z",
   "error": null,
-  "lastUpdatedAt": "2026-10-07T23:38:45.063Z",
+  "lastUpdatedAt": "2026-10-07T23:38:53.843Z",
   "unique": 20165,
   "ignored": 0
 }
