@@ -1,6 +1,6 @@
 {
   "enabled": false,
-  "stopRequested": false,
+  "stopRequested": true,
   "running": true,
   "maxAddPerRun": 300,
   "strictPlatformMode": true,
@@ -185,6 +185,6 @@
   "lastQuarantineError": null,
   "currentStage": "CHECKING LIVE DATABASE",
   "stageUpdatedAt": "2026-10-07T12:44:10.257Z",
-  "updatedAt": "2026-10-07T12:44:10.257Z",
+  "updatedAt": "2026-10-07T12:44:15.491Z",
   "lastConflicts": 0
 }
