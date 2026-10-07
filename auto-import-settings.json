@@ -1,7 +1,7 @@
 {
   "enabled": false,
   "stopRequested": false,
-  "running": true,
+  "running": false,
   "maxAddPerRun": 300,
   "strictPlatformMode": true,
   "autoQuarantineRepair": true,
@@ -67,9 +67,9 @@
     "VRCWB": true,
     "NSVR": true
   },
-  "lastRun": "2026-10-07T11:52:00.367Z",
+  "lastRun": "2026-10-07T12:31:10.355Z",
   "lastAdded": 0,
-  "lastFound": 455,
+  "lastFound": 300,
   "lastError": null,
   "lastHealth": [
     {
@@ -157,15 +157,34 @@
       "term": "furry"
     }
   ],
-  "lastBreakdown": null,
-  "searchTermCursor": 0,
+  "lastBreakdown": {
+    "discovered": 300,
+    "verifiedAtDiscovery": 0,
+    "platformLookupsAttempted": 70,
+    "resolvedByLookup": 0,
+    "verifiedForLiveDb": 0,
+    "quarantined": 300,
+    "deferred": 230,
+    "platformCounts": {
+      "PC": 0,
+      "Android": 0,
+      "iOS": 0
+    },
+    "sourceCounts": {},
+    "termsTried": [
+      "avatar",
+      "furry"
+    ],
+    "verificationTimeMs": 22361
+  },
+  "searchTermCursor": 2,
   "lastQuarantineRepair": "2026-10-07T12:30:06.410Z",
   "lastQuarantineChecked": 12,
   "lastQuarantineRestored": 0,
   "lastQuarantineRemaining": 291,
   "lastQuarantineError": null,
-  "currentStage": "SAVING VERIFIED AVATARS",
-  "stageUpdatedAt": "2026-10-07T12:31:08.580Z",
-  "updatedAt": "2026-10-07T12:31:08.580Z",
+  "currentStage": "WAITING FOR NEXT RUN",
+  "stageUpdatedAt": "2026-10-07T12:31:10.355Z",
+  "updatedAt": "2026-10-07T12:31:10.355Z",
   "lastConflicts": 0
 }
