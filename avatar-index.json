@@ -381113,29 +381113,30 @@
       "platformMetadataState": "OWNER_VERIFIED"
     },
     {
-      "id": "avtr_55ef76c7-c2b3-4e8b-96e0-b2876ec56fa0",
-      "name": "（BUYERS EDITION） Slendytubbies Customizable Avatar",
-      "author": "gabrielturkey",
-      "authorId": "usr_72be0ac4-25be-4f1c-84ac-50382ad8fdb5",
-      "description": "Yupǃ Were back‚ this is clearly private dont fucking test me‚ im done․ Also go wild ˸0）",
-      "imageUrl": "http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/file/file_37fc91a2-ac2e-4712-841b-3480ac46257b/1/file",
-      "thumbnailImageUrl": "http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_37fc91a2-ac2e-4712-841b-3480ac46257b/1/256",
+      "id": "avtr_adce06cf-5e34-4a62-87b5-a1629630d60c",
+      "name": "Zombie Minecraft Avatar",
+      "author": "phobosrr",
+      "authorId": "usr_e8dfa2c9-2d26-4f3f-b307-11e55d74febf",
+      "description": "",
+      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_89ffab62-81ec-44c9-bf98-470d9d7b7b8c/1/file",
+      "thumbnailImageUrl": "https://api.vrchat.cloud/api/1/file/file_89ffab62-81ec-44c9-bf98-470d9d7b7b8c/1/file",
       "releaseStatus": "public",
       "searchable": true,
       "platforms": [
         "PC",
-        "Android"
+        "Android",
+        "iOS"
       ],
       "performancePc": "",
       "performanceAndroid": "",
       "performanceIos": "",
       "tags": "",
-      "createdAt": "2026-07-29T04:38:29.853Z",
-      "updatedAt": "2026-07-29T05:08:03.341Z",
+      "createdAt": "",
+      "updatedAt": "",
       "version": 0,
       "metadataProvider": "Owner verified from VRChat website",
-      "metadataCheckedAt": "2026-10-07T12:19:30.906Z",
-      "platformMetadataCheckedAt": "2026-10-07T12:19:30.906Z",
+      "metadataCheckedAt": "2026-10-07T12:21:36.243Z",
+      "platformMetadataCheckedAt": "2026-10-07T12:21:36.243Z",
       "platformMetadataState": "OWNER_VERIFIED"
     }
   ]
