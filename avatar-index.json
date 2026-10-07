@@ -381113,19 +381113,18 @@
       "platformMetadataState": "OWNER_VERIFIED"
     },
     {
-      "id": "avtr_adce06cf-5e34-4a62-87b5-a1629630d60c",
-      "name": "Zombie Minecraft Avatar",
-      "author": "phobosrr",
-      "authorId": "usr_e8dfa2c9-2d26-4f3f-b307-11e55d74febf",
+      "id": "avtr_3a1ef817-5c0b-4db7-a056-b5d53b63a557",
+      "name": "Zari Furry Dragon Avatar by Azule",
+      "author": "ΛＺＵＬΞ",
+      "authorId": "usr_ad9ea183-4d9b-4f21-b72b-699f7923b3d8",
       "description": "",
-      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_89ffab62-81ec-44c9-bf98-470d9d7b7b8c/1/file",
-      "thumbnailImageUrl": "https://api.vrchat.cloud/api/1/file/file_89ffab62-81ec-44c9-bf98-470d9d7b7b8c/1/file",
+      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_b5e58236-3005-44c1-bcd5-d239a038c425/1/file",
+      "thumbnailImageUrl": "https://api.vrchat.cloud/api/1/file/file_b5e58236-3005-44c1-bcd5-d239a038c425/1/file",
       "releaseStatus": "public",
       "searchable": true,
       "platforms": [
         "PC",
-        "Android",
-        "iOS"
+        "Android"
       ],
       "performancePc": "",
       "performanceAndroid": "",
@@ -381134,9 +381133,11 @@
       "createdAt": "",
       "updatedAt": "",
       "version": 0,
+      "platformMetadataCheckedAt": "2026-10-07T12:21:43.483Z",
+      "platformRetryCount": 1,
+      "nextPlatformRetryAt": "2026-10-08T00:19:50.354Z",
       "metadataProvider": "Owner verified from VRChat website",
-      "metadataCheckedAt": "2026-10-07T12:21:36.243Z",
-      "platformMetadataCheckedAt": "2026-10-07T12:21:36.243Z",
+      "metadataCheckedAt": "2026-10-07T12:21:43.483Z",
       "platformMetadataState": "OWNER_VERIFIED"
     }
   ]
