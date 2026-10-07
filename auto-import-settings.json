@@ -1,7 +1,7 @@
 {
   "enabled": false,
   "stopRequested": false,
-  "running": true,
+  "running": false,
   "maxAddPerRun": 300,
   "searchTerms": [
     "avatar",
@@ -63,9 +63,9 @@
     "VRCWB": false,
     "NSVR": true
   },
-  "lastRun": "2026-10-07T11:06:36.152Z",
+  "lastRun": "2026-10-07T11:13:11.626Z",
   "lastAdded": 300,
-  "lastFound": 455,
+  "lastFound": 396,
   "lastError": null,
   "lastHealth": [
     {
@@ -123,8 +123,36 @@
       "count": 0,
       "error": "network: fetch failed",
       "term": "furry"
+    },
+    {
+      "provider": "KitsuneDB",
+      "state": "working",
+      "count": 16,
+      "error": "",
+      "term": "cute"
+    },
+    {
+      "provider": "PAW",
+      "state": "working",
+      "count": 250,
+      "error": "",
+      "term": "cute"
+    },
+    {
+      "provider": "VRCDB",
+      "state": "working",
+      "count": 1000,
+      "error": "",
+      "term": "cute"
+    },
+    {
+      "provider": "NSVR",
+      "state": "unavailable",
+      "count": 0,
+      "error": "network: fetch failed",
+      "term": "cute"
     }
   ],
-  "updatedAt": "2026-10-07T11:13:11.626Z",
+  "updatedAt": "2026-10-07T11:13:23.636Z",
   "lastConflicts": 0
 }
