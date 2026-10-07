@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-07T13:08:41.226Z",
+  "updated": "2026-10-07T13:10:22.500Z",
   "avatars": [
     {
       "id": "avtr_7862f56f-2b9e-43bf-986a-ef9558a41961",
@@ -4431,32 +4431,13 @@
       "updatedAt": "2025-11-15T01:19:49.652Z",
       "version": 0,
       "metadataProvider": "PAW",
-      "platformMetadataState": "DEFERRED",
+      "platformMetadataState": "UNRESOLVED",
       "quarantineReason": "new-import-platform-unresolved",
-      "quarantinedAt": "2026-10-07T12:31:07.156Z"
-    },
-    {
-      "id": "avtr_6fa4183c-2f65-428e-92e9-d2d055ceb202",
-      "name": "Cod - Winterpaw Feline Public Avatar",
-      "author": "Rumsoli",
-      "authorId": "usr_084f96b8-85e2-4215-9e25-90308013cbe5",
-      "description": "For Codster ˸3 Get the base at https˸⁄⁄juliawinterpaw․gumroad․com⁄l⁄Feline",
-      "imageUrl": "http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/file/file_4b56f183-8eff-4fdb-aa10-ac3f3cad443f/2/file",
-      "thumbnailImageUrl": "http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_4b56f183-8eff-4fdb-aa10-ac3f3cad443f/2/256",
-      "releaseStatus": "public",
-      "searchable": true,
-      "platforms": [],
-      "performancePc": "",
-      "performanceAndroid": "",
-      "performanceIos": "",
-      "tags": "",
-      "createdAt": "2025-10-20T15:51:40.087Z",
-      "updatedAt": "2025-10-20T20:45:31.756Z",
-      "version": 0,
-      "metadataProvider": "PAW",
-      "platformMetadataState": "DEFERRED",
-      "quarantineReason": "new-import-platform-unresolved",
-      "quarantinedAt": "2026-10-07T12:31:07.156Z"
+      "quarantinedAt": "2026-10-07T12:31:07.156Z",
+      "platformMetadataCheckedAt": "2026-10-07T13:10:12.613Z",
+      "platformRetryCount": 1,
+      "lastPlatformRetryAt": "2026-10-07T13:10:22.500Z",
+      "nextPlatformRetryAt": "2026-10-08T01:10:22.500Z"
     },
     {
       "id": "avtr_7e0f77b1-0d6f-49e7-af97-60b6126b85a7",
