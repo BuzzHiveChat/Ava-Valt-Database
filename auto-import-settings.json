@@ -1,7 +1,7 @@
 {
   "enabled": true,
   "stopRequested": false,
-  "running": false,
+  "running": true,
   "maxAddPerRun": 300,
   "searchTerms": [
     "avatar",
@@ -293,6 +293,6 @@
       "term": "feline"
     }
   ],
-  "updatedAt": "2026-10-07T09:12:03.397Z",
+  "updatedAt": "2026-10-07T09:16:12.151Z",
   "lastConflicts": 0
 }
