@@ -164,8 +164,8 @@
   "lastQuarantineRestored": 0,
   "lastQuarantineRemaining": 291,
   "lastQuarantineError": null,
-  "currentStage": "VERIFYING NEW AVATAR PLATFORMS",
-  "stageUpdatedAt": "2026-10-07T12:30:43.161Z",
-  "updatedAt": "2026-10-07T12:30:43.161Z",
+  "currentStage": "SAVING VERIFIED AVATARS",
+  "stageUpdatedAt": "2026-10-07T12:31:08.580Z",
+  "updatedAt": "2026-10-07T12:31:08.580Z",
   "lastConflicts": 0
 }
