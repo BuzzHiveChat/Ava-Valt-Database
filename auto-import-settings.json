@@ -4,7 +4,7 @@
   "running": false,
   "maxAddPerRun": 300,
   "strictPlatformMode": true,
-  "autoQuarantineRepair": true,
+  "autoQuarantineRepair": false,
   "quarantineRepairBatch": 100,
   "quarantineRetryCooldownHours": 12,
   "searchTerms": [
