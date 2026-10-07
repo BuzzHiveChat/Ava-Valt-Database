@@ -381084,6 +381084,32 @@
       "createdAt": "",
       "updatedAt": "2026-03-18T23:56:02.306Z",
       "version": 0
+    },
+    {
+      "id": "avtr_d69a6719-18db-4b6b-a446-3cecfba28db4",
+      "name": "____Sǃde_0rder_ǃnking_Avatar____",
+      "author": "Norman_Reedus",
+      "authorId": "usr_643d78d1-ae6d-47bb-b71e-9397135045e9",
+      "description": "____Sǃde_0rder_ǃnking_Avatar____",
+      "imageUrl": "http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/file/file_3fc64abf-9982-43d9-8d1a-8b7993c08c59/1/file",
+      "thumbnailImageUrl": "http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_3fc64abf-9982-43d9-8d1a-8b7993c08c59/1/256",
+      "releaseStatus": "public",
+      "searchable": true,
+      "platforms": [
+        "PC",
+        "Android"
+      ],
+      "performancePc": "",
+      "performanceAndroid": "",
+      "performanceIos": "",
+      "tags": "",
+      "createdAt": "2025-09-21T02:10:30.707Z",
+      "updatedAt": "2025-09-21T17:45:51.998Z",
+      "version": 0,
+      "metadataProvider": "Owner verified from VRChat website",
+      "metadataCheckedAt": "2026-10-07T12:11:55.720Z",
+      "platformMetadataCheckedAt": "2026-10-07T12:11:55.720Z",
+      "platformMetadataState": "OWNER_VERIFIED"
     }
   ]
 }
