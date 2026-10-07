@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-07T12:18:50.782Z",
+  "updated": "2026-10-07T12:19:38.636Z",
   "avatars": [
     {
       "id": "avtr_7862f56f-2b9e-43bf-986a-ef9558a41961",
@@ -1528,27 +1528,6 @@
       "tags": "",
       "createdAt": "2026-08-05T07:37:30.340Z",
       "updatedAt": "2026-08-05T08:05:13.797Z",
-      "version": 0,
-      "quarantineReason": "new-import-platform-unresolved",
-      "quarantinedAt": "2026-10-07T11:52:03.529Z"
-    },
-    {
-      "id": "avtr_55ef76c7-c2b3-4e8b-96e0-b2876ec56fa0",
-      "name": "（BUYERS EDITION） Slendytubbies Customizable Avatar",
-      "author": "gabrielturkey",
-      "authorId": "usr_72be0ac4-25be-4f1c-84ac-50382ad8fdb5",
-      "description": "Yupǃ Were back‚ this is clearly private dont fucking test me‚ im done․ Also go wild ˸0）",
-      "imageUrl": "http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/file/file_37fc91a2-ac2e-4712-841b-3480ac46257b/1/file",
-      "thumbnailImageUrl": "http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_37fc91a2-ac2e-4712-841b-3480ac46257b/1/256",
-      "releaseStatus": "public",
-      "searchable": true,
-      "platforms": [],
-      "performancePc": "",
-      "performanceAndroid": "",
-      "performanceIos": "",
-      "tags": "",
-      "createdAt": "2026-07-29T04:38:29.853Z",
-      "updatedAt": "2026-07-29T05:08:03.341Z",
       "version": 0,
       "quarantineReason": "new-import-platform-unresolved",
       "quarantinedAt": "2026-10-07T11:52:03.529Z"
