@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-07T12:44:14.444Z",
+  "updated": "2026-10-07T12:44:40.165Z",
   "avatars": [
     {
       "id": "avtr_7862f56f-2b9e-43bf-986a-ef9558a41961",
@@ -1047,10 +1047,13 @@
       "updatedAt": "2026-10-02T21:14:53.846Z",
       "version": 0,
       "metadataProvider": "PAW",
-      "platformMetadataCheckedAt": "2026-10-07T12:31:03.493Z",
+      "platformMetadataCheckedAt": "2026-10-07T12:44:39.977Z",
       "platformMetadataState": "UNRESOLVED",
       "quarantineReason": "new-import-platform-unresolved",
-      "quarantinedAt": "2026-10-07T12:31:07.156Z"
+      "quarantinedAt": "2026-10-07T12:31:07.156Z",
+      "platformRetryCount": 1,
+      "lastPlatformRetryAt": "2026-10-07T12:44:40.165Z",
+      "nextPlatformRetryAt": "2026-10-08T00:44:40.165Z"
     },
     {
       "id": "avtr_7594a1dc-4796-453d-ad48-15061ba0cdee",
@@ -1071,10 +1074,13 @@
       "updatedAt": "2026-09-29T16:51:24.138Z",
       "version": 0,
       "metadataProvider": "PAW",
-      "platformMetadataCheckedAt": "2026-10-07T12:31:03.606Z",
+      "platformMetadataCheckedAt": "2026-10-07T12:44:40.009Z",
       "platformMetadataState": "UNRESOLVED",
       "quarantineReason": "new-import-platform-unresolved",
-      "quarantinedAt": "2026-10-07T12:31:07.156Z"
+      "quarantinedAt": "2026-10-07T12:31:07.156Z",
+      "platformRetryCount": 1,
+      "lastPlatformRetryAt": "2026-10-07T12:44:40.165Z",
+      "nextPlatformRetryAt": "2026-10-08T00:44:40.165Z"
     },
     {
       "id": "avtr_da41aea3-1625-445f-afa0-f01106682312",
