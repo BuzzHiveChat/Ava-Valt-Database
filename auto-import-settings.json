@@ -1,7 +1,7 @@
 {
   "enabled": false,
   "stopRequested": false,
-  "running": false,
+  "running": true,
   "maxAddPerRun": 300,
   "searchTerms": [
     "avatar",
@@ -125,6 +125,6 @@
       "term": "furry"
     }
   ],
-  "updatedAt": "2026-10-07T11:06:45.991Z",
+  "updatedAt": "2026-10-07T11:13:11.626Z",
   "lastConflicts": 0
 }
