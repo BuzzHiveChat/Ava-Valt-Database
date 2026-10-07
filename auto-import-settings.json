@@ -60,7 +60,7 @@
     "KitsuneDB": true,
     "PAW": true,
     "VRCDB": true,
-    "VRCWB": false,
+    "VRCWB": true,
     "NSVR": true
   },
   "lastRun": "2026-10-07T11:13:11.626Z",
@@ -153,6 +153,6 @@
       "term": "cute"
     }
   ],
-  "updatedAt": "2026-10-07T11:13:23.636Z",
+  "updatedAt": "2026-10-07T11:23:41.835Z",
   "lastConflicts": 0
 }
