@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-07T12:12:02.875Z",
+  "updated": "2026-10-07T12:12:10.595Z",
   "avatars": [
     {
       "id": "avtr_7862f56f-2b9e-43bf-986a-ef9558a41961",
@@ -5197,27 +5197,6 @@
       "description": "",
       "imageUrl": "https://api.vrchat.cloud/api/1/file/file_c0c1311c-9f89-4586-9bdd-aac20953778d/1/file",
       "thumbnailImageUrl": "https://api.vrchat.cloud/api/1/file/file_c0c1311c-9f89-4586-9bdd-aac20953778d/1/file",
-      "releaseStatus": "public",
-      "searchable": true,
-      "platforms": [],
-      "performancePc": "",
-      "performanceAndroid": "",
-      "performanceIos": "",
-      "tags": "",
-      "createdAt": "",
-      "updatedAt": "",
-      "version": 0,
-      "quarantineReason": "new-import-platform-unresolved",
-      "quarantinedAt": "2026-10-07T11:52:03.530Z"
-    },
-    {
-      "id": "avtr_d404d3b8-c9fe-4dc6-98fc-833edf3b8006",
-      "name": "＂Green＂ furry",
-      "author": "purple_skittle",
-      "authorId": "usr_e35d4bfa-12ad-4ddc-81a9-7a07ae516175",
-      "description": "",
-      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_a3e26518-8e2f-4da0-84e7-3cd1fcdef617/1/file",
-      "thumbnailImageUrl": "https://api.vrchat.cloud/api/1/file/file_a3e26518-8e2f-4da0-84e7-3cd1fcdef617/1/file",
       "releaseStatus": "public",
       "searchable": true,
       "platforms": [],
