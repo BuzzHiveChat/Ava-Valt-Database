@@ -1,7 +1,7 @@
 {
   "enabled": false,
-  "stopRequested": true,
-  "running": true,
+  "stopRequested": false,
+  "running": false,
   "maxAddPerRun": 300,
   "strictPlatformMode": true,
   "autoQuarantineRepair": true,
@@ -67,7 +67,7 @@
     "VRCWB": true,
     "NSVR": true
   },
-  "lastRun": "2026-10-07T12:44:16.911Z",
+  "lastRun": "2026-10-07T12:45:09.373Z",
   "lastAdded": 0,
   "lastFound": 300,
   "lastError": null,
@@ -77,94 +77,94 @@
       "state": "blocked",
       "count": 0,
       "error": "HTTP 403",
-      "term": "avatar"
+      "term": "cute"
     },
     {
       "provider": "KitsuneDB",
       "state": "working",
-      "count": 41,
+      "count": 16,
       "error": "",
-      "term": "avatar"
+      "term": "cute"
     },
     {
       "provider": "PAW",
       "state": "working",
       "count": 250,
       "error": "",
-      "term": "avatar"
+      "term": "cute"
     },
     {
       "provider": "VRCDB",
       "state": "working",
       "count": 1000,
       "error": "",
-      "term": "avatar"
-    },
-    {
-      "provider": "VRCWB",
-      "state": "working",
-      "count": 886,
-      "error": "",
-      "term": "avatar"
-    },
-    {
-      "provider": "NSVR",
-      "state": "unavailable",
-      "count": 0,
-      "error": "network: fetch failed",
-      "term": "avatar"
-    },
-    {
-      "provider": "avtrDB",
-      "state": "blocked",
-      "count": 0,
-      "error": "HTTP 403",
-      "term": "furry"
-    },
-    {
-      "provider": "KitsuneDB",
-      "state": "working",
-      "count": 50,
-      "error": "",
-      "term": "furry"
-    },
-    {
-      "provider": "PAW",
-      "state": "working",
-      "count": 250,
-      "error": "",
-      "term": "furry"
-    },
-    {
-      "provider": "VRCDB",
-      "state": "working",
-      "count": 1000,
-      "error": "",
-      "term": "furry"
+      "term": "cute"
     },
     {
       "provider": "VRCWB",
       "state": "working",
       "count": 889,
       "error": "",
-      "term": "furry"
+      "term": "cute"
     },
     {
       "provider": "NSVR",
       "state": "unavailable",
       "count": 0,
       "error": "network: fetch failed",
-      "term": "furry"
+      "term": "cute"
+    },
+    {
+      "provider": "avtrDB",
+      "state": "blocked",
+      "count": 0,
+      "error": "HTTP 403",
+      "term": "fox"
+    },
+    {
+      "provider": "KitsuneDB",
+      "state": "working",
+      "count": 50,
+      "error": "",
+      "term": "fox"
+    },
+    {
+      "provider": "PAW",
+      "state": "working",
+      "count": 250,
+      "error": "",
+      "term": "fox"
+    },
+    {
+      "provider": "VRCDB",
+      "state": "working",
+      "count": 1000,
+      "error": "",
+      "term": "fox"
+    },
+    {
+      "provider": "VRCWB",
+      "state": "working",
+      "count": 889,
+      "error": "",
+      "term": "fox"
+    },
+    {
+      "provider": "NSVR",
+      "state": "unavailable",
+      "count": 0,
+      "error": "network: fetch failed",
+      "term": "fox"
     }
   ],
   "lastBreakdown": {
     "discovered": 300,
     "verifiedAtDiscovery": 0,
-    "platformLookupsAttempted": 70,
+    "platformLookupsAttempted": 100,
     "resolvedByLookup": 0,
     "verifiedForLiveDb": 0,
     "quarantined": 300,
-    "deferred": 230,
+    "deferred": 400,
     "platformCounts": {
       "PC": 0,
       "Android": 0,
@@ -172,19 +172,19 @@
     },
     "sourceCounts": {},
     "termsTried": [
-      "avatar",
-      "furry"
+      "cute",
+      "fox"
     ],
-    "verificationTimeMs": 22361
+    "verificationTimeMs": 19592
   },
-  "searchTermCursor": 2,
+  "searchTermCursor": 4,
   "lastQuarantineRepair": "2026-10-07T12:43:43.038Z",
   "lastQuarantineChecked": 12,
   "lastQuarantineRestored": 0,
   "lastQuarantineRemaining": 306,
   "lastQuarantineError": null,
-  "currentStage": "SAVING VERIFIED AVATARS",
-  "stageUpdatedAt": "2026-10-07T12:45:07.706Z",
-  "updatedAt": "2026-10-07T12:45:07.706Z",
+  "currentStage": "STOPPED",
+  "stageUpdatedAt": "2026-10-07T12:45:09.373Z",
+  "updatedAt": "2026-10-07T12:45:09.373Z",
   "lastConflicts": 0
 }
