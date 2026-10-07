@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-07T12:12:10.595Z",
+  "updated": "2026-10-07T12:12:49.346Z",
   "avatars": [
     {
       "id": "avtr_7862f56f-2b9e-43bf-986a-ef9558a41961",
@@ -346,27 +346,6 @@
       "description": "",
       "imageUrl": "https://api.vrchat.cloud/api/1/file/file_fe2ddc02-7b09-4d8f-a5df-8c4276b5925f/1/file",
       "thumbnailImageUrl": "https://api.vrchat.cloud/api/1/file/file_fe2ddc02-7b09-4d8f-a5df-8c4276b5925f/1/file",
-      "releaseStatus": "public",
-      "searchable": true,
-      "platforms": [],
-      "performancePc": "",
-      "performanceAndroid": "",
-      "performanceIos": "",
-      "tags": "",
-      "createdAt": "",
-      "updatedAt": "",
-      "version": 0,
-      "quarantineReason": "new-import-platform-unresolved",
-      "quarantinedAt": "2026-10-07T11:52:03.529Z"
-    },
-    {
-      "id": "avtr_c9d7bfeb-7b9e-4d10-9548-9b5fc1514963",
-      "name": "- Legoshi Beastars Avatar -",
-      "author": "MATTRAXER64xp",
-      "authorId": "usr_546a15a8-f717-487b-89b8-435415fbf33c",
-      "description": "",
-      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_be96ea51-425f-42be-a162-a4e30fd8662f/2/file",
-      "thumbnailImageUrl": "https://api.vrchat.cloud/api/1/file/file_be96ea51-425f-42be-a162-a4e30fd8662f/2/file",
       "releaseStatus": "public",
       "searchable": true,
       "platforms": [],
