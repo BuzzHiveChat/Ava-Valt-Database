@@ -381113,13 +381113,13 @@
       "platformMetadataState": "OWNER_VERIFIED"
     },
     {
-      "id": "avtr_75ad6eed-5360-4cb6-8c4f-d808f180f7b6",
-      "name": "Yoshi avatar",
-      "author": "- SKIE -",
-      "authorId": "usr_1fcd1710-8cee-40da-8f86-7072e2d46eab",
-      "description": "Yoshji avatar",
-      "imageUrl": "http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/file/file_b32b6d96-f95c-49ff-9fc4-2bf3851b7148/1/file",
-      "thumbnailImageUrl": "http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_b32b6d96-f95c-49ff-9fc4-2bf3851b7148/1/256",
+      "id": "avtr_3994ee69-e4b8-407f-ba18-b7d84401027f",
+      "name": "Yara's RR Avatar",
+      "author": "TheRealShadow_",
+      "authorId": "usr_153dc543-426f-446c-b4e3-76833fea5eb4",
+      "description": "",
+      "imageUrl": "http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/file/file_04e7cd8d-8a2c-43a5-b333-062ea1af68f4/1/file",
+      "thumbnailImageUrl": "http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_04e7cd8d-8a2c-43a5-b333-062ea1af68f4/1/256",
       "releaseStatus": "public",
       "searchable": true,
       "platforms": [
@@ -381130,12 +381130,12 @@
       "performanceAndroid": "",
       "performanceIos": "",
       "tags": "",
-      "createdAt": "2026-04-27T11:47:07.680Z",
-      "updatedAt": "2026-08-08T20:37:30.996Z",
+      "createdAt": "2026-05-12T07:41:21.052Z",
+      "updatedAt": "2026-09-13T22:09:03.606Z",
       "version": 0,
       "metadataProvider": "Owner verified from VRChat website",
-      "metadataCheckedAt": "2026-10-07T12:21:56.003Z",
-      "platformMetadataCheckedAt": "2026-10-07T12:21:56.003Z",
+      "metadataCheckedAt": "2026-10-07T12:22:16.633Z",
+      "platformMetadataCheckedAt": "2026-10-07T12:22:16.633Z",
       "platformMetadataState": "OWNER_VERIFIED"
     }
   ]
