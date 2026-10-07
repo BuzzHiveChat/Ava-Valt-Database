@@ -381113,13 +381113,13 @@
       "platformMetadataState": "OWNER_VERIFIED"
     },
     {
-      "id": "avtr_3994ee69-e4b8-407f-ba18-b7d84401027f",
-      "name": "Yara's RR Avatar",
-      "author": "TheRealShadow_",
-      "authorId": "usr_153dc543-426f-446c-b4e3-76833fea5eb4",
-      "description": "",
-      "imageUrl": "http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/file/file_04e7cd8d-8a2c-43a5-b333-062ea1af68f4/1/file",
-      "thumbnailImageUrl": "http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_04e7cd8d-8a2c-43a5-b333-062ea1af68f4/1/256",
+      "id": "avtr_4a2ba5ef-6396-45c3-9422-e364cc7384a5",
+      "name": "xetrenozen official avatar",
+      "author": "xetrenozen",
+      "authorId": "usr_2e74684a-5102-4491-9b8e-94a2d1fc4c1b",
+      "description": "the god of the xetreverse",
+      "imageUrl": "http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/file/file_e39b2356-8dc5-4dc1-acfa-c60540b9b72c/3/file",
+      "thumbnailImageUrl": "http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_e39b2356-8dc5-4dc1-acfa-c60540b9b72c/3/256",
       "releaseStatus": "public",
       "searchable": true,
       "platforms": [
@@ -381130,12 +381130,12 @@
       "performanceAndroid": "",
       "performanceIos": "",
       "tags": "",
-      "createdAt": "2026-05-12T07:41:21.052Z",
-      "updatedAt": "2026-09-13T22:09:03.606Z",
+      "createdAt": "2025-11-09T09:30:13.262Z",
+      "updatedAt": "2026-02-04T01:40:58.645Z",
       "version": 0,
       "metadataProvider": "Owner verified from VRChat website",
-      "metadataCheckedAt": "2026-10-07T12:22:16.633Z",
-      "platformMetadataCheckedAt": "2026-10-07T12:22:16.633Z",
+      "metadataCheckedAt": "2026-10-07T12:22:24.577Z",
+      "platformMetadataCheckedAt": "2026-10-07T12:22:24.577Z",
       "platformMetadataState": "OWNER_VERIFIED"
     }
   ]
