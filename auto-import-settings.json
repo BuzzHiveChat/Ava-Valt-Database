@@ -4,6 +4,9 @@
   "running": false,
   "maxAddPerRun": 300,
   "strictPlatformMode": true,
+  "autoQuarantineRepair": true,
+  "quarantineRepairBatch": 12,
+  "quarantineRetryCooldownHours": 12,
   "searchTerms": [
     "avatar",
     "furry",
@@ -154,8 +157,15 @@
       "term": "furry"
     }
   ],
+  "lastBreakdown": null,
+  "searchTermCursor": 0,
+  "lastQuarantineRepair": null,
+  "lastQuarantineChecked": 0,
+  "lastQuarantineRestored": 0,
+  "lastQuarantineRemaining": null,
+  "lastQuarantineError": null,
   "currentStage": "WAITING FOR NEXT RUN",
   "stageUpdatedAt": "2026-10-07T11:52:06.315Z",
-  "updatedAt": "2026-10-07T11:52:06.315Z",
+  "updatedAt": "2026-10-07T12:18:45.919Z",
   "lastConflicts": 0
 }
