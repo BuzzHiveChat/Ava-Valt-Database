@@ -1,7 +1,7 @@
 {
   "enabled": false,
   "stopRequested": false,
-  "running": false,
+  "running": true,
   "maxAddPerRun": 300,
   "strictPlatformMode": true,
   "autoQuarantineRepair": true,
@@ -164,8 +164,8 @@
   "lastQuarantineRestored": 0,
   "lastQuarantineRemaining": 291,
   "lastQuarantineError": null,
-  "currentStage": "WAITING FOR NEXT RUN",
-  "stageUpdatedAt": "2026-10-07T11:52:06.315Z",
-  "updatedAt": "2026-10-07T12:30:19.015Z",
+  "currentStage": "CHECKING LIVE DATABASE",
+  "stageUpdatedAt": "2026-10-07T12:30:34.776Z",
+  "updatedAt": "2026-10-07T12:30:34.776Z",
   "lastConflicts": 0
 }
