@@ -1,5 +1,5 @@
 {
-  "enabled": false,
+  "enabled": true,
   "stopRequested": false,
   "running": false,
   "maxAddPerRun": 300,
@@ -293,6 +293,6 @@
       "term": "feline"
     }
   ],
-  "updatedAt": "2026-10-06T09:55:06.552Z",
+  "updatedAt": "2026-10-07T09:12:03.397Z",
   "lastConflicts": 0
 }
