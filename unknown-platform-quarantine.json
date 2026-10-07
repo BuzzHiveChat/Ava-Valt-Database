@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-07T12:30:04.790Z",
+  "updated": "2026-10-07T12:30:38.701Z",
   "avatars": [
     {
       "id": "avtr_7862f56f-2b9e-43bf-986a-ef9558a41961",
@@ -931,7 +931,12 @@
       "updatedAt": "",
       "version": 0,
       "quarantineReason": "new-import-platform-unresolved",
-      "quarantinedAt": "2026-10-07T11:52:03.529Z"
+      "quarantinedAt": "2026-10-07T11:52:03.529Z",
+      "platformMetadataCheckedAt": "2026-10-07T12:30:38.573Z",
+      "platformMetadataState": "UNRESOLVED",
+      "platformRetryCount": 1,
+      "lastPlatformRetryAt": "2026-10-07T12:30:38.701Z",
+      "nextPlatformRetryAt": "2026-10-08T00:30:38.701Z"
     },
     {
       "id": "avtr_8dcebf8c-432c-4bf0-9d6f-732ab3721e0d",
@@ -952,7 +957,12 @@
       "updatedAt": "",
       "version": 0,
       "quarantineReason": "new-import-platform-unresolved",
-      "quarantinedAt": "2026-10-07T11:52:03.529Z"
+      "quarantinedAt": "2026-10-07T11:52:03.529Z",
+      "platformMetadataCheckedAt": "2026-10-07T12:30:38.573Z",
+      "platformMetadataState": "UNRESOLVED",
+      "platformRetryCount": 1,
+      "lastPlatformRetryAt": "2026-10-07T12:30:38.701Z",
+      "nextPlatformRetryAt": "2026-10-08T00:30:38.701Z"
     },
     {
       "id": "avtr_1c24cd9a-8218-4130-960b-0b87d0454077",
