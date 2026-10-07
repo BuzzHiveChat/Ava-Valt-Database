@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-07T12:04:30.663Z",
+  "updated": "2026-10-07T12:12:02.875Z",
   "avatars": [
     {
       "id": "avtr_7862f56f-2b9e-43bf-986a-ef9558a41961",
@@ -4849,27 +4849,6 @@
       "tags": "",
       "createdAt": "2025-09-21T02:44:32.834Z",
       "updatedAt": "2025-09-21T03:53:22.071Z",
-      "version": 0,
-      "quarantineReason": "new-import-platform-unresolved",
-      "quarantinedAt": "2026-10-07T11:52:03.530Z"
-    },
-    {
-      "id": "avtr_d69a6719-18db-4b6b-a446-3cecfba28db4",
-      "name": "____Sǃde_0rder_ǃnking_Avatar____",
-      "author": "Norman_Reedus",
-      "authorId": "usr_643d78d1-ae6d-47bb-b71e-9397135045e9",
-      "description": "____Sǃde_0rder_ǃnking_Avatar____",
-      "imageUrl": "http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/file/file_3fc64abf-9982-43d9-8d1a-8b7993c08c59/1/file",
-      "thumbnailImageUrl": "http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_3fc64abf-9982-43d9-8d1a-8b7993c08c59/1/256",
-      "releaseStatus": "public",
-      "searchable": true,
-      "platforms": [],
-      "performancePc": "",
-      "performanceAndroid": "",
-      "performanceIos": "",
-      "tags": "",
-      "createdAt": "2025-09-21T02:10:30.707Z",
-      "updatedAt": "2025-09-21T17:45:51.998Z",
       "version": 0,
       "quarantineReason": "new-import-platform-unresolved",
       "quarantinedAt": "2026-10-07T11:52:03.530Z"
