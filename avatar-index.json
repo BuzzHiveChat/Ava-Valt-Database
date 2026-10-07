@@ -381102,7 +381102,9 @@
       "tags": "",
       "createdAt": "",
       "updatedAt": "",
-      "version": 0
+      "version": 0,
+      "platformMetadataCheckedAt": "2026-10-07T11:23:18.827Z",
+      "platformMetadataState": "RATE_LIMITED"
     },
     {
       "id": "avtr_d0a0c265-c40c-4013-822e-9b43ca49b0bb",
@@ -381121,7 +381123,9 @@
       "tags": "",
       "createdAt": "",
       "updatedAt": "",
-      "version": 0
+      "version": 0,
+      "platformMetadataCheckedAt": "2026-10-07T11:23:19.657Z",
+      "platformMetadataState": "RATE_LIMITED"
     },
     {
       "id": "avtr_0c450467-fb1e-4bbc-88e4-8676144347cb",
@@ -381140,7 +381144,9 @@
       "tags": "",
       "createdAt": "",
       "updatedAt": "",
-      "version": 0
+      "version": 0,
+      "platformMetadataCheckedAt": "2026-10-07T11:23:20.593Z",
+      "platformMetadataState": "RATE_LIMITED"
     },
     {
       "id": "avtr_623effc8-e170-4f01-b947-1aa19996e65a",
@@ -381159,7 +381165,9 @@
       "tags": "",
       "createdAt": "",
       "updatedAt": "",
-      "version": 0
+      "version": 0,
+      "platformMetadataCheckedAt": "2026-10-07T11:23:21.418Z",
+      "platformMetadataState": "RATE_LIMITED"
     },
     {
       "id": "avtr_8afd64b5-bd55-470f-bc4d-d7418b2b2174",
@@ -381178,7 +381186,9 @@
       "tags": "",
       "createdAt": "",
       "updatedAt": "",
-      "version": 0
+      "version": 0,
+      "platformMetadataCheckedAt": "2026-10-07T11:23:22.229Z",
+      "platformMetadataState": "RATE_LIMITED"
     },
     {
       "id": "avtr_a4f71a61-d90f-484f-848b-181281ca8e45",
@@ -381197,7 +381207,9 @@
       "tags": "",
       "createdAt": "",
       "updatedAt": "",
-      "version": 0
+      "version": 0,
+      "platformMetadataCheckedAt": "2026-10-07T11:23:22.951Z",
+      "platformMetadataState": "LOGIN_FAILED"
     },
     {
       "id": "avtr_bf7c8d02-75f9-470f-be65-b9274e1556ff",
@@ -381216,7 +381228,9 @@
       "tags": "",
       "createdAt": "",
       "updatedAt": "",
-      "version": 0
+      "version": 0,
+      "platformMetadataCheckedAt": "2026-10-07T11:23:23.650Z",
+      "platformMetadataState": "LOGIN_FAILED"
     },
     {
       "id": "avtr_46beef15-286a-40b8-9620-4407e8212d41",
@@ -381235,7 +381249,9 @@
       "tags": "",
       "createdAt": "",
       "updatedAt": "",
-      "version": 0
+      "version": 0,
+      "platformMetadataCheckedAt": "2026-10-07T11:23:24.370Z",
+      "platformMetadataState": "LOGIN_FAILED"
     },
     {
       "id": "avtr_58f252ea-642d-4e3f-a43c-03d10e7a3beb",
@@ -381254,7 +381270,9 @@
       "tags": "",
       "createdAt": "",
       "updatedAt": "",
-      "version": 0
+      "version": 0,
+      "platformMetadataCheckedAt": "2026-10-07T11:23:25.080Z",
+      "platformMetadataState": "LOGIN_FAILED"
     },
     {
       "id": "avtr_2782ea53-f7b5-49eb-b486-c076cedfda95",
@@ -381273,7 +381291,9 @@
       "tags": "",
       "createdAt": "",
       "updatedAt": "",
-      "version": 0
+      "version": 0,
+      "platformMetadataCheckedAt": "2026-10-07T11:23:25.792Z",
+      "platformMetadataState": "LOGIN_FAILED"
     },
     {
       "id": "avtr_8b8786f2-c31c-4ed7-a6f7-a4b560c2f6aa",
@@ -381292,7 +381312,9 @@
       "tags": "",
       "createdAt": "",
       "updatedAt": "",
-      "version": 0
+      "version": 0,
+      "platformMetadataCheckedAt": "2026-10-07T11:23:26.500Z",
+      "platformMetadataState": "LOGIN_FAILED"
     },
     {
       "id": "avtr_bce870e7-9424-4033-8ed4-16cfda38d052",
@@ -381311,7 +381333,9 @@
       "tags": "",
       "createdAt": "",
       "updatedAt": "",
-      "version": 0
+      "version": 0,
+      "platformMetadataCheckedAt": "2026-10-07T11:23:27.215Z",
+      "platformMetadataState": "LOGIN_FAILED"
     },
     {
       "id": "avtr_9a64cb7c-1070-4a6a-8f3e-7ef72880e7f7",
@@ -381330,7 +381354,9 @@
       "tags": "",
       "createdAt": "",
       "updatedAt": "",
-      "version": 0
+      "version": 0,
+      "platformMetadataCheckedAt": "2026-10-07T11:23:27.912Z",
+      "platformMetadataState": "LOGIN_FAILED"
     },
     {
       "id": "avtr_9f7395dd-4e79-44d5-87b0-5ba3bcd1a827",
@@ -381349,7 +381375,9 @@
       "tags": "",
       "createdAt": "",
       "updatedAt": "",
-      "version": 0
+      "version": 0,
+      "platformMetadataCheckedAt": "2026-10-07T11:23:28.607Z",
+      "platformMetadataState": "LOGIN_FAILED"
     },
     {
       "id": "avtr_36883b24-7b8a-42f1-87ce-992c9e6c8f4b",
@@ -381368,7 +381396,9 @@
       "tags": "",
       "createdAt": "",
       "updatedAt": "",
-      "version": 0
+      "version": 0,
+      "platformMetadataCheckedAt": "2026-10-07T11:23:29.307Z",
+      "platformMetadataState": "LOGIN_FAILED"
     },
     {
       "id": "avtr_3a1ef817-5c0b-4db7-a056-b5d53b63a557",
@@ -381387,7 +381417,9 @@
       "tags": "",
       "createdAt": "",
       "updatedAt": "",
-      "version": 0
+      "version": 0,
+      "platformMetadataCheckedAt": "2026-10-07T11:23:30.004Z",
+      "platformMetadataState": "LOGIN_FAILED"
     },
     {
       "id": "avtr_1f937460-0b84-472d-baf9-e65f6bbf6282",
@@ -381406,7 +381438,9 @@
       "tags": "",
       "createdAt": "",
       "updatedAt": "",
-      "version": 0
+      "version": 0,
+      "platformMetadataCheckedAt": "2026-10-07T11:23:30.722Z",
+      "platformMetadataState": "LOGIN_FAILED"
     },
     {
       "id": "avtr_c9d7bfeb-7b9e-4d10-9548-9b5fc1514963",
@@ -381425,7 +381459,9 @@
       "tags": "",
       "createdAt": "",
       "updatedAt": "",
-      "version": 0
+      "version": 0,
+      "platformMetadataCheckedAt": "2026-10-07T11:23:31.435Z",
+      "platformMetadataState": "LOGIN_FAILED"
     },
     {
       "id": "avtr_26a67a0e-c0bb-4e6e-bddf-4dc0051f1b1c",
@@ -381444,7 +381480,9 @@
       "tags": "",
       "createdAt": "",
       "updatedAt": "",
-      "version": 0
+      "version": 0,
+      "platformMetadataCheckedAt": "2026-10-07T11:23:32.138Z",
+      "platformMetadataState": "LOGIN_FAILED"
     },
     {
       "id": "avtr_e1231396-d870-4fda-8576-03f1266efc57",
@@ -381463,7 +381501,9 @@
       "tags": "",
       "createdAt": "",
       "updatedAt": "",
-      "version": 0
+      "version": 0,
+      "platformMetadataCheckedAt": "2026-10-07T11:23:32.860Z",
+      "platformMetadataState": "LOGIN_FAILED"
     },
     {
       "id": "avtr_2ab66282-2600-40d1-9d80-5c9dcba66eba",
@@ -381482,7 +381522,9 @@
       "tags": "",
       "createdAt": "",
       "updatedAt": "",
-      "version": 0
+      "version": 0,
+      "platformMetadataCheckedAt": "2026-10-07T11:23:33.561Z",
+      "platformMetadataState": "LOGIN_FAILED"
     },
     {
       "id": "avtr_3867b56c-f535-4371-9d69-fb059f9d1727",
@@ -381501,7 +381543,9 @@
       "tags": "",
       "createdAt": "",
       "updatedAt": "",
-      "version": 0
+      "version": 0,
+      "platformMetadataCheckedAt": "2026-10-07T11:23:34.261Z",
+      "platformMetadataState": "LOGIN_FAILED"
     },
     {
       "id": "avtr_edd1b9e9-9974-4991-b057-384da3175e54",
@@ -381520,7 +381564,9 @@
       "tags": "",
       "createdAt": "",
       "updatedAt": "",
-      "version": 0
+      "version": 0,
+      "platformMetadataCheckedAt": "2026-10-07T11:23:34.963Z",
+      "platformMetadataState": "LOGIN_FAILED"
     },
     {
       "id": "avtr_757e7316-eba9-4c23-9ce4-947d524a1f44",
@@ -381539,7 +381585,9 @@
       "tags": "",
       "createdAt": "",
       "updatedAt": "",
-      "version": 0
+      "version": 0,
+      "platformMetadataCheckedAt": "2026-10-07T11:23:35.659Z",
+      "platformMetadataState": "LOGIN_FAILED"
     },
     {
       "id": "avtr_177abecb-f212-46b6-81c6-24cab6053ee5",
@@ -381558,7 +381606,9 @@
       "tags": "",
       "createdAt": "",
       "updatedAt": "",
-      "version": 0
+      "version": 0,
+      "platformMetadataCheckedAt": "2026-10-07T11:23:36.397Z",
+      "platformMetadataState": "LOGIN_FAILED"
     },
     {
       "id": "avtr_0f1d6d21-2f77-493b-a108-d96bfd27f53f",
@@ -381577,7 +381627,9 @@
       "tags": "",
       "createdAt": "",
       "updatedAt": "",
-      "version": 0
+      "version": 0,
+      "platformMetadataCheckedAt": "2026-10-07T11:23:37.097Z",
+      "platformMetadataState": "LOGIN_FAILED"
     },
     {
       "id": "avtr_743346cd-2ca8-4a09-ada7-b4c55996180b",
@@ -381596,7 +381648,9 @@
       "tags": "",
       "createdAt": "",
       "updatedAt": "",
-      "version": 0
+      "version": 0,
+      "platformMetadataCheckedAt": "2026-10-07T11:23:37.804Z",
+      "platformMetadataState": "LOGIN_FAILED"
     },
     {
       "id": "avtr_660be72d-ee8d-43ce-9b29-f269a60cdb56",
@@ -381615,7 +381669,9 @@
       "tags": "",
       "createdAt": "",
       "updatedAt": "",
-      "version": 0
+      "version": 0,
+      "platformMetadataCheckedAt": "2026-10-07T11:23:38.500Z",
+      "platformMetadataState": "LOGIN_FAILED"
     },
     {
       "id": "avtr_beaf72d1-34c3-4e85-8fda-71d2e2dc9948",
@@ -381634,7 +381690,9 @@
       "tags": "",
       "createdAt": "",
       "updatedAt": "",
-      "version": 0
+      "version": 0,
+      "platformMetadataCheckedAt": "2026-10-07T11:23:39.203Z",
+      "platformMetadataState": "LOGIN_FAILED"
     },
     {
       "id": "avtr_81e03715-e0d1-46a9-8c81-345c6618a59e",
@@ -381653,7 +381711,9 @@
       "tags": "",
       "createdAt": "",
       "updatedAt": "",
-      "version": 0
+      "version": 0,
+      "platformMetadataCheckedAt": "2026-10-07T11:23:39.904Z",
+      "platformMetadataState": "LOGIN_FAILED"
     },
     {
       "id": "avtr_20102b37-9c12-42be-b15e-57451fae2ed5",
@@ -381672,7 +381732,9 @@
       "tags": "",
       "createdAt": "",
       "updatedAt": "",
-      "version": 0
+      "version": 0,
+      "platformMetadataCheckedAt": "2026-10-07T11:23:40.618Z",
+      "platformMetadataState": "LOGIN_FAILED"
     },
     {
       "id": "avtr_dc31a0d8-247b-4b4e-9856-265a93eecaf0",
@@ -381691,7 +381753,9 @@
       "tags": "",
       "createdAt": "",
       "updatedAt": "",
-      "version": 0
+      "version": 0,
+      "platformMetadataCheckedAt": "2026-10-07T11:23:41.340Z",
+      "platformMetadataState": "LOGIN_FAILED"
     },
     {
       "id": "avtr_7f1d18e4-dd80-41f5-b6cf-60d4e9172e93",
@@ -381710,7 +381774,9 @@
       "tags": "",
       "createdAt": "",
       "updatedAt": "",
-      "version": 0
+      "version": 0,
+      "platformMetadataCheckedAt": "2026-10-07T11:23:42.044Z",
+      "platformMetadataState": "LOGIN_FAILED"
     },
     {
       "id": "avtr_c3869a40-ae35-45cd-9182-db400299be97",
@@ -381729,7 +381795,9 @@
       "tags": "",
       "createdAt": "",
       "updatedAt": "",
-      "version": 0
+      "version": 0,
+      "platformMetadataCheckedAt": "2026-10-07T11:23:42.774Z",
+      "platformMetadataState": "LOGIN_FAILED"
     },
     {
       "id": "avtr_dbaab053-c6f6-4455-8d3b-7fed95be8b1c",
@@ -381748,7 +381816,9 @@
       "tags": "",
       "createdAt": "",
       "updatedAt": "",
-      "version": 0
+      "version": 0,
+      "platformMetadataCheckedAt": "2026-10-07T11:23:43.473Z",
+      "platformMetadataState": "LOGIN_FAILED"
     },
     {
       "id": "avtr_594b0e54-141d-4f91-9175-1c1d199f282e",
@@ -381767,7 +381837,9 @@
       "tags": "",
       "createdAt": "",
       "updatedAt": "",
-      "version": 0
+      "version": 0,
+      "platformMetadataCheckedAt": "2026-10-07T11:23:44.170Z",
+      "platformMetadataState": "LOGIN_FAILED"
     },
     {
       "id": "avtr_b188b3fc-262c-4222-a31f-6f694ad165d1",
@@ -381786,7 +381858,9 @@
       "tags": "",
       "createdAt": "",
       "updatedAt": "",
-      "version": 0
+      "version": 0,
+      "platformMetadataCheckedAt": "2026-10-07T11:23:44.890Z",
+      "platformMetadataState": "LOGIN_FAILED"
     },
     {
       "id": "avtr_adce06cf-5e34-4a62-87b5-a1629630d60c",
@@ -381805,7 +381879,9 @@
       "tags": "",
       "createdAt": "",
       "updatedAt": "",
-      "version": 0
+      "version": 0,
+      "platformMetadataCheckedAt": "2026-10-07T11:23:45.598Z",
+      "platformMetadataState": "LOGIN_FAILED"
     },
     {
       "id": "avtr_162e3a44-acb2-4327-93fa-83cf18e24588",
@@ -381824,7 +381900,9 @@
       "tags": "",
       "createdAt": "",
       "updatedAt": "",
-      "version": 0
+      "version": 0,
+      "platformMetadataCheckedAt": "2026-10-07T11:23:46.308Z",
+      "platformMetadataState": "LOGIN_FAILED"
     },
     {
       "id": "avtr_8dcebf8c-432c-4bf0-9d6f-732ab3721e0d",
@@ -381843,7 +381921,9 @@
       "tags": "",
       "createdAt": "",
       "updatedAt": "",
-      "version": 0
+      "version": 0,
+      "platformMetadataCheckedAt": "2026-10-07T11:23:47.007Z",
+      "platformMetadataState": "LOGIN_FAILED"
     },
     {
       "id": "avtr_1c24cd9a-8218-4130-960b-0b87d0454077",
@@ -381862,7 +381942,9 @@
       "tags": "",
       "createdAt": "",
       "updatedAt": "",
-      "version": 0
+      "version": 0,
+      "platformMetadataCheckedAt": "2026-10-07T11:23:47.719Z",
+      "platformMetadataState": "LOGIN_FAILED"
     },
     {
       "id": "avtr_a1f019bb-fbe7-43cf-b6fc-54d127579560",
@@ -381881,7 +381963,9 @@
       "tags": "",
       "createdAt": "2026-09-27T14:12:06.929Z",
       "updatedAt": "2026-10-02T21:14:53.846Z",
-      "version": 0
+      "version": 0,
+      "platformMetadataCheckedAt": "2026-10-07T11:23:48.592Z",
+      "platformMetadataState": "LOGIN_FAILED"
     },
     {
       "id": "avtr_7594a1dc-4796-453d-ad48-15061ba0cdee",
@@ -381900,7 +381984,9 @@
       "tags": "",
       "createdAt": "2026-09-16T12:20:22.026Z",
       "updatedAt": "2026-09-29T16:51:24.138Z",
-      "version": 0
+      "version": 0,
+      "platformMetadataCheckedAt": "2026-10-07T11:23:49.462Z",
+      "platformMetadataState": "LOGIN_FAILED"
     },
     {
       "id": "avtr_da41aea3-1625-445f-afa0-f01106682312",
@@ -381919,7 +382005,9 @@
       "tags": "",
       "createdAt": "2026-09-14T14:02:48.266Z",
       "updatedAt": "2026-09-14T14:04:25.131Z",
-      "version": 0
+      "version": 0,
+      "platformMetadataCheckedAt": "2026-10-07T11:23:50.312Z",
+      "platformMetadataState": "LOGIN_FAILED"
     },
     {
       "id": "avtr_12c0355e-4898-49d9-99cb-492992d022dc",
@@ -381938,7 +382026,9 @@
       "tags": "",
       "createdAt": "2026-09-13T23:13:19.385Z",
       "updatedAt": "2026-09-16T01:14:36.984Z",
-      "version": 0
+      "version": 0,
+      "platformMetadataCheckedAt": "2026-10-07T11:23:51.167Z",
+      "platformMetadataState": "LOGIN_FAILED"
     },
     {
       "id": "avtr_9f1bdf66-14bb-437d-b1d2-b30cbdfaa8c2",
@@ -381957,7 +382047,9 @@
       "tags": "",
       "createdAt": "2026-09-13T22:55:19.683Z",
       "updatedAt": "2026-09-13T23:08:23.336Z",
-      "version": 0
+      "version": 0,
+      "platformMetadataCheckedAt": "2026-10-07T11:23:52.246Z",
+      "platformMetadataState": "LOGIN_FAILED"
     },
     {
       "id": "avtr_8985f192-10d4-42d3-8f25-d2000df053a0",
@@ -381976,7 +382068,9 @@
       "tags": "",
       "createdAt": "2026-09-07T02:52:32.130Z",
       "updatedAt": "2026-09-10T00:34:25.110Z",
-      "version": 0
+      "version": 0,
+      "platformMetadataCheckedAt": "2026-10-07T11:23:53.274Z",
+      "platformMetadataState": "LOGIN_FAILED"
     },
     {
       "id": "avtr_f67da2ab-2828-4a4c-bba8-93aa6a208595",
@@ -381995,7 +382089,9 @@
       "tags": "",
       "createdAt": "2026-09-06T10:56:24.855Z",
       "updatedAt": "2026-09-06T11:17:18.475Z",
-      "version": 0
+      "version": 0,
+      "platformMetadataCheckedAt": "2026-10-07T11:23:54.127Z",
+      "platformMetadataState": "LOGIN_FAILED"
     },
     {
       "id": "avtr_bd47dd46-eb32-41d8-92cf-d16649bbcbc3",
@@ -382014,7 +382110,9 @@
       "tags": "",
       "createdAt": "2026-09-05T21:17:47.689Z",
       "updatedAt": "2026-09-05T21:26:22.833Z",
-      "version": 0
+      "version": 0,
+      "platformMetadataCheckedAt": "2026-10-07T11:23:54.970Z",
+      "platformMetadataState": "LOGIN_FAILED"
     },
     {
       "id": "avtr_858a338b-67cd-4e77-92e2-5386e0c6b8b6",
@@ -382033,7 +382131,9 @@
       "tags": "",
       "createdAt": "2026-09-05T19:40:57.573Z",
       "updatedAt": "2026-09-05T19:48:04.008Z",
-      "version": 0
+      "version": 0,
+      "platformMetadataCheckedAt": "2026-10-07T11:23:55.682Z",
+      "platformMetadataState": "LOGIN_FAILED"
     },
     {
       "id": "avtr_92368893-5c42-4fe6-a7cf-83270081e810",
