@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-07T12:19:50.354Z",
+  "updated": "2026-10-07T12:21:42.051Z",
   "avatars": [
     {
       "id": "avtr_7862f56f-2b9e-43bf-986a-ef9558a41961",
@@ -865,27 +865,6 @@
       "description": "",
       "imageUrl": "https://api.vrchat.cloud/api/1/file/file_8a7dd6ff-091f-4b18-833b-db394a98c62c/1/file",
       "thumbnailImageUrl": "https://api.vrchat.cloud/api/1/file/file_8a7dd6ff-091f-4b18-833b-db394a98c62c/1/file",
-      "releaseStatus": "public",
-      "searchable": true,
-      "platforms": [],
-      "performancePc": "",
-      "performanceAndroid": "",
-      "performanceIos": "",
-      "tags": "",
-      "createdAt": "",
-      "updatedAt": "",
-      "version": 0,
-      "quarantineReason": "new-import-platform-unresolved",
-      "quarantinedAt": "2026-10-07T11:52:03.529Z"
-    },
-    {
-      "id": "avtr_adce06cf-5e34-4a62-87b5-a1629630d60c",
-      "name": "Zombie Minecraft Avatar",
-      "author": "phobosrr",
-      "authorId": "usr_e8dfa2c9-2d26-4f3f-b307-11e55d74febf",
-      "description": "",
-      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_89ffab62-81ec-44c9-bf98-470d9d7b7b8c/1/file",
-      "thumbnailImageUrl": "https://api.vrchat.cloud/api/1/file/file_89ffab62-81ec-44c9-bf98-470d9d7b7b8c/1/file",
       "releaseStatus": "public",
       "searchable": true,
       "platforms": [],
