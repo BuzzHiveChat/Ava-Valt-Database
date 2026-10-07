@@ -1,7 +1,7 @@
 {
   "enabled": false,
   "stopRequested": false,
-  "running": true,
+  "running": false,
   "maxAddPerRun": 300,
   "searchTerms": [
     "avatar",
@@ -63,9 +63,9 @@
     "VRCWB": true,
     "NSVR": true
   },
-  "lastRun": "2026-10-07T11:13:11.626Z",
+  "lastRun": "2026-10-07T11:24:00.316Z",
   "lastAdded": 300,
-  "lastFound": 396,
+  "lastFound": 323,
   "lastError": null,
   "lastHealth": [
     {
@@ -84,8 +84,15 @@
     },
     {
       "provider": "VRCDB",
+      "state": "rate-limited",
+      "count": 0,
+      "error": "HTTP 429",
+      "term": "avatar"
+    },
+    {
+      "provider": "VRCWB",
       "state": "working",
-      "count": 1000,
+      "count": 886,
       "error": "",
       "term": "avatar"
     },
@@ -112,8 +119,15 @@
     },
     {
       "provider": "VRCDB",
+      "state": "rate-limited",
+      "count": 0,
+      "error": "HTTP 429",
+      "term": "furry"
+    },
+    {
+      "provider": "VRCWB",
       "state": "working",
-      "count": 1000,
+      "count": 889,
       "error": "",
       "term": "furry"
     },
@@ -140,8 +154,15 @@
     },
     {
       "provider": "VRCDB",
+      "state": "rate-limited",
+      "count": 0,
+      "error": "HTTP 429",
+      "term": "cute"
+    },
+    {
+      "provider": "VRCWB",
       "state": "working",
-      "count": 1000,
+      "count": 889,
       "error": "",
       "term": "cute"
     },
@@ -151,8 +172,43 @@
       "count": 0,
       "error": "network: fetch failed",
       "term": "cute"
+    },
+    {
+      "provider": "KitsuneDB",
+      "state": "working",
+      "count": 50,
+      "error": "",
+      "term": "fox"
+    },
+    {
+      "provider": "PAW",
+      "state": "working",
+      "count": 250,
+      "error": "",
+      "term": "fox"
+    },
+    {
+      "provider": "VRCDB",
+      "state": "rate-limited",
+      "count": 0,
+      "error": "HTTP 429",
+      "term": "fox"
+    },
+    {
+      "provider": "VRCWB",
+      "state": "working",
+      "count": 889,
+      "error": "",
+      "term": "fox"
+    },
+    {
+      "provider": "NSVR",
+      "state": "unavailable",
+      "count": 0,
+      "error": "network: fetch failed",
+      "term": "fox"
     }
   ],
-  "updatedAt": "2026-10-07T11:24:00.316Z",
+  "updatedAt": "2026-10-07T11:24:12.610Z",
   "lastConflicts": 0
 }
