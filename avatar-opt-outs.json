@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-08T01:37:16.562Z",
+  "updated": "2026-10-08T01:39:55.855Z",
   "excludedAvatars": [
     {
       "id": "avtr_382346f2-2874-4192-be25-336ada0d9082",
@@ -11,7 +11,16 @@
       "approvedAt": "2026-10-08T01:05:14.737Z"
     }
   ],
-  "excludedCreators": [],
+  "excludedCreators": [
+    {
+      "id": "usr_9e4e8d2d-6d2e-44eb-8889-85ef502800f9",
+      "marker": "owner-request",
+      "reason": "just remove them",
+      "verifiedBy": "Owner",
+      "proof": "owner-verified",
+      "approvedAt": "2026-10-08T01:39:55.854Z"
+    }
+  ],
   "pending": [
     {
       "id": "avtr_3607946c-97ca-4a73-bd38-7fe0d359a697",
