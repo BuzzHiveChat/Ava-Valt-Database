@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-08T21:44:29.670Z",
+  "updated": "2026-10-08T21:47:37.978Z",
   "avatars": [
     {
       "id": "avtr_d66919f3-9e94-4350-b706-3413e49146e2",
@@ -77,32 +77,6 @@
       "quarantineReason": "new-import-platform-unresolved",
       "quarantinedAt": "2026-10-07T13:00:00.224Z",
       "platformMetadataCheckedAt": "2026-10-08T12:12:05.603Z",
-      "reviewReason": "platform-unresolved-after-repair",
-      "movedToReviewAt": "2026-10-08T12:12:23.559Z"
-    },
-    {
-      "id": "avtr_753e0f3d-dff9-49a2-8320-9b374707bc26",
-      "name": "BIG BAD WOLF ［RAINNYS HORROR］",
-      "author": "idkmaneGTH",
-      "authorId": "usr_d1d07fd4-85ed-4acd-9260-c38986e494a9",
-      "description": "BIG BAD WOLF ［RAINNYS HORROR］",
-      "imageUrl": "http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/file/file_baf05f77-8c70-45d7-b77e-2b76c80fce6e/1/file",
-      "thumbnailImageUrl": "http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_baf05f77-8c70-45d7-b77e-2b76c80fce6e/1/256",
-      "releaseStatus": "public",
-      "searchable": true,
-      "platforms": [],
-      "performancePc": "",
-      "performanceAndroid": "",
-      "performanceIos": "",
-      "tags": "",
-      "createdAt": "2026-08-18T23:19:15.161Z",
-      "updatedAt": "2026-08-18T23:23:42.750Z",
-      "version": 0,
-      "metadataProvider": "PAW",
-      "platformMetadataState": "NEEDS_OWNER_REVIEW",
-      "quarantineReason": "new-import-platform-unresolved",
-      "quarantinedAt": "2026-10-07T13:00:00.224Z",
-      "platformMetadataCheckedAt": "2026-10-08T12:12:05.260Z",
       "reviewReason": "platform-unresolved-after-repair",
       "movedToReviewAt": "2026-10-08T12:12:23.559Z"
     },
@@ -450,7 +424,8 @@
     "avtr_eed88d36-a81d-427f-b775-4fa5743a9c22",
     "avtr_a647fe5d-286e-4c66-b89c-364170190f8f",
     "avtr_bdccb844-13a6-4a77-bc71-198e96b43d52",
-    "avtr_3f0f7a2f-0d80-43a0-bbe2-a2bc0548838d"
+    "avtr_3f0f7a2f-0d80-43a0-bbe2-a2bc0548838d",
+    "avtr_753e0f3d-dff9-49a2-8320-9b374707bc26"
   ],
   "autoReview": {}
 }
