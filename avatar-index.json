@@ -385439,13 +385439,13 @@
       "metadataCheckedAt": "2026-10-08T12:27:22.202Z"
     },
     {
-      "id": "avtr_82461743-1a67-4afa-a5d7-2b970affb4b7",
-      "name": "paul dog",
-      "author": "Jackyln Burger",
-      "authorId": "usr_8bf963db-ed3c-48ff-a261-02887c859812",
-      "description": "Mccartney IV‚ ITS COMIN UPǃ",
-      "imageUrl": "http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/file/file_2a4a7fc6-0da6-43ae-abfa-12026928baa2/2/file",
-      "thumbnailImageUrl": "http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_2a4a7fc6-0da6-43ae-abfa-12026928baa2/2/256",
+      "id": "avtr_91b1442f-71ad-40ce-af71-f6e9caa9bce3",
+      "name": "Blackened Skull Dog",
+      "author": "Blackened_13",
+      "authorId": "usr_545f77b8-a5f9-4783-8808-89c8596b18a7",
+      "description": "Blackened Skull Dog",
+      "imageUrl": "http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/file/file_1d654028-4131-453d-9062-9b3570446e4e/1/file",
+      "thumbnailImageUrl": "http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_1d654028-4131-453d-9062-9b3570446e4e/1/256",
       "releaseStatus": "public",
       "searchable": true,
       "platforms": [
@@ -385456,13 +385456,13 @@
       "performanceAndroid": "",
       "performanceIos": "",
       "tags": "",
-      "createdAt": "2026-03-14T00:06:16.316Z",
-      "updatedAt": "2026-04-01T22:39:31.857Z",
+      "createdAt": "2026-03-15T14:44:58.079Z",
+      "updatedAt": "2026-08-20T18:05:37.425Z",
       "version": 0,
       "metadataProvider": "Owner verified",
       "platformMetadataState": "OWNER_VERIFIED",
-      "platformMetadataCheckedAt": "2026-10-08T12:41:40.517Z",
-      "metadataCheckedAt": "2026-10-08T12:41:40.517Z"
+      "platformMetadataCheckedAt": "2026-10-08T12:41:57.153Z",
+      "metadataCheckedAt": "2026-10-08T12:41:57.153Z"
     }
   ]
 }
