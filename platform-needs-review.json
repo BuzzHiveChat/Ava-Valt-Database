@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-08T12:40:40.055Z",
+  "updated": "2026-10-08T12:40:49.905Z",
   "avatars": [
     {
       "id": "avtr_a3e8487e-2dfa-453d-857e-7ba0466562e2",
@@ -233,32 +233,6 @@
       "quarantineReason": "new-import-platform-unresolved",
       "quarantinedAt": "2026-10-07T13:00:00.224Z",
       "platformMetadataCheckedAt": "2026-10-08T01:37:00.637Z",
-      "reviewReason": "platform-unresolved-after-repair",
-      "movedToReviewAt": "2026-10-08T01:37:24.973Z"
-    },
-    {
-      "id": "avtr_11de9a71-67b8-4161-acf4-4c65eb6867b6",
-      "name": "john lennon dog",
-      "author": "Jackyln Burger",
-      "authorId": "usr_8bf963db-ed3c-48ff-a261-02887c859812",
-      "description": "Imagine․",
-      "imageUrl": "http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/file/file_931e3866-08ab-4db7-8e84-ba0e5813db3c/2/file",
-      "thumbnailImageUrl": "http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_931e3866-08ab-4db7-8e84-ba0e5813db3c/2/256",
-      "releaseStatus": "public",
-      "searchable": true,
-      "platforms": [],
-      "performancePc": "",
-      "performanceAndroid": "",
-      "performanceIos": "",
-      "tags": "",
-      "createdAt": "2026-02-27T03:12:45.352Z",
-      "updatedAt": "2026-04-01T23:04:23.750Z",
-      "version": 0,
-      "metadataProvider": "PAW",
-      "platformMetadataState": "NEEDS_OWNER_REVIEW",
-      "quarantineReason": "new-import-platform-unresolved",
-      "quarantinedAt": "2026-10-07T13:00:00.224Z",
-      "platformMetadataCheckedAt": "2026-10-08T01:37:01.038Z",
       "reviewReason": "platform-unresolved-after-repair",
       "movedToReviewAt": "2026-10-08T01:37:24.973Z"
     },
