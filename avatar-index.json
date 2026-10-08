@@ -385439,29 +385439,30 @@
       "metadataCheckedAt": "2026-10-08T12:27:22.202Z"
     },
     {
-      "id": "avtr_025375be-96be-441a-b6c4-4e3df37b6f33",
-      "name": "Guard Dog",
-      "author": "Redberry Sans",
-      "authorId": "usr_a3ba4878-f9a2-45aa-8452-095b491365ca",
-      "description": "Super Earth's most patriotic pup․ This Avatar was made for the Virtual Diver Program PvP Community․",
-      "imageUrl": "http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/file/file_7b2d1e16-54ac-43c5-8412-bd5c0e86797d/2/file",
-      "thumbnailImageUrl": "http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_7b2d1e16-54ac-43c5-8412-bd5c0e86797d/2/256",
+      "id": "avtr_42798c26-65fd-40a6-af12-76a51c685a2c",
+      "name": "Braziliam meme dog",
+      "author": "_Flin_",
+      "authorId": "usr_04e3deda-be86-4055-926e-d02a7e057a16",
+      "description": "Braziliam meme dog",
+      "imageUrl": "http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/file/file_6f3c9cf3-1d9f-48c0-9459-5a4775c8771e/1/file",
+      "thumbnailImageUrl": "http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_6f3c9cf3-1d9f-48c0-9459-5a4775c8771e/1/256",
       "releaseStatus": "public",
       "searchable": true,
       "platforms": [
-        "PC"
+        "PC",
+        "Android"
       ],
       "performancePc": "",
       "performanceAndroid": "",
       "performanceIos": "",
       "tags": "",
-      "createdAt": "2026-02-03T06:21:46.515Z",
-      "updatedAt": "2026-04-19T20:53:18.853Z",
+      "createdAt": "2026-02-17T23:41:56.525Z",
+      "updatedAt": "2026-05-20T00:40:34.381Z",
       "version": 0,
       "metadataProvider": "Owner verified",
       "platformMetadataState": "OWNER_VERIFIED",
-      "platformMetadataCheckedAt": "2026-10-08T12:40:11.349Z",
-      "metadataCheckedAt": "2026-10-08T12:40:11.349Z"
+      "platformMetadataCheckedAt": "2026-10-08T12:40:22.613Z",
+      "metadataCheckedAt": "2026-10-08T12:40:22.613Z"
     }
   ]
 }
