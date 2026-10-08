@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-08T12:40:27.748Z",
+  "updated": "2026-10-08T12:40:40.055Z",
   "avatars": [
     {
       "id": "avtr_a3e8487e-2dfa-453d-857e-7ba0466562e2",
@@ -259,32 +259,6 @@
       "quarantineReason": "new-import-platform-unresolved",
       "quarantinedAt": "2026-10-07T13:00:00.224Z",
       "platformMetadataCheckedAt": "2026-10-08T01:37:01.038Z",
-      "reviewReason": "platform-unresolved-after-repair",
-      "movedToReviewAt": "2026-10-08T01:37:24.973Z"
-    },
-    {
-      "id": "avtr_5d10ff1a-a631-4899-9af2-5f2824c902a8",
-      "name": "Alien Dog",
-      "author": "4͘͘͘5",
-      "authorId": "usr_71105242-ff5d-442e-a6b5-aff3739814f1",
-      "description": "",
-      "imageUrl": "http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/file/file_6047c329-3a52-41a3-8c3d-73bf46429ba2/2/file",
-      "thumbnailImageUrl": "http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_6047c329-3a52-41a3-8c3d-73bf46429ba2/2/256",
-      "releaseStatus": "public",
-      "searchable": true,
-      "platforms": [],
-      "performancePc": "",
-      "performanceAndroid": "",
-      "performanceIos": "",
-      "tags": "",
-      "createdAt": "2026-02-19T05:56:13.656Z",
-      "updatedAt": "2026-02-25T09:13:36.458Z",
-      "version": 0,
-      "metadataProvider": "PAW",
-      "platformMetadataState": "NEEDS_OWNER_REVIEW",
-      "quarantineReason": "new-import-platform-unresolved",
-      "quarantinedAt": "2026-10-07T13:00:00.224Z",
-      "platformMetadataCheckedAt": "2026-10-08T01:37:01.450Z",
       "reviewReason": "platform-unresolved-after-repair",
       "movedToReviewAt": "2026-10-08T01:37:24.973Z"
     },
