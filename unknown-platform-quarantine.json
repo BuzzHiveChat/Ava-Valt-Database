@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-07T23:08:01.960Z",
+  "updated": "2026-10-08T00:26:27.275Z",
   "avatars": [
     {
       "id": "avtr_7862f56f-2b9e-43bf-986a-ef9558a41961",
@@ -17944,6 +17944,30 @@
       "platformMetadataState": "DEFERRED",
       "quarantineReason": "new-import-platform-unresolved",
       "quarantinedAt": "2026-10-07T13:00:00.224Z"
+    },
+    {
+      "id": "avtr_39da6c40-cc85-45d2-ad15-37b38069d2b1",
+      "name": "plush bat ǃ",
+      "author": "gayfellas",
+      "authorId": "usr_79a57c88-7b18-4548-a20d-d8fe8d987c83",
+      "description": "an adorable stuffy cursed to live in the real world․ turns out it's not so badǃ ＼＼ avatar by gayfellas ＼＼ happy halloweenǃ",
+      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_1fc77cb9-4d7f-45a0-a86a-408d1abfb029/1/file",
+      "thumbnailImageUrl": "https://api.vrchat.cloud/api/1/image/file_1fc77cb9-4d7f-45a0-a86a-408d1abfb029/1/256",
+      "releaseStatus": "public",
+      "searchable": true,
+      "platforms": [],
+      "performancePc": "",
+      "performanceAndroid": "",
+      "performanceIos": "",
+      "tags": "",
+      "createdAt": "",
+      "updatedAt": "",
+      "version": 0,
+      "metadataProvider": "VRCDB",
+      "platformMetadataCheckedAt": "2026-10-08T00:26:26.947Z",
+      "platformMetadataState": "UNRESOLVED",
+      "quarantineReason": "manual-import-platform-unresolved",
+      "quarantinedAt": "2026-10-08T00:26:27.275Z"
     }
   ]
 }
