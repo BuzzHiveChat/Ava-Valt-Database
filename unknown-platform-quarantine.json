@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-08T11:04:15.908Z",
+  "updated": "2026-10-08T12:10:41.810Z",
   "avatars": [
     {
       "id": "avtr_7862f56f-2b9e-43bf-986a-ef9558a41961",
@@ -13510,6 +13510,30 @@
       "platformMetadataState": "DEFERRED",
       "quarantineReason": "new-import-platform-unresolved",
       "quarantinedAt": "2026-10-07T13:00:00.224Z"
+    },
+    {
+      "id": "avtr_d3d721f1-82c5-4579-866e-687a13e9b101",
+      "name": "Kepler Novabeast",
+      "author": "NiftyZoneA",
+      "authorId": "usr_e7ee17bc-fcbd-4407-b43e-c32cde04832a",
+      "description": "",
+      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_2e8a263e-1381-4e84-a8c0-ec5003be32f2/1/file",
+      "thumbnailImageUrl": "https://api.vrchat.cloud/api/1/file/file_2e8a263e-1381-4e84-a8c0-ec5003be32f2/1/file",
+      "releaseStatus": "public",
+      "searchable": true,
+      "platforms": [],
+      "performancePc": "",
+      "performanceAndroid": "",
+      "performanceIos": "",
+      "tags": "",
+      "createdAt": "",
+      "updatedAt": "",
+      "version": 0,
+      "metadataProvider": "KitsuneDB",
+      "platformMetadataCheckedAt": "2026-10-08T12:10:41.186Z",
+      "platformMetadataState": "UNRESOLVED",
+      "quarantineReason": "manual-import-platform-unresolved",
+      "quarantinedAt": "2026-10-08T12:10:41.810Z"
     }
   ]
 }
