@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-08T12:27:18.034Z",
+  "updated": "2026-10-08T12:27:26.536Z",
   "avatars": [
     {
       "id": "avtr_a3e8487e-2dfa-453d-857e-7ba0466562e2",
@@ -363,32 +363,6 @@
       "quarantineReason": "new-import-platform-unresolved",
       "quarantinedAt": "2026-10-07T13:00:00.224Z",
       "platformMetadataCheckedAt": "2026-10-08T01:37:04.951Z",
-      "reviewReason": "platform-unresolved-after-repair",
-      "movedToReviewAt": "2026-10-08T01:37:24.973Z"
-    },
-    {
-      "id": "avtr_e48c0296-3f71-4778-aa04-9a0407cd5bf8",
-      "name": "Lobster Dog 2․0",
-      "author": "max84444",
-      "authorId": "usr_5a2cc695-afbf-468d-83ea-fbb99231c95c",
-      "description": "Lobster Dog 2․0",
-      "imageUrl": "http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/file/file_f941c2fd-26da-4fdc-8ea6-61cb7260e7dc/1/file",
-      "thumbnailImageUrl": "http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_f941c2fd-26da-4fdc-8ea6-61cb7260e7dc/1/256",
-      "releaseStatus": "public",
-      "searchable": true,
-      "platforms": [],
-      "performancePc": "",
-      "performanceAndroid": "",
-      "performanceIos": "",
-      "tags": "",
-      "createdAt": "2025-12-19T06:58:34.496Z",
-      "updatedAt": "2025-12-19T07:00:13.529Z",
-      "version": 0,
-      "metadataProvider": "PAW",
-      "platformMetadataState": "NEEDS_OWNER_REVIEW",
-      "quarantineReason": "new-import-platform-unresolved",
-      "quarantinedAt": "2026-10-07T13:00:00.224Z",
-      "platformMetadataCheckedAt": "2026-10-08T01:37:05.434Z",
       "reviewReason": "platform-unresolved-after-repair",
       "movedToReviewAt": "2026-10-08T01:37:24.973Z"
     },
