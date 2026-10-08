@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-08T01:38:15.871Z",
+  "updated": "2026-10-08T01:38:32.436Z",
   "avatars": [
     {
       "id": "avtr_e1161d4f-6876-464a-a988-89dcaaf4534c",
@@ -627,32 +627,6 @@
       "movedToReviewAt": "2026-10-08T01:37:24.973Z"
     },
     {
-      "id": "avtr_682065af-19ce-4d6b-8e33-07879d719a91",
-      "name": "bHaptics Hot Dog for Quest",
-      "author": "bHaptics Inc",
-      "authorId": "usr_9e4e8d2d-6d2e-44eb-8889-85ef502800f9",
-      "description": "bHaptics Avatar for Quest",
-      "imageUrl": "http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/file/file_af4b6e4b-1c44-424a-8ce6-7e480ec124ec/1/file",
-      "thumbnailImageUrl": "http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_af4b6e4b-1c44-424a-8ce6-7e480ec124ec/1/256",
-      "releaseStatus": "public",
-      "searchable": true,
-      "platforms": [],
-      "performancePc": "",
-      "performanceAndroid": "",
-      "performanceIos": "",
-      "tags": "",
-      "createdAt": "2025-11-07T11:33:16.704Z",
-      "updatedAt": "2025-11-07T13:54:15.949Z",
-      "version": 0,
-      "metadataProvider": "PAW",
-      "platformMetadataState": "NEEDS_OWNER_REVIEW",
-      "quarantineReason": "new-import-platform-unresolved",
-      "quarantinedAt": "2026-10-07T13:00:00.224Z",
-      "platformMetadataCheckedAt": "2026-10-08T01:37:08.915Z",
-      "reviewReason": "platform-unresolved-after-repair",
-      "movedToReviewAt": "2026-10-08T01:37:24.973Z"
-    },
-    {
       "id": "avtr_eed88d36-a81d-427f-b775-4fa5743a9c22",
       "name": "bHaptics Hot Dog",
       "author": "bHaptics Inc",
@@ -991,5 +965,7 @@
       "movedToReviewAt": "2026-10-08T01:37:24.973Z"
     }
   ],
-  "dismissedIds": []
+  "dismissedIds": [
+    "avtr_682065af-19ce-4d6b-8e33-07879d719a91"
+  ]
 }
