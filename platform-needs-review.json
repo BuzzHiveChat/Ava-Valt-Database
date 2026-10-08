@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-08T12:42:54.033Z",
+  "updated": "2026-10-08T21:39:33.974Z",
   "avatars": [
     {
       "id": "avtr_a95301e4-9c36-48e2-bc82-1528b0dfe78f",
@@ -675,32 +675,6 @@
       "quarantineReason": "new-import-platform-unresolved",
       "quarantinedAt": "2026-10-07T13:00:00.224Z",
       "platformMetadataCheckedAt": "2026-10-08T11:04:01.615Z",
-      "reviewReason": "platform-unresolved-after-repair",
-      "movedToReviewAt": "2026-10-08T11:04:14.536Z"
-    },
-    {
-      "id": "avtr_3f0f7a2f-0d80-43a0-bbe2-a2bc0548838d",
-      "name": "Arcta FT",
-      "author": "ღ Wolfy ღ",
-      "authorId": "usr_a3a6d476-2153-4793-b8a6-d9a5346f025a",
-      "description": "",
-      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_a4ad2158-20c4-4b1d-af48-a65cff81d941/3/file",
-      "thumbnailImageUrl": "https://api.vrchat.cloud/api/1/file/file_a4ad2158-20c4-4b1d-af48-a65cff81d941/3/file",
-      "releaseStatus": "public",
-      "searchable": true,
-      "platforms": [],
-      "performancePc": "",
-      "performanceAndroid": "",
-      "performanceIos": "",
-      "tags": "",
-      "createdAt": "",
-      "updatedAt": "",
-      "version": 0,
-      "metadataProvider": "KitsuneDB",
-      "platformMetadataState": "NEEDS_OWNER_REVIEW",
-      "quarantineReason": "new-import-platform-unresolved",
-      "quarantinedAt": "2026-10-07T13:00:00.224Z",
-      "platformMetadataCheckedAt": "2026-10-08T11:04:03.026Z",
       "reviewReason": "platform-unresolved-after-repair",
       "movedToReviewAt": "2026-10-08T11:04:14.536Z"
     },
@@ -1645,7 +1619,8 @@
     "avtr_682065af-19ce-4d6b-8e33-07879d719a91",
     "avtr_eed88d36-a81d-427f-b775-4fa5743a9c22",
     "avtr_a647fe5d-286e-4c66-b89c-364170190f8f",
-    "avtr_bdccb844-13a6-4a77-bc71-198e96b43d52"
+    "avtr_bdccb844-13a6-4a77-bc71-198e96b43d52",
+    "avtr_3f0f7a2f-0d80-43a0-bbe2-a2bc0548838d"
   ],
   "autoReview": {}
 }
