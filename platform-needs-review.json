@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-08T12:41:25.997Z",
+  "updated": "2026-10-08T12:41:37.575Z",
   "avatars": [
     {
       "id": "avtr_a3e8487e-2dfa-453d-857e-7ba0466562e2",
@@ -129,32 +129,6 @@
       "quarantineReason": "new-import-platform-unresolved",
       "quarantinedAt": "2026-10-07T13:00:00.224Z",
       "platformMetadataCheckedAt": "2026-10-08T01:36:58.928Z",
-      "reviewReason": "platform-unresolved-after-repair",
-      "movedToReviewAt": "2026-10-08T01:37:24.973Z"
-    },
-    {
-      "id": "avtr_71a415ff-8c19-470e-b1d1-48ba11ce07ac",
-      "name": "george dog",
-      "author": "Jackyln Burger",
-      "authorId": "usr_8bf963db-ed3c-48ff-a261-02887c859812",
-      "description": "isn't it a pity?",
-      "imageUrl": "http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/file/file_bdcea5cd-30d3-4879-8f65-d3caa0e0475f/2/file",
-      "thumbnailImageUrl": "http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_bdcea5cd-30d3-4879-8f65-d3caa0e0475f/2/256",
-      "releaseStatus": "public",
-      "searchable": true,
-      "platforms": [],
-      "performancePc": "",
-      "performanceAndroid": "",
-      "performanceIos": "",
-      "tags": "",
-      "createdAt": "2026-03-13T23:43:53.614Z",
-      "updatedAt": "2026-04-01T22:38:53.155Z",
-      "version": 0,
-      "metadataProvider": "PAW",
-      "platformMetadataState": "NEEDS_OWNER_REVIEW",
-      "quarantineReason": "new-import-platform-unresolved",
-      "quarantinedAt": "2026-10-07T13:00:00.224Z",
-      "platformMetadataCheckedAt": "2026-10-08T01:36:59.604Z",
       "reviewReason": "platform-unresolved-after-repair",
       "movedToReviewAt": "2026-10-08T01:37:24.973Z"
     },
