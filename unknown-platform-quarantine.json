@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-08T00:33:53.610Z",
+  "updated": "2026-10-08T00:35:32.754Z",
   "avatars": [
     {
       "id": "avtr_7862f56f-2b9e-43bf-986a-ef9558a41961",
@@ -10023,9 +10023,13 @@
       "updatedAt": "2026-08-22T05:52:37.185Z",
       "version": 0,
       "metadataProvider": "PAW",
-      "platformMetadataState": "DEFERRED",
+      "platformMetadataState": "UNRESOLVED",
       "quarantineReason": "new-import-platform-unresolved",
-      "quarantinedAt": "2026-10-07T12:45:06.373Z"
+      "quarantinedAt": "2026-10-07T12:45:06.373Z",
+      "platformMetadataCheckedAt": "2026-10-08T00:35:07.551Z",
+      "platformRetryCount": 1,
+      "lastPlatformRetryAt": "2026-10-08T00:35:32.753Z",
+      "nextPlatformRetryAt": "2026-10-08T12:35:32.753Z"
     },
     {
       "id": "avtr_aef2c7c5-92f4-4198-85c1-3eee1ada7eb6",
@@ -10046,9 +10050,13 @@
       "updatedAt": "2026-08-10T19:33:53.387Z",
       "version": 0,
       "metadataProvider": "PAW",
-      "platformMetadataState": "DEFERRED",
+      "platformMetadataState": "UNRESOLVED",
       "quarantineReason": "new-import-platform-unresolved",
-      "quarantinedAt": "2026-10-07T12:45:06.373Z"
+      "quarantinedAt": "2026-10-07T12:45:06.373Z",
+      "platformMetadataCheckedAt": "2026-10-08T00:35:07.831Z",
+      "platformRetryCount": 1,
+      "lastPlatformRetryAt": "2026-10-08T00:35:32.753Z",
+      "nextPlatformRetryAt": "2026-10-08T12:35:32.753Z"
     },
     {
       "id": "avtr_9352fcb9-6af1-44e5-9e35-da57e45ef7e9",
@@ -10069,9 +10077,13 @@
       "updatedAt": "2026-08-28T02:48:55.727Z",
       "version": 0,
       "metadataProvider": "PAW",
-      "platformMetadataState": "DEFERRED",
+      "platformMetadataState": "UNRESOLVED",
       "quarantineReason": "new-import-platform-unresolved",
-      "quarantinedAt": "2026-10-07T12:45:06.373Z"
+      "quarantinedAt": "2026-10-07T12:45:06.373Z",
+      "platformMetadataCheckedAt": "2026-10-08T00:35:07.624Z",
+      "platformRetryCount": 1,
+      "lastPlatformRetryAt": "2026-10-08T00:35:32.753Z",
+      "nextPlatformRetryAt": "2026-10-08T12:35:32.753Z"
     },
     {
       "id": "avtr_b703ee3f-4ad0-42c3-be7d-b4f30512e1c5",
@@ -10092,9 +10104,13 @@
       "updatedAt": "2026-08-07T21:29:20.859Z",
       "version": 0,
       "metadataProvider": "PAW",
-      "platformMetadataState": "DEFERRED",
+      "platformMetadataState": "UNRESOLVED",
       "quarantineReason": "new-import-platform-unresolved",
-      "quarantinedAt": "2026-10-07T12:45:06.373Z"
+      "quarantinedAt": "2026-10-07T12:45:06.373Z",
+      "platformMetadataCheckedAt": "2026-10-08T00:35:07.733Z",
+      "platformRetryCount": 1,
+      "lastPlatformRetryAt": "2026-10-08T00:35:32.753Z",
+      "nextPlatformRetryAt": "2026-10-08T12:35:32.753Z"
     },
     {
       "id": "avtr_0cdbcd93-561f-4b79-83fb-4da3bbf1531f",
@@ -10115,9 +10131,13 @@
       "updatedAt": "2026-08-04T00:01:40.556Z",
       "version": 0,
       "metadataProvider": "PAW",
-      "platformMetadataState": "DEFERRED",
+      "platformMetadataState": "UNRESOLVED",
       "quarantineReason": "new-import-platform-unresolved",
-      "quarantinedAt": "2026-10-07T12:45:06.373Z"
+      "quarantinedAt": "2026-10-07T12:45:06.373Z",
+      "platformMetadataCheckedAt": "2026-10-08T00:35:12.286Z",
+      "platformRetryCount": 1,
+      "lastPlatformRetryAt": "2026-10-08T00:35:32.753Z",
+      "nextPlatformRetryAt": "2026-10-08T12:35:32.753Z"
     },
     {
       "id": "avtr_24c16568-902d-43d5-aa9d-9c6e7f5f83e6",
@@ -10138,10 +10158,13 @@
       "updatedAt": "",
       "version": 0,
       "metadataProvider": "KitsuneDB",
-      "platformMetadataCheckedAt": "2026-10-07T12:59:43.283Z",
+      "platformMetadataCheckedAt": "2026-10-08T00:35:12.434Z",
       "platformMetadataState": "UNRESOLVED",
       "quarantineReason": "new-import-platform-unresolved",
-      "quarantinedAt": "2026-10-07T13:00:00.223Z"
+      "quarantinedAt": "2026-10-07T13:00:00.223Z",
+      "platformRetryCount": 1,
+      "lastPlatformRetryAt": "2026-10-08T00:35:32.753Z",
+      "nextPlatformRetryAt": "2026-10-08T12:35:32.753Z"
     },
     {
       "id": "avtr_5a8be619-39eb-4642-8218-af02caf86f36",
@@ -10162,10 +10185,13 @@
       "updatedAt": "",
       "version": 0,
       "metadataProvider": "KitsuneDB",
-      "platformMetadataCheckedAt": "2026-10-07T12:59:44.360Z",
+      "platformMetadataCheckedAt": "2026-10-08T00:35:12.498Z",
       "platformMetadataState": "UNRESOLVED",
       "quarantineReason": "new-import-platform-unresolved",
-      "quarantinedAt": "2026-10-07T13:00:00.223Z"
+      "quarantinedAt": "2026-10-07T13:00:00.223Z",
+      "platformRetryCount": 1,
+      "lastPlatformRetryAt": "2026-10-08T00:35:32.753Z",
+      "nextPlatformRetryAt": "2026-10-08T12:35:32.753Z"
     },
     {
       "id": "avtr_a1914405-6b62-45ff-bdbb-512fdae02b35",
@@ -10186,10 +10212,13 @@
       "updatedAt": "",
       "version": 0,
       "metadataProvider": "KitsuneDB",
-      "platformMetadataCheckedAt": "2026-10-07T12:59:43.283Z",
+      "platformMetadataCheckedAt": "2026-10-08T00:35:13.213Z",
       "platformMetadataState": "UNRESOLVED",
       "quarantineReason": "new-import-platform-unresolved",
-      "quarantinedAt": "2026-10-07T13:00:00.223Z"
+      "quarantinedAt": "2026-10-07T13:00:00.223Z",
+      "platformRetryCount": 1,
+      "lastPlatformRetryAt": "2026-10-08T00:35:32.753Z",
+      "nextPlatformRetryAt": "2026-10-08T12:35:32.753Z"
     },
     {
       "id": "avtr_2c2fec38-a45f-4665-b636-9bc37464e651",
@@ -10210,10 +10239,13 @@
       "updatedAt": "",
       "version": 0,
       "metadataProvider": "KitsuneDB",
-      "platformMetadataCheckedAt": "2026-10-07T12:59:43.283Z",
+      "platformMetadataCheckedAt": "2026-10-08T00:35:15.044Z",
       "platformMetadataState": "UNRESOLVED",
       "quarantineReason": "new-import-platform-unresolved",
-      "quarantinedAt": "2026-10-07T13:00:00.223Z"
+      "quarantinedAt": "2026-10-07T13:00:00.223Z",
+      "platformRetryCount": 1,
+      "lastPlatformRetryAt": "2026-10-08T00:35:32.753Z",
+      "nextPlatformRetryAt": "2026-10-08T12:35:32.753Z"
     },
     {
       "id": "avtr_ac543605-d09b-4751-9697-9650cc5fb084",
@@ -10234,10 +10266,13 @@
       "updatedAt": "",
       "version": 0,
       "metadataProvider": "KitsuneDB",
-      "platformMetadataCheckedAt": "2026-10-07T12:59:44.356Z",
+      "platformMetadataCheckedAt": "2026-10-08T00:35:15.197Z",
       "platformMetadataState": "UNRESOLVED",
       "quarantineReason": "new-import-platform-unresolved",
-      "quarantinedAt": "2026-10-07T13:00:00.223Z"
+      "quarantinedAt": "2026-10-07T13:00:00.223Z",
+      "platformRetryCount": 1,
+      "lastPlatformRetryAt": "2026-10-08T00:35:32.753Z",
+      "nextPlatformRetryAt": "2026-10-08T12:35:32.753Z"
     },
     {
       "id": "avtr_5374cbe5-455d-4f26-b4c5-932aa8b18728",
@@ -10258,10 +10293,13 @@
       "updatedAt": "",
       "version": 0,
       "metadataProvider": "KitsuneDB",
-      "platformMetadataCheckedAt": "2026-10-07T12:59:44.364Z",
+      "platformMetadataCheckedAt": "2026-10-08T00:35:15.174Z",
       "platformMetadataState": "UNRESOLVED",
       "quarantineReason": "new-import-platform-unresolved",
-      "quarantinedAt": "2026-10-07T13:00:00.223Z"
+      "quarantinedAt": "2026-10-07T13:00:00.223Z",
+      "platformRetryCount": 1,
+      "lastPlatformRetryAt": "2026-10-08T00:35:32.753Z",
+      "nextPlatformRetryAt": "2026-10-08T12:35:32.753Z"
     },
     {
       "id": "avtr_92d588b2-b5fc-4142-be57-73ecd686b286",
@@ -10282,34 +10320,13 @@
       "updatedAt": "",
       "version": 0,
       "metadataProvider": "KitsuneDB",
-      "platformMetadataCheckedAt": "2026-10-07T12:59:44.350Z",
+      "platformMetadataCheckedAt": "2026-10-08T00:35:15.381Z",
       "platformMetadataState": "UNRESOLVED",
       "quarantineReason": "new-import-platform-unresolved",
-      "quarantinedAt": "2026-10-07T13:00:00.223Z"
-    },
-    {
-      "id": "avtr_2acfe9b0-636d-42c5-9b70-633b2ddaae52",
-      "name": "SERAǃ",
-      "author": "VAMPDOG",
-      "authorId": "usr_b2970015-1c4d-4bf9-bd74-f52dfff93721",
-      "description": "",
-      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_238b4285-6a67-4753-9c14-b16eb5b0334c/2/file",
-      "thumbnailImageUrl": "https://api.vrchat.cloud/api/1/file/file_238b4285-6a67-4753-9c14-b16eb5b0334c/2/file",
-      "releaseStatus": "public",
-      "searchable": true,
-      "platforms": [],
-      "performancePc": "",
-      "performanceAndroid": "",
-      "performanceIos": "",
-      "tags": "",
-      "createdAt": "",
-      "updatedAt": "",
-      "version": 0,
-      "metadataProvider": "KitsuneDB",
-      "platformMetadataCheckedAt": "2026-10-07T12:59:45.359Z",
-      "platformMetadataState": "UNRESOLVED",
-      "quarantineReason": "new-import-platform-unresolved",
-      "quarantinedAt": "2026-10-07T13:00:00.223Z"
+      "quarantinedAt": "2026-10-07T13:00:00.223Z",
+      "platformRetryCount": 1,
+      "lastPlatformRetryAt": "2026-10-08T00:35:32.753Z",
+      "nextPlatformRetryAt": "2026-10-08T12:35:32.753Z"
     },
     {
       "id": "avtr_15ba5edb-cf13-4dc8-a0eb-f645f3e4bd41",
@@ -10330,58 +10347,13 @@
       "updatedAt": "",
       "version": 0,
       "metadataProvider": "KitsuneDB",
-      "platformMetadataCheckedAt": "2026-10-07T12:59:45.455Z",
+      "platformMetadataCheckedAt": "2026-10-08T00:35:17.531Z",
       "platformMetadataState": "UNRESOLVED",
       "quarantineReason": "new-import-platform-unresolved",
-      "quarantinedAt": "2026-10-07T13:00:00.223Z"
-    },
-    {
-      "id": "avtr_efdafcbb-afb0-4eb1-9223-8612c5916fcc",
-      "name": "Big Bird",
-      "author": "TCLDOG",
-      "authorId": "usr_8b4f306f-58d2-40c2-a04d-4a89f69a74d4",
-      "description": "",
-      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_3e24bf38-13f7-4403-9a76-679f98d13f73/1/file",
-      "thumbnailImageUrl": "https://api.vrchat.cloud/api/1/file/file_3e24bf38-13f7-4403-9a76-679f98d13f73/1/file",
-      "releaseStatus": "public",
-      "searchable": true,
-      "platforms": [],
-      "performancePc": "",
-      "performanceAndroid": "",
-      "performanceIos": "",
-      "tags": "",
-      "createdAt": "",
-      "updatedAt": "",
-      "version": 0,
-      "metadataProvider": "KitsuneDB",
-      "platformMetadataCheckedAt": "2026-10-07T12:59:45.453Z",
-      "platformMetadataState": "UNRESOLVED",
-      "quarantineReason": "new-import-platform-unresolved",
-      "quarantinedAt": "2026-10-07T13:00:00.223Z"
-    },
-    {
-      "id": "avtr_bff386c1-4bed-4cf5-8912-002e3387cc04",
-      "name": "The Dog （Duck Season）",
-      "author": "webbtail245",
-      "authorId": "usr_085c72ff-6b49-49b0-94c0-522019bacac1",
-      "description": "",
-      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_8a69e4f7-48b9-4eb1-b404-c84d9388aeaa/1/file",
-      "thumbnailImageUrl": "https://api.vrchat.cloud/api/1/file/file_8a69e4f7-48b9-4eb1-b404-c84d9388aeaa/1/file",
-      "releaseStatus": "public",
-      "searchable": true,
-      "platforms": [],
-      "performancePc": "",
-      "performanceAndroid": "",
-      "performanceIos": "",
-      "tags": "",
-      "createdAt": "",
-      "updatedAt": "",
-      "version": 0,
-      "metadataProvider": "KitsuneDB",
-      "platformMetadataCheckedAt": "2026-10-07T12:59:45.636Z",
-      "platformMetadataState": "UNRESOLVED",
-      "quarantineReason": "new-import-platform-unresolved",
-      "quarantinedAt": "2026-10-07T13:00:00.223Z"
+      "quarantinedAt": "2026-10-07T13:00:00.223Z",
+      "platformRetryCount": 1,
+      "lastPlatformRetryAt": "2026-10-08T00:35:32.753Z",
+      "nextPlatformRetryAt": "2026-10-08T12:35:32.753Z"
     },
     {
       "id": "avtr_cdefd7bb-703d-4fcb-973f-1f521b37057e",
@@ -10402,10 +10374,13 @@
       "updatedAt": "",
       "version": 0,
       "metadataProvider": "KitsuneDB",
-      "platformMetadataCheckedAt": "2026-10-07T12:59:46.263Z",
+      "platformMetadataCheckedAt": "2026-10-08T00:35:17.087Z",
       "platformMetadataState": "UNRESOLVED",
       "quarantineReason": "new-import-platform-unresolved",
-      "quarantinedAt": "2026-10-07T13:00:00.223Z"
+      "quarantinedAt": "2026-10-07T13:00:00.223Z",
+      "platformRetryCount": 1,
+      "lastPlatformRetryAt": "2026-10-08T00:35:32.753Z",
+      "nextPlatformRetryAt": "2026-10-08T12:35:32.753Z"
     },
     {
       "id": "avtr_0a7e9dcc-0ca3-46fb-ab19-a728629c6373",
@@ -10426,10 +10401,13 @@
       "updatedAt": "",
       "version": 0,
       "metadataProvider": "KitsuneDB",
-      "platformMetadataCheckedAt": "2026-10-07T12:59:46.419Z",
+      "platformMetadataCheckedAt": "2026-10-08T00:35:17.558Z",
       "platformMetadataState": "UNRESOLVED",
       "quarantineReason": "new-import-platform-unresolved",
-      "quarantinedAt": "2026-10-07T13:00:00.223Z"
+      "quarantinedAt": "2026-10-07T13:00:00.223Z",
+      "platformRetryCount": 1,
+      "lastPlatformRetryAt": "2026-10-08T00:35:32.753Z",
+      "nextPlatformRetryAt": "2026-10-08T12:35:32.753Z"
     },
     {
       "id": "avtr_efc49686-79bd-450a-80eb-df08b9ae9b85",
@@ -10450,10 +10428,13 @@
       "updatedAt": "",
       "version": 0,
       "metadataProvider": "KitsuneDB",
-      "platformMetadataCheckedAt": "2026-10-07T12:59:46.428Z",
+      "platformMetadataCheckedAt": "2026-10-08T00:35:17.883Z",
       "platformMetadataState": "UNRESOLVED",
       "quarantineReason": "new-import-platform-unresolved",
-      "quarantinedAt": "2026-10-07T13:00:00.223Z"
+      "quarantinedAt": "2026-10-07T13:00:00.223Z",
+      "platformRetryCount": 1,
+      "lastPlatformRetryAt": "2026-10-08T00:35:32.753Z",
+      "nextPlatformRetryAt": "2026-10-08T12:35:32.753Z"
     },
     {
       "id": "avtr_3a8f3700-a473-41ae-b168-cf3e1e0329c6",
@@ -10474,58 +10455,13 @@
       "updatedAt": "",
       "version": 0,
       "metadataProvider": "KitsuneDB",
-      "platformMetadataCheckedAt": "2026-10-07T12:59:46.509Z",
+      "platformMetadataCheckedAt": "2026-10-08T00:35:18.585Z",
       "platformMetadataState": "UNRESOLVED",
       "quarantineReason": "new-import-platform-unresolved",
-      "quarantinedAt": "2026-10-07T13:00:00.223Z"
-    },
-    {
-      "id": "avtr_a11de6e1-1f53-481e-944f-e3ad08b8db46",
-      "name": "African Wild Dog F",
-      "author": "Morsof",
-      "authorId": "usr_9379e8c2-ae29-48bf-aee4-0248cb363d3e",
-      "description": "",
-      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_4112b9b0-96f4-4cf4-af12-906a99c17be2/2/file",
-      "thumbnailImageUrl": "https://api.vrchat.cloud/api/1/file/file_4112b9b0-96f4-4cf4-af12-906a99c17be2/2/file",
-      "releaseStatus": "public",
-      "searchable": true,
-      "platforms": [],
-      "performancePc": "",
-      "performanceAndroid": "",
-      "performanceIos": "",
-      "tags": "",
-      "createdAt": "",
-      "updatedAt": "",
-      "version": 0,
-      "metadataProvider": "KitsuneDB",
-      "platformMetadataCheckedAt": "2026-10-07T12:59:47.044Z",
-      "platformMetadataState": "UNRESOLVED",
-      "quarantineReason": "new-import-platform-unresolved",
-      "quarantinedAt": "2026-10-07T13:00:00.223Z"
-    },
-    {
-      "id": "avtr_55566f2b-59b4-4841-bd9d-ad616c62e1d9",
-      "name": "Highschool Dogday （read desc）",
-      "author": "ΣPSON",
-      "authorId": "usr_3af4d748-c598-4869-a483-13de61229284",
-      "description": "",
-      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_2d5b9af5-5b7f-4801-9ce1-673bd1a5b151/3/file",
-      "thumbnailImageUrl": "https://api.vrchat.cloud/api/1/file/file_2d5b9af5-5b7f-4801-9ce1-673bd1a5b151/3/file",
-      "releaseStatus": "public",
-      "searchable": true,
-      "platforms": [],
-      "performancePc": "",
-      "performanceAndroid": "",
-      "performanceIos": "",
-      "tags": "",
-      "createdAt": "",
-      "updatedAt": "",
-      "version": 0,
-      "metadataProvider": "KitsuneDB",
-      "platformMetadataCheckedAt": "2026-10-07T12:59:47.297Z",
-      "platformMetadataState": "UNRESOLVED",
-      "quarantineReason": "new-import-platform-unresolved",
-      "quarantinedAt": "2026-10-07T13:00:00.223Z"
+      "quarantinedAt": "2026-10-07T13:00:00.223Z",
+      "platformRetryCount": 1,
+      "lastPlatformRetryAt": "2026-10-08T00:35:32.753Z",
+      "nextPlatformRetryAt": "2026-10-08T12:35:32.753Z"
     },
     {
       "id": "avtr_52044b1b-52e5-4c18-806f-4733960b92d0",
@@ -10546,10 +10482,13 @@
       "updatedAt": "",
       "version": 0,
       "metadataProvider": "KitsuneDB",
-      "platformMetadataCheckedAt": "2026-10-07T12:59:47.357Z",
+      "platformMetadataCheckedAt": "2026-10-08T00:35:19.502Z",
       "platformMetadataState": "UNRESOLVED",
       "quarantineReason": "new-import-platform-unresolved",
-      "quarantinedAt": "2026-10-07T13:00:00.223Z"
+      "quarantinedAt": "2026-10-07T13:00:00.223Z",
+      "platformRetryCount": 1,
+      "lastPlatformRetryAt": "2026-10-08T00:35:32.753Z",
+      "nextPlatformRetryAt": "2026-10-08T12:35:32.753Z"
     },
     {
       "id": "avtr_cda59390-3731-42b1-b0e8-eb57aab9c7dc",
@@ -10570,10 +10509,13 @@
       "updatedAt": "",
       "version": 0,
       "metadataProvider": "KitsuneDB",
-      "platformMetadataCheckedAt": "2026-10-07T12:59:47.714Z",
+      "platformMetadataCheckedAt": "2026-10-08T00:35:19.800Z",
       "platformMetadataState": "UNRESOLVED",
       "quarantineReason": "new-import-platform-unresolved",
-      "quarantinedAt": "2026-10-07T13:00:00.223Z"
+      "quarantinedAt": "2026-10-07T13:00:00.223Z",
+      "platformRetryCount": 1,
+      "lastPlatformRetryAt": "2026-10-08T00:35:32.753Z",
+      "nextPlatformRetryAt": "2026-10-08T12:35:32.753Z"
     },
     {
       "id": "avtr_6c5346c1-ad63-4a51-b487-8cb5a46be3b9",
@@ -10594,10 +10536,13 @@
       "updatedAt": "",
       "version": 0,
       "metadataProvider": "KitsuneDB",
-      "platformMetadataCheckedAt": "2026-10-07T12:59:48.030Z",
+      "platformMetadataCheckedAt": "2026-10-08T00:35:19.781Z",
       "platformMetadataState": "UNRESOLVED",
       "quarantineReason": "new-import-platform-unresolved",
-      "quarantinedAt": "2026-10-07T13:00:00.223Z"
+      "quarantinedAt": "2026-10-07T13:00:00.223Z",
+      "platformRetryCount": 1,
+      "lastPlatformRetryAt": "2026-10-08T00:35:32.753Z",
+      "nextPlatformRetryAt": "2026-10-08T12:35:32.753Z"
     },
     {
       "id": "avtr_0f39800b-e43f-48e7-bc1b-8ba2e5ef4e3e",
@@ -10618,10 +10563,13 @@
       "updatedAt": "",
       "version": 0,
       "metadataProvider": "KitsuneDB",
-      "platformMetadataCheckedAt": "2026-10-07T12:59:48.032Z",
+      "platformMetadataCheckedAt": "2026-10-08T00:35:20.093Z",
       "platformMetadataState": "UNRESOLVED",
       "quarantineReason": "new-import-platform-unresolved",
-      "quarantinedAt": "2026-10-07T13:00:00.223Z"
+      "quarantinedAt": "2026-10-07T13:00:00.223Z",
+      "platformRetryCount": 1,
+      "lastPlatformRetryAt": "2026-10-08T00:35:32.753Z",
+      "nextPlatformRetryAt": "2026-10-08T12:35:32.753Z"
     },
     {
       "id": "avtr_50b3f76c-b0fd-4089-a195-97229c2f5b85",
@@ -10642,58 +10590,13 @@
       "updatedAt": "",
       "version": 0,
       "metadataProvider": "KitsuneDB",
-      "platformMetadataCheckedAt": "2026-10-07T12:59:48.071Z",
+      "platformMetadataCheckedAt": "2026-10-08T00:35:21.100Z",
       "platformMetadataState": "UNRESOLVED",
       "quarantineReason": "new-import-platform-unresolved",
-      "quarantinedAt": "2026-10-07T13:00:00.223Z"
-    },
-    {
-      "id": "avtr_1d4259f8-2ee9-48e0-b2c3-7fd3a9f7cb90",
-      "name": "Odogaron Girl",
-      "author": "Steviation",
-      "authorId": "usr_0ee71854-4066-4256-ba70-fdc21d3f1937",
-      "description": "",
-      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_c1fadebb-5e7e-4e50-8944-137686bcddf4/2/file",
-      "thumbnailImageUrl": "https://api.vrchat.cloud/api/1/file/file_c1fadebb-5e7e-4e50-8944-137686bcddf4/2/file",
-      "releaseStatus": "public",
-      "searchable": true,
-      "platforms": [],
-      "performancePc": "",
-      "performanceAndroid": "",
-      "performanceIos": "",
-      "tags": "",
-      "createdAt": "",
-      "updatedAt": "",
-      "version": 0,
-      "metadataProvider": "KitsuneDB",
-      "platformMetadataCheckedAt": "2026-10-07T12:59:48.288Z",
-      "platformMetadataState": "UNRESOLVED",
-      "quarantineReason": "new-import-platform-unresolved",
-      "quarantinedAt": "2026-10-07T13:00:00.223Z"
-    },
-    {
-      "id": "avtr_4f44f850-f48d-4d3d-baa9-cb4f2de42b65",
-      "name": "Angel Devil",
-      "author": "Strawberry Dogg",
-      "authorId": "usr_dc19bc6c-38a9-46d5-b9e3-d031a296b735",
-      "description": "",
-      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_22d3d6f2-1ab2-437f-9ba6-eddc6f0cc30a/1/file",
-      "thumbnailImageUrl": "https://api.vrchat.cloud/api/1/file/file_22d3d6f2-1ab2-437f-9ba6-eddc6f0cc30a/1/file",
-      "releaseStatus": "public",
-      "searchable": true,
-      "platforms": [],
-      "performancePc": "",
-      "performanceAndroid": "",
-      "performanceIos": "",
-      "tags": "",
-      "createdAt": "",
-      "updatedAt": "",
-      "version": 0,
-      "metadataProvider": "KitsuneDB",
-      "platformMetadataCheckedAt": "2026-10-07T12:59:48.823Z",
-      "platformMetadataState": "UNRESOLVED",
-      "quarantineReason": "new-import-platform-unresolved",
-      "quarantinedAt": "2026-10-07T13:00:00.223Z"
+      "quarantinedAt": "2026-10-07T13:00:00.223Z",
+      "platformRetryCount": 1,
+      "lastPlatformRetryAt": "2026-10-08T00:35:32.753Z",
+      "nextPlatformRetryAt": "2026-10-08T12:35:32.753Z"
     },
     {
       "id": "avtr_16be1b5e-46de-4a18-938d-f2abb6382836",
@@ -10714,10 +10617,13 @@
       "updatedAt": "",
       "version": 0,
       "metadataProvider": "KitsuneDB",
-      "platformMetadataCheckedAt": "2026-10-07T12:59:48.810Z",
+      "platformMetadataCheckedAt": "2026-10-08T00:35:21.777Z",
       "platformMetadataState": "UNRESOLVED",
       "quarantineReason": "new-import-platform-unresolved",
-      "quarantinedAt": "2026-10-07T13:00:00.223Z"
+      "quarantinedAt": "2026-10-07T13:00:00.223Z",
+      "platformRetryCount": 1,
+      "lastPlatformRetryAt": "2026-10-08T00:35:32.753Z",
+      "nextPlatformRetryAt": "2026-10-08T12:35:32.753Z"
     },
     {
       "id": "avtr_8fa33d12-3893-46b1-87ba-de5dd4279a6d",
@@ -10738,58 +10644,13 @@
       "updatedAt": "",
       "version": 0,
       "metadataProvider": "KitsuneDB",
-      "platformMetadataCheckedAt": "2026-10-07T12:59:48.856Z",
+      "platformMetadataCheckedAt": "2026-10-08T00:35:21.801Z",
       "platformMetadataState": "UNRESOLVED",
       "quarantineReason": "new-import-platform-unresolved",
-      "quarantinedAt": "2026-10-07T13:00:00.223Z"
-    },
-    {
-      "id": "avtr_b5503b6a-6d95-43f8-92f0-c72f0510769a",
-      "name": "DogBot-Punk",
-      "author": "HyruleDefender",
-      "authorId": "usr_a632379c-3442-4bb8-8c93-a625658f8551",
-      "description": "",
-      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_3df2f525-0be0-4819-96f2-40c7f61a4fc5/1/file",
-      "thumbnailImageUrl": "https://api.vrchat.cloud/api/1/file/file_3df2f525-0be0-4819-96f2-40c7f61a4fc5/1/file",
-      "releaseStatus": "public",
-      "searchable": true,
-      "platforms": [],
-      "performancePc": "",
-      "performanceAndroid": "",
-      "performanceIos": "",
-      "tags": "",
-      "createdAt": "",
-      "updatedAt": "",
-      "version": 0,
-      "metadataProvider": "KitsuneDB",
-      "platformMetadataCheckedAt": "2026-10-07T12:59:48.932Z",
-      "platformMetadataState": "UNRESOLVED",
-      "quarantineReason": "new-import-platform-unresolved",
-      "quarantinedAt": "2026-10-07T13:00:00.223Z"
-    },
-    {
-      "id": "avtr_9cfd32d0-ea48-4c65-b0fa-6e84c077b352",
-      "name": "Ted The Dog",
-      "author": "baby goth",
-      "authorId": "usr_41a4d6a5-67c2-439b-961f-f752785212ef",
-      "description": "",
-      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_afd6c3fc-6464-4ddd-9391-9b7641c39f81/1/file",
-      "thumbnailImageUrl": "https://api.vrchat.cloud/api/1/file/file_afd6c3fc-6464-4ddd-9391-9b7641c39f81/1/file",
-      "releaseStatus": "public",
-      "searchable": true,
-      "platforms": [],
-      "performancePc": "",
-      "performanceAndroid": "",
-      "performanceIos": "",
-      "tags": "",
-      "createdAt": "",
-      "updatedAt": "",
-      "version": 0,
-      "metadataProvider": "KitsuneDB",
-      "platformMetadataCheckedAt": "2026-10-07T12:59:49.473Z",
-      "platformMetadataState": "UNRESOLVED",
-      "quarantineReason": "new-import-platform-unresolved",
-      "quarantinedAt": "2026-10-07T13:00:00.223Z"
+      "quarantinedAt": "2026-10-07T13:00:00.223Z",
+      "platformRetryCount": 1,
+      "lastPlatformRetryAt": "2026-10-08T00:35:32.753Z",
+      "nextPlatformRetryAt": "2026-10-08T12:35:32.753Z"
     },
     {
       "id": "avtr_c9d86c79-4f36-4734-a0e5-a3668cbc5d71",
@@ -10810,34 +10671,13 @@
       "updatedAt": "",
       "version": 0,
       "metadataProvider": "KitsuneDB",
-      "platformMetadataCheckedAt": "2026-10-07T12:59:49.546Z",
+      "platformMetadataCheckedAt": "2026-10-08T00:35:22.126Z",
       "platformMetadataState": "UNRESOLVED",
       "quarantineReason": "new-import-platform-unresolved",
-      "quarantinedAt": "2026-10-07T13:00:00.223Z"
-    },
-    {
-      "id": "avtr_5073c532-1cde-440b-b3d4-8d25248c2dc5",
-      "name": "Dog",
-      "author": "RossoBlack",
-      "authorId": "usr_87247fed-fbbb-4aa5-8fd9-0277ec3fd3b6",
-      "description": "",
-      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_35572514-7908-4183-a51f-2459cd60fb69/1/file",
-      "thumbnailImageUrl": "https://api.vrchat.cloud/api/1/file/file_35572514-7908-4183-a51f-2459cd60fb69/1/file",
-      "releaseStatus": "public",
-      "searchable": true,
-      "platforms": [],
-      "performancePc": "",
-      "performanceAndroid": "",
-      "performanceIos": "",
-      "tags": "",
-      "createdAt": "",
-      "updatedAt": "",
-      "version": 0,
-      "metadataProvider": "KitsuneDB",
-      "platformMetadataCheckedAt": "2026-10-07T12:59:49.591Z",
-      "platformMetadataState": "UNRESOLVED",
-      "quarantineReason": "new-import-platform-unresolved",
-      "quarantinedAt": "2026-10-07T13:00:00.223Z"
+      "quarantinedAt": "2026-10-07T13:00:00.223Z",
+      "platformRetryCount": 1,
+      "lastPlatformRetryAt": "2026-10-08T00:35:32.753Z",
+      "nextPlatformRetryAt": "2026-10-08T12:35:32.753Z"
     },
     {
       "id": "avtr_7c1051ea-5536-482b-b0a7-e5e44ad912dc",
@@ -10858,10 +10698,13 @@
       "updatedAt": "",
       "version": 0,
       "metadataProvider": "KitsuneDB",
-      "platformMetadataCheckedAt": "2026-10-07T12:59:49.806Z",
+      "platformMetadataCheckedAt": "2026-10-08T00:35:22.772Z",
       "platformMetadataState": "UNRESOLVED",
       "quarantineReason": "new-import-platform-unresolved",
-      "quarantinedAt": "2026-10-07T13:00:00.223Z"
+      "quarantinedAt": "2026-10-07T13:00:00.223Z",
+      "platformRetryCount": 1,
+      "lastPlatformRetryAt": "2026-10-08T00:35:32.753Z",
+      "nextPlatformRetryAt": "2026-10-08T12:35:32.753Z"
     },
     {
       "id": "avtr_045935c8-b5a5-44a4-8840-ff58f29125a5",
@@ -10882,10 +10725,13 @@
       "updatedAt": "",
       "version": 0,
       "metadataProvider": "KitsuneDB",
-      "platformMetadataCheckedAt": "2026-10-07T12:59:50.025Z",
+      "platformMetadataCheckedAt": "2026-10-08T00:35:23.325Z",
       "platformMetadataState": "UNRESOLVED",
       "quarantineReason": "new-import-platform-unresolved",
-      "quarantinedAt": "2026-10-07T13:00:00.223Z"
+      "quarantinedAt": "2026-10-07T13:00:00.223Z",
+      "platformRetryCount": 1,
+      "lastPlatformRetryAt": "2026-10-08T00:35:32.753Z",
+      "nextPlatformRetryAt": "2026-10-08T12:35:32.753Z"
     },
     {
       "id": "avtr_2a6e87ac-418c-48d8-a937-98bc9f2a354e",
@@ -10906,10 +10752,13 @@
       "updatedAt": "",
       "version": 0,
       "metadataProvider": "KitsuneDB",
-      "platformMetadataCheckedAt": "2026-10-07T12:59:50.257Z",
+      "platformMetadataCheckedAt": "2026-10-08T00:35:23.115Z",
       "platformMetadataState": "UNRESOLVED",
       "quarantineReason": "new-import-platform-unresolved",
-      "quarantinedAt": "2026-10-07T13:00:00.223Z"
+      "quarantinedAt": "2026-10-07T13:00:00.223Z",
+      "platformRetryCount": 1,
+      "lastPlatformRetryAt": "2026-10-08T00:35:32.753Z",
+      "nextPlatformRetryAt": "2026-10-08T12:35:32.753Z"
     },
     {
       "id": "avtr_0862c695-b8b7-4bba-9b76-992b77ef5722",
@@ -10930,10 +10779,13 @@
       "updatedAt": "",
       "version": 0,
       "metadataProvider": "KitsuneDB",
-      "platformMetadataCheckedAt": "2026-10-07T12:59:50.275Z",
+      "platformMetadataCheckedAt": "2026-10-08T00:35:23.496Z",
       "platformMetadataState": "UNRESOLVED",
       "quarantineReason": "new-import-platform-unresolved",
-      "quarantinedAt": "2026-10-07T13:00:00.223Z"
+      "quarantinedAt": "2026-10-07T13:00:00.223Z",
+      "platformRetryCount": 1,
+      "lastPlatformRetryAt": "2026-10-08T00:35:32.753Z",
+      "nextPlatformRetryAt": "2026-10-08T12:35:32.753Z"
     },
     {
       "id": "avtr_c05b3e70-ef8d-4bb9-b815-40ea735ad317",
@@ -10954,10 +10806,13 @@
       "updatedAt": "",
       "version": 0,
       "metadataProvider": "KitsuneDB",
-      "platformMetadataCheckedAt": "2026-10-07T12:59:50.358Z",
+      "platformMetadataCheckedAt": "2026-10-08T00:35:24.311Z",
       "platformMetadataState": "UNRESOLVED",
       "quarantineReason": "new-import-platform-unresolved",
-      "quarantinedAt": "2026-10-07T13:00:00.223Z"
+      "quarantinedAt": "2026-10-07T13:00:00.223Z",
+      "platformRetryCount": 1,
+      "lastPlatformRetryAt": "2026-10-08T00:35:32.753Z",
+      "nextPlatformRetryAt": "2026-10-08T12:35:32.753Z"
     },
     {
       "id": "avtr_cf8e2398-841f-4b24-a488-5c718384beb6",
@@ -10978,10 +10833,13 @@
       "updatedAt": "",
       "version": 0,
       "metadataProvider": "KitsuneDB",
-      "platformMetadataCheckedAt": "2026-10-07T12:59:50.589Z",
+      "platformMetadataCheckedAt": "2026-10-08T00:35:24.195Z",
       "platformMetadataState": "UNRESOLVED",
       "quarantineReason": "new-import-platform-unresolved",
-      "quarantinedAt": "2026-10-07T13:00:00.223Z"
+      "quarantinedAt": "2026-10-07T13:00:00.223Z",
+      "platformRetryCount": 1,
+      "lastPlatformRetryAt": "2026-10-08T00:35:32.753Z",
+      "nextPlatformRetryAt": "2026-10-08T12:35:32.753Z"
     },
     {
       "id": "avtr_f4af9684-9877-405d-97c3-45a4267f418b",
@@ -11002,10 +10860,13 @@
       "updatedAt": "",
       "version": 0,
       "metadataProvider": "KitsuneDB",
-      "platformMetadataCheckedAt": "2026-10-07T12:59:50.877Z",
+      "platformMetadataCheckedAt": "2026-10-08T00:35:24.416Z",
       "platformMetadataState": "UNRESOLVED",
       "quarantineReason": "new-import-platform-unresolved",
-      "quarantinedAt": "2026-10-07T13:00:00.223Z"
+      "quarantinedAt": "2026-10-07T13:00:00.223Z",
+      "platformRetryCount": 1,
+      "lastPlatformRetryAt": "2026-10-08T00:35:32.753Z",
+      "nextPlatformRetryAt": "2026-10-08T12:35:32.753Z"
     },
     {
       "id": "avtr_ba2b61ce-fe89-4b30-8a2c-c1c596d97db2",
@@ -11026,10 +10887,13 @@
       "updatedAt": "",
       "version": 0,
       "metadataProvider": "KitsuneDB",
-      "platformMetadataCheckedAt": "2026-10-07T12:59:50.937Z",
+      "platformMetadataCheckedAt": "2026-10-08T00:35:24.718Z",
       "platformMetadataState": "UNRESOLVED",
       "quarantineReason": "new-import-platform-unresolved",
-      "quarantinedAt": "2026-10-07T13:00:00.223Z"
+      "quarantinedAt": "2026-10-07T13:00:00.223Z",
+      "platformRetryCount": 1,
+      "lastPlatformRetryAt": "2026-10-08T00:35:32.753Z",
+      "nextPlatformRetryAt": "2026-10-08T12:35:32.753Z"
     },
     {
       "id": "avtr_c6823347-db30-419f-8988-f0dddc1353c1",
@@ -11050,10 +10914,13 @@
       "updatedAt": "",
       "version": 0,
       "metadataProvider": "KitsuneDB",
-      "platformMetadataCheckedAt": "2026-10-07T12:59:51.017Z",
+      "platformMetadataCheckedAt": "2026-10-08T00:35:25.477Z",
       "platformMetadataState": "UNRESOLVED",
       "quarantineReason": "new-import-platform-unresolved",
-      "quarantinedAt": "2026-10-07T13:00:00.223Z"
+      "quarantinedAt": "2026-10-07T13:00:00.223Z",
+      "platformRetryCount": 1,
+      "lastPlatformRetryAt": "2026-10-08T00:35:32.753Z",
+      "nextPlatformRetryAt": "2026-10-08T12:35:32.753Z"
     },
     {
       "id": "avtr_1d1e74de-1210-4bbc-86a0-b6ba5f6a1ab4",
@@ -11074,10 +10941,13 @@
       "updatedAt": "",
       "version": 0,
       "metadataProvider": "KitsuneDB",
-      "platformMetadataCheckedAt": "2026-10-07T12:59:51.141Z",
+      "platformMetadataCheckedAt": "2026-10-08T00:35:25.648Z",
       "platformMetadataState": "UNRESOLVED",
       "quarantineReason": "new-import-platform-unresolved",
-      "quarantinedAt": "2026-10-07T13:00:00.223Z"
+      "quarantinedAt": "2026-10-07T13:00:00.223Z",
+      "platformRetryCount": 1,
+      "lastPlatformRetryAt": "2026-10-08T00:35:32.753Z",
+      "nextPlatformRetryAt": "2026-10-08T12:35:32.753Z"
     },
     {
       "id": "avtr_6b0cd2ce-59f5-4d05-8525-e19d14c7eb61",
@@ -11098,10 +10968,13 @@
       "updatedAt": "",
       "version": 0,
       "metadataProvider": "KitsuneDB",
-      "platformMetadataCheckedAt": "2026-10-07T12:59:51.469Z",
+      "platformMetadataCheckedAt": "2026-10-08T00:35:25.690Z",
       "platformMetadataState": "UNRESOLVED",
       "quarantineReason": "new-import-platform-unresolved",
-      "quarantinedAt": "2026-10-07T13:00:00.223Z"
+      "quarantinedAt": "2026-10-07T13:00:00.223Z",
+      "platformRetryCount": 1,
+      "lastPlatformRetryAt": "2026-10-08T00:35:32.753Z",
+      "nextPlatformRetryAt": "2026-10-08T12:35:32.753Z"
     },
     {
       "id": "avtr_74f67b62-7e79-4b44-944e-06adfde71ffe",
@@ -11122,34 +10995,13 @@
       "updatedAt": "",
       "version": 0,
       "metadataProvider": "KitsuneDB",
-      "platformMetadataCheckedAt": "2026-10-07T12:59:51.597Z",
+      "platformMetadataCheckedAt": "2026-10-08T00:35:25.914Z",
       "platformMetadataState": "UNRESOLVED",
       "quarantineReason": "new-import-platform-unresolved",
-      "quarantinedAt": "2026-10-07T13:00:00.223Z"
-    },
-    {
-      "id": "avtr_1ce1a1b9-6f32-4496-bb89-cac1269c002b",
-      "name": "Dog",
-      "author": "FusingPeak",
-      "authorId": "usr_9797d447-8339-4d4e-9eb8-6c8e836fb0f9",
-      "description": "",
-      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_be9e5512-be62-4981-95be-59d62260dc52/1/file",
-      "thumbnailImageUrl": "https://api.vrchat.cloud/api/1/file/file_be9e5512-be62-4981-95be-59d62260dc52/1/file",
-      "releaseStatus": "public",
-      "searchable": true,
-      "platforms": [],
-      "performancePc": "",
-      "performanceAndroid": "",
-      "performanceIos": "",
-      "tags": "",
-      "createdAt": "",
-      "updatedAt": "",
-      "version": 0,
-      "metadataProvider": "KitsuneDB",
-      "platformMetadataCheckedAt": "2026-10-07T12:59:51.667Z",
-      "platformMetadataState": "UNRESOLVED",
-      "quarantineReason": "new-import-platform-unresolved",
-      "quarantinedAt": "2026-10-07T13:00:00.223Z"
+      "quarantinedAt": "2026-10-07T13:00:00.223Z",
+      "platformRetryCount": 1,
+      "lastPlatformRetryAt": "2026-10-08T00:35:32.753Z",
+      "nextPlatformRetryAt": "2026-10-08T12:35:32.753Z"
     },
     {
       "id": "avtr_3b6153c1-fe2d-4d62-a796-1ad802c59281",
@@ -11170,10 +11022,13 @@
       "updatedAt": "",
       "version": 0,
       "metadataProvider": "KitsuneDB",
-      "platformMetadataCheckedAt": "2026-10-07T12:59:51.800Z",
+      "platformMetadataCheckedAt": "2026-10-08T00:35:26.732Z",
       "platformMetadataState": "UNRESOLVED",
       "quarantineReason": "new-import-platform-unresolved",
-      "quarantinedAt": "2026-10-07T13:00:00.223Z"
+      "quarantinedAt": "2026-10-07T13:00:00.223Z",
+      "platformRetryCount": 1,
+      "lastPlatformRetryAt": "2026-10-08T00:35:32.753Z",
+      "nextPlatformRetryAt": "2026-10-08T12:35:32.753Z"
     },
     {
       "id": "avtr_de6d5fa7-eeb6-4e4e-b278-f18c56b37f81",
@@ -11194,10 +11049,13 @@
       "updatedAt": "",
       "version": 0,
       "metadataProvider": "KitsuneDB",
-      "platformMetadataCheckedAt": "2026-10-07T12:59:52.045Z",
+      "platformMetadataCheckedAt": "2026-10-08T00:35:26.926Z",
       "platformMetadataState": "UNRESOLVED",
       "quarantineReason": "new-import-platform-unresolved",
-      "quarantinedAt": "2026-10-07T13:00:00.223Z"
+      "quarantinedAt": "2026-10-07T13:00:00.223Z",
+      "platformRetryCount": 1,
+      "lastPlatformRetryAt": "2026-10-08T00:35:32.753Z",
+      "nextPlatformRetryAt": "2026-10-08T12:35:32.753Z"
     },
     {
       "id": "avtr_c8a1f89e-14b2-49f6-ac83-8415b219f8ec",
@@ -11218,10 +11076,13 @@
       "updatedAt": "",
       "version": 0,
       "metadataProvider": "KitsuneDB",
-      "platformMetadataCheckedAt": "2026-10-07T12:59:52.164Z",
+      "platformMetadataCheckedAt": "2026-10-08T00:35:27.075Z",
       "platformMetadataState": "UNRESOLVED",
       "quarantineReason": "new-import-platform-unresolved",
-      "quarantinedAt": "2026-10-07T13:00:00.223Z"
+      "quarantinedAt": "2026-10-07T13:00:00.223Z",
+      "platformRetryCount": 1,
+      "lastPlatformRetryAt": "2026-10-08T00:35:32.753Z",
+      "nextPlatformRetryAt": "2026-10-08T12:35:32.753Z"
     },
     {
       "id": "avtr_0f510cce-5a78-4304-ba35-319e106eed1b",
@@ -11242,10 +11103,13 @@
       "updatedAt": "",
       "version": 0,
       "metadataProvider": "KitsuneDB",
-      "platformMetadataCheckedAt": "2026-10-07T12:59:52.214Z",
+      "platformMetadataCheckedAt": "2026-10-08T00:35:27.139Z",
       "platformMetadataState": "UNRESOLVED",
       "quarantineReason": "new-import-platform-unresolved",
-      "quarantinedAt": "2026-10-07T13:00:00.223Z"
+      "quarantinedAt": "2026-10-07T13:00:00.223Z",
+      "platformRetryCount": 1,
+      "lastPlatformRetryAt": "2026-10-08T00:35:32.753Z",
+      "nextPlatformRetryAt": "2026-10-08T12:35:32.753Z"
     },
     {
       "id": "avtr_5dad86fc-39ff-4ba7-a736-6cb2a35ada94",
@@ -11266,10 +11130,13 @@
       "updatedAt": "2026-09-12T22:18:40.953Z",
       "version": 0,
       "metadataProvider": "PAW",
-      "platformMetadataCheckedAt": "2026-10-07T12:59:52.566Z",
+      "platformMetadataCheckedAt": "2026-10-08T00:35:27.874Z",
       "platformMetadataState": "UNRESOLVED",
       "quarantineReason": "new-import-platform-unresolved",
-      "quarantinedAt": "2026-10-07T13:00:00.223Z"
+      "quarantinedAt": "2026-10-07T13:00:00.223Z",
+      "platformRetryCount": 1,
+      "lastPlatformRetryAt": "2026-10-08T00:35:32.753Z",
+      "nextPlatformRetryAt": "2026-10-08T12:35:32.753Z"
     },
     {
       "id": "avtr_6b706954-236f-46e4-aeb0-952f20662ce7",
@@ -11293,7 +11160,10 @@
       "platformMetadataCheckedAt": "2026-10-07T12:59:52.612Z",
       "platformMetadataState": "UNRESOLVED",
       "quarantineReason": "new-import-platform-unresolved",
-      "quarantinedAt": "2026-10-07T13:00:00.223Z"
+      "quarantinedAt": "2026-10-07T13:00:00.223Z",
+      "platformRetryCount": 1,
+      "lastPlatformRetryAt": "2026-10-08T00:35:32.753Z",
+      "nextPlatformRetryAt": "2026-10-08T12:35:32.753Z"
     },
     {
       "id": "avtr_a235c793-1916-4cda-ab68-525f403cf533",
@@ -11317,7 +11187,10 @@
       "platformMetadataCheckedAt": "2026-10-07T12:59:52.660Z",
       "platformMetadataState": "UNRESOLVED",
       "quarantineReason": "new-import-platform-unresolved",
-      "quarantinedAt": "2026-10-07T13:00:00.223Z"
+      "quarantinedAt": "2026-10-07T13:00:00.223Z",
+      "platformRetryCount": 1,
+      "lastPlatformRetryAt": "2026-10-08T00:35:32.753Z",
+      "nextPlatformRetryAt": "2026-10-08T12:35:32.753Z"
     },
     {
       "id": "avtr_aab819a2-5a7f-4abf-9db9-97deebed9afb",
@@ -11341,7 +11214,10 @@
       "platformMetadataCheckedAt": "2026-10-07T12:59:52.780Z",
       "platformMetadataState": "UNRESOLVED",
       "quarantineReason": "new-import-platform-unresolved",
-      "quarantinedAt": "2026-10-07T13:00:00.223Z"
+      "quarantinedAt": "2026-10-07T13:00:00.223Z",
+      "platformRetryCount": 1,
+      "lastPlatformRetryAt": "2026-10-08T00:35:32.753Z",
+      "nextPlatformRetryAt": "2026-10-08T12:35:32.753Z"
     },
     {
       "id": "avtr_ae09e017-1aaa-4eba-bf28-11ab9c74e939",
@@ -11365,7 +11241,10 @@
       "platformMetadataCheckedAt": "2026-10-07T12:59:53.007Z",
       "platformMetadataState": "UNRESOLVED",
       "quarantineReason": "new-import-platform-unresolved",
-      "quarantinedAt": "2026-10-07T13:00:00.223Z"
+      "quarantinedAt": "2026-10-07T13:00:00.223Z",
+      "platformRetryCount": 1,
+      "lastPlatformRetryAt": "2026-10-08T00:35:32.753Z",
+      "nextPlatformRetryAt": "2026-10-08T12:35:32.753Z"
     },
     {
       "id": "avtr_f472e8c2-854a-471d-bdbc-11c2f2e35abe",
@@ -11389,7 +11268,10 @@
       "platformMetadataCheckedAt": "2026-10-07T12:59:53.161Z",
       "platformMetadataState": "UNRESOLVED",
       "quarantineReason": "new-import-platform-unresolved",
-      "quarantinedAt": "2026-10-07T13:00:00.223Z"
+      "quarantinedAt": "2026-10-07T13:00:00.223Z",
+      "platformRetryCount": 1,
+      "lastPlatformRetryAt": "2026-10-08T00:35:32.753Z",
+      "nextPlatformRetryAt": "2026-10-08T12:35:32.753Z"
     },
     {
       "id": "avtr_f615bdea-af57-430a-97c5-b0a352fcc18c",
@@ -11413,7 +11295,10 @@
       "platformMetadataCheckedAt": "2026-10-07T12:59:53.248Z",
       "platformMetadataState": "UNRESOLVED",
       "quarantineReason": "new-import-platform-unresolved",
-      "quarantinedAt": "2026-10-07T13:00:00.223Z"
+      "quarantinedAt": "2026-10-07T13:00:00.223Z",
+      "platformRetryCount": 1,
+      "lastPlatformRetryAt": "2026-10-08T00:35:32.753Z",
+      "nextPlatformRetryAt": "2026-10-08T12:35:32.753Z"
     },
     {
       "id": "avtr_03edaa1f-e213-4db9-89f1-044334a4313c",
@@ -11437,7 +11322,10 @@
       "platformMetadataCheckedAt": "2026-10-07T12:59:53.332Z",
       "platformMetadataState": "UNRESOLVED",
       "quarantineReason": "new-import-platform-unresolved",
-      "quarantinedAt": "2026-10-07T13:00:00.223Z"
+      "quarantinedAt": "2026-10-07T13:00:00.223Z",
+      "platformRetryCount": 1,
+      "lastPlatformRetryAt": "2026-10-08T00:35:32.753Z",
+      "nextPlatformRetryAt": "2026-10-08T12:35:32.753Z"
     },
     {
       "id": "avtr_3f517028-9e83-41b7-bb9e-f9fa4473871d",
@@ -11461,7 +11349,10 @@
       "platformMetadataCheckedAt": "2026-10-07T12:59:53.472Z",
       "platformMetadataState": "UNRESOLVED",
       "quarantineReason": "new-import-platform-unresolved",
-      "quarantinedAt": "2026-10-07T13:00:00.223Z"
+      "quarantinedAt": "2026-10-07T13:00:00.223Z",
+      "platformRetryCount": 1,
+      "lastPlatformRetryAt": "2026-10-08T00:35:32.753Z",
+      "nextPlatformRetryAt": "2026-10-08T12:35:32.753Z"
     },
     {
       "id": "avtr_f9f36171-6e22-4e40-9ff3-b19dd96b3980",
@@ -11485,7 +11376,10 @@
       "platformMetadataCheckedAt": "2026-10-07T12:59:53.644Z",
       "platformMetadataState": "UNRESOLVED",
       "quarantineReason": "new-import-platform-unresolved",
-      "quarantinedAt": "2026-10-07T13:00:00.223Z"
+      "quarantinedAt": "2026-10-07T13:00:00.223Z",
+      "platformRetryCount": 1,
+      "lastPlatformRetryAt": "2026-10-08T00:35:32.753Z",
+      "nextPlatformRetryAt": "2026-10-08T12:35:32.753Z"
     },
     {
       "id": "avtr_fb951bd6-a923-456e-9b5d-724002a7977d",
@@ -11509,7 +11403,10 @@
       "platformMetadataCheckedAt": "2026-10-07T12:59:53.722Z",
       "platformMetadataState": "UNRESOLVED",
       "quarantineReason": "new-import-platform-unresolved",
-      "quarantinedAt": "2026-10-07T13:00:00.223Z"
+      "quarantinedAt": "2026-10-07T13:00:00.223Z",
+      "platformRetryCount": 1,
+      "lastPlatformRetryAt": "2026-10-08T00:35:32.753Z",
+      "nextPlatformRetryAt": "2026-10-08T12:35:32.753Z"
     },
     {
       "id": "avtr_e87f40fe-11ed-45ac-aed5-0822cfaf3f35",
@@ -11533,7 +11430,10 @@
       "platformMetadataCheckedAt": "2026-10-07T12:59:53.867Z",
       "platformMetadataState": "UNRESOLVED",
       "quarantineReason": "new-import-platform-unresolved",
-      "quarantinedAt": "2026-10-07T13:00:00.223Z"
+      "quarantinedAt": "2026-10-07T13:00:00.223Z",
+      "platformRetryCount": 1,
+      "lastPlatformRetryAt": "2026-10-08T00:35:32.753Z",
+      "nextPlatformRetryAt": "2026-10-08T12:35:32.753Z"
     },
     {
       "id": "avtr_cacb3a3e-c84a-4359-9bc0-84b6deb4e5a3",
@@ -11557,7 +11457,10 @@
       "platformMetadataCheckedAt": "2026-10-07T12:59:53.972Z",
       "platformMetadataState": "UNRESOLVED",
       "quarantineReason": "new-import-platform-unresolved",
-      "quarantinedAt": "2026-10-07T13:00:00.223Z"
+      "quarantinedAt": "2026-10-07T13:00:00.223Z",
+      "platformRetryCount": 1,
+      "lastPlatformRetryAt": "2026-10-08T00:35:32.753Z",
+      "nextPlatformRetryAt": "2026-10-08T12:35:32.753Z"
     },
     {
       "id": "avtr_7e7f26c4-a1e8-49b9-b94b-1c06e57f447f",
@@ -11581,7 +11484,10 @@
       "platformMetadataCheckedAt": "2026-10-07T12:59:54.137Z",
       "platformMetadataState": "UNRESOLVED",
       "quarantineReason": "new-import-platform-unresolved",
-      "quarantinedAt": "2026-10-07T13:00:00.223Z"
+      "quarantinedAt": "2026-10-07T13:00:00.223Z",
+      "platformRetryCount": 1,
+      "lastPlatformRetryAt": "2026-10-08T00:35:32.753Z",
+      "nextPlatformRetryAt": "2026-10-08T12:35:32.753Z"
     },
     {
       "id": "avtr_c50e89ea-506f-49cf-9c35-4af3a9c89219",
@@ -11605,7 +11511,10 @@
       "platformMetadataCheckedAt": "2026-10-07T12:59:54.224Z",
       "platformMetadataState": "UNRESOLVED",
       "quarantineReason": "new-import-platform-unresolved",
-      "quarantinedAt": "2026-10-07T13:00:00.223Z"
+      "quarantinedAt": "2026-10-07T13:00:00.223Z",
+      "platformRetryCount": 1,
+      "lastPlatformRetryAt": "2026-10-08T00:35:32.753Z",
+      "nextPlatformRetryAt": "2026-10-08T12:35:32.753Z"
     },
     {
       "id": "avtr_52b7d1cc-0444-4274-a2e2-92df74f62dd9",
@@ -11629,7 +11538,10 @@
       "platformMetadataCheckedAt": "2026-10-07T12:59:54.429Z",
       "platformMetadataState": "UNRESOLVED",
       "quarantineReason": "new-import-platform-unresolved",
-      "quarantinedAt": "2026-10-07T13:00:00.223Z"
+      "quarantinedAt": "2026-10-07T13:00:00.223Z",
+      "platformRetryCount": 1,
+      "lastPlatformRetryAt": "2026-10-08T00:35:32.753Z",
+      "nextPlatformRetryAt": "2026-10-08T12:35:32.753Z"
     },
     {
       "id": "avtr_183c791e-ba61-4078-82a4-82b8185a5359",
@@ -11653,7 +11565,10 @@
       "platformMetadataCheckedAt": "2026-10-07T12:59:54.475Z",
       "platformMetadataState": "UNRESOLVED",
       "quarantineReason": "new-import-platform-unresolved",
-      "quarantinedAt": "2026-10-07T13:00:00.223Z"
+      "quarantinedAt": "2026-10-07T13:00:00.223Z",
+      "platformRetryCount": 1,
+      "lastPlatformRetryAt": "2026-10-08T00:35:32.753Z",
+      "nextPlatformRetryAt": "2026-10-08T12:35:32.753Z"
     },
     {
       "id": "avtr_beccc66e-067d-4210-981c-a44f6c96d777",
@@ -11677,7 +11592,10 @@
       "platformMetadataCheckedAt": "2026-10-07T12:59:54.676Z",
       "platformMetadataState": "UNRESOLVED",
       "quarantineReason": "new-import-platform-unresolved",
-      "quarantinedAt": "2026-10-07T13:00:00.223Z"
+      "quarantinedAt": "2026-10-07T13:00:00.223Z",
+      "platformRetryCount": 1,
+      "lastPlatformRetryAt": "2026-10-08T00:35:32.753Z",
+      "nextPlatformRetryAt": "2026-10-08T12:35:32.753Z"
     },
     {
       "id": "avtr_c6a8f10a-fbc0-4aa3-9aba-a47eafd70ef9",
@@ -11701,7 +11619,10 @@
       "platformMetadataCheckedAt": "2026-10-07T12:59:54.722Z",
       "platformMetadataState": "UNRESOLVED",
       "quarantineReason": "new-import-platform-unresolved",
-      "quarantinedAt": "2026-10-07T13:00:00.223Z"
+      "quarantinedAt": "2026-10-07T13:00:00.223Z",
+      "platformRetryCount": 1,
+      "lastPlatformRetryAt": "2026-10-08T00:35:32.753Z",
+      "nextPlatformRetryAt": "2026-10-08T12:35:32.753Z"
     },
     {
       "id": "avtr_1325fa9f-08c2-4487-9567-aed4bc858991",
@@ -11725,7 +11646,10 @@
       "platformMetadataCheckedAt": "2026-10-07T12:59:54.952Z",
       "platformMetadataState": "UNRESOLVED",
       "quarantineReason": "new-import-platform-unresolved",
-      "quarantinedAt": "2026-10-07T13:00:00.223Z"
+      "quarantinedAt": "2026-10-07T13:00:00.223Z",
+      "platformRetryCount": 1,
+      "lastPlatformRetryAt": "2026-10-08T00:35:32.753Z",
+      "nextPlatformRetryAt": "2026-10-08T12:35:32.753Z"
     },
     {
       "id": "avtr_87f6213f-cab5-4adc-b36c-45c316a8a951",
@@ -11749,7 +11673,10 @@
       "platformMetadataCheckedAt": "2026-10-07T12:59:55.008Z",
       "platformMetadataState": "UNRESOLVED",
       "quarantineReason": "new-import-platform-unresolved",
-      "quarantinedAt": "2026-10-07T13:00:00.223Z"
+      "quarantinedAt": "2026-10-07T13:00:00.223Z",
+      "platformRetryCount": 1,
+      "lastPlatformRetryAt": "2026-10-08T00:35:32.753Z",
+      "nextPlatformRetryAt": "2026-10-08T12:35:32.753Z"
     },
     {
       "id": "avtr_cb7be135-0b63-4395-960c-498e7c4b6f50",
@@ -11773,7 +11700,10 @@
       "platformMetadataCheckedAt": "2026-10-07T12:59:55.190Z",
       "platformMetadataState": "UNRESOLVED",
       "quarantineReason": "new-import-platform-unresolved",
-      "quarantinedAt": "2026-10-07T13:00:00.223Z"
+      "quarantinedAt": "2026-10-07T13:00:00.223Z",
+      "platformRetryCount": 1,
+      "lastPlatformRetryAt": "2026-10-08T00:35:32.753Z",
+      "nextPlatformRetryAt": "2026-10-08T12:35:32.753Z"
     },
     {
       "id": "avtr_b759df18-098a-4d85-9c1a-b4ec12de19c1",
@@ -11797,7 +11727,10 @@
       "platformMetadataCheckedAt": "2026-10-07T12:59:56.257Z",
       "platformMetadataState": "UNRESOLVED",
       "quarantineReason": "new-import-platform-unresolved",
-      "quarantinedAt": "2026-10-07T13:00:00.223Z"
+      "quarantinedAt": "2026-10-07T13:00:00.223Z",
+      "platformRetryCount": 1,
+      "lastPlatformRetryAt": "2026-10-08T00:35:32.753Z",
+      "nextPlatformRetryAt": "2026-10-08T12:35:32.753Z"
     },
     {
       "id": "avtr_ca806a7b-21b8-4ce0-867e-e7ed74fb7717",
@@ -11821,7 +11754,10 @@
       "platformMetadataCheckedAt": "2026-10-07T12:59:55.416Z",
       "platformMetadataState": "UNRESOLVED",
       "quarantineReason": "new-import-platform-unresolved",
-      "quarantinedAt": "2026-10-07T13:00:00.223Z"
+      "quarantinedAt": "2026-10-07T13:00:00.223Z",
+      "platformRetryCount": 1,
+      "lastPlatformRetryAt": "2026-10-08T00:35:32.753Z",
+      "nextPlatformRetryAt": "2026-10-08T12:35:32.753Z"
     },
     {
       "id": "avtr_3aa15bd9-9833-48b2-b3d7-49f0f542e577",
@@ -11845,7 +11781,10 @@
       "platformMetadataCheckedAt": "2026-10-07T12:59:55.520Z",
       "platformMetadataState": "UNRESOLVED",
       "quarantineReason": "new-import-platform-unresolved",
-      "quarantinedAt": "2026-10-07T13:00:00.223Z"
+      "quarantinedAt": "2026-10-07T13:00:00.223Z",
+      "platformRetryCount": 1,
+      "lastPlatformRetryAt": "2026-10-08T00:35:32.753Z",
+      "nextPlatformRetryAt": "2026-10-08T12:35:32.753Z"
     },
     {
       "id": "avtr_ae727115-18d2-43dc-8642-ea2a41cdc725",
@@ -11869,7 +11808,10 @@
       "platformMetadataCheckedAt": "2026-10-07T12:59:55.723Z",
       "platformMetadataState": "UNRESOLVED",
       "quarantineReason": "new-import-platform-unresolved",
-      "quarantinedAt": "2026-10-07T13:00:00.223Z"
+      "quarantinedAt": "2026-10-07T13:00:00.223Z",
+      "platformRetryCount": 1,
+      "lastPlatformRetryAt": "2026-10-08T00:35:32.753Z",
+      "nextPlatformRetryAt": "2026-10-08T12:35:32.753Z"
     },
     {
       "id": "avtr_7a1f7948-da8c-43e0-8e9a-f2be7cc2f20e",
@@ -11893,7 +11835,10 @@
       "platformMetadataCheckedAt": "2026-10-07T12:59:55.879Z",
       "platformMetadataState": "UNRESOLVED",
       "quarantineReason": "new-import-platform-unresolved",
-      "quarantinedAt": "2026-10-07T13:00:00.223Z"
+      "quarantinedAt": "2026-10-07T13:00:00.223Z",
+      "platformRetryCount": 1,
+      "lastPlatformRetryAt": "2026-10-08T00:35:32.753Z",
+      "nextPlatformRetryAt": "2026-10-08T12:35:32.753Z"
     },
     {
       "id": "avtr_100baed2-1055-4c98-b9bf-aef65ca41381",
@@ -11917,7 +11862,10 @@
       "platformMetadataCheckedAt": "2026-10-07T12:59:55.998Z",
       "platformMetadataState": "UNRESOLVED",
       "quarantineReason": "new-import-platform-unresolved",
-      "quarantinedAt": "2026-10-07T13:00:00.223Z"
+      "quarantinedAt": "2026-10-07T13:00:00.223Z",
+      "platformRetryCount": 1,
+      "lastPlatformRetryAt": "2026-10-08T00:35:32.753Z",
+      "nextPlatformRetryAt": "2026-10-08T12:35:32.753Z"
     },
     {
       "id": "avtr_e4fd2ba5-9060-4321-861c-c09c51a500e7",
@@ -11941,7 +11889,10 @@
       "platformMetadataCheckedAt": "2026-10-07T12:59:56.177Z",
       "platformMetadataState": "UNRESOLVED",
       "quarantineReason": "new-import-platform-unresolved",
-      "quarantinedAt": "2026-10-07T13:00:00.223Z"
+      "quarantinedAt": "2026-10-07T13:00:00.223Z",
+      "platformRetryCount": 1,
+      "lastPlatformRetryAt": "2026-10-08T00:35:32.753Z",
+      "nextPlatformRetryAt": "2026-10-08T12:35:32.753Z"
     },
     {
       "id": "avtr_189c7c1a-c6ce-443d-bbc4-db6c9bc4f58a",
@@ -11965,7 +11916,10 @@
       "platformMetadataCheckedAt": "2026-10-07T12:59:56.399Z",
       "platformMetadataState": "UNRESOLVED",
       "quarantineReason": "new-import-platform-unresolved",
-      "quarantinedAt": "2026-10-07T13:00:00.223Z"
+      "quarantinedAt": "2026-10-07T13:00:00.223Z",
+      "platformRetryCount": 1,
+      "lastPlatformRetryAt": "2026-10-08T00:35:32.753Z",
+      "nextPlatformRetryAt": "2026-10-08T12:35:32.753Z"
     },
     {
       "id": "avtr_da2e6224-1a65-4325-9730-ecbe61ba5573",
@@ -11989,7 +11943,10 @@
       "platformMetadataCheckedAt": "2026-10-07T12:59:56.494Z",
       "platformMetadataState": "UNRESOLVED",
       "quarantineReason": "new-import-platform-unresolved",
-      "quarantinedAt": "2026-10-07T13:00:00.223Z"
+      "quarantinedAt": "2026-10-07T13:00:00.223Z",
+      "platformRetryCount": 1,
+      "lastPlatformRetryAt": "2026-10-08T00:35:32.753Z",
+      "nextPlatformRetryAt": "2026-10-08T12:35:32.753Z"
     },
     {
       "id": "avtr_eb1a453c-559f-4e36-8e8b-59278617ee8d",
@@ -12013,7 +11970,10 @@
       "platformMetadataCheckedAt": "2026-10-07T12:59:56.659Z",
       "platformMetadataState": "UNRESOLVED",
       "quarantineReason": "new-import-platform-unresolved",
-      "quarantinedAt": "2026-10-07T13:00:00.223Z"
+      "quarantinedAt": "2026-10-07T13:00:00.223Z",
+      "platformRetryCount": 1,
+      "lastPlatformRetryAt": "2026-10-08T00:35:32.753Z",
+      "nextPlatformRetryAt": "2026-10-08T12:35:32.753Z"
     },
     {
       "id": "avtr_107038dd-68a4-4001-a718-f57d192b695a",
@@ -12037,7 +11997,10 @@
       "platformMetadataCheckedAt": "2026-10-07T12:59:56.765Z",
       "platformMetadataState": "UNRESOLVED",
       "quarantineReason": "new-import-platform-unresolved",
-      "quarantinedAt": "2026-10-07T13:00:00.223Z"
+      "quarantinedAt": "2026-10-07T13:00:00.223Z",
+      "platformRetryCount": 1,
+      "lastPlatformRetryAt": "2026-10-08T00:35:32.753Z",
+      "nextPlatformRetryAt": "2026-10-08T12:35:32.753Z"
     },
     {
       "id": "avtr_509e194a-f93d-4262-a419-a9e88b86806c",
@@ -12061,7 +12024,10 @@
       "platformMetadataCheckedAt": "2026-10-07T12:59:56.874Z",
       "platformMetadataState": "UNRESOLVED",
       "quarantineReason": "new-import-platform-unresolved",
-      "quarantinedAt": "2026-10-07T13:00:00.223Z"
+      "quarantinedAt": "2026-10-07T13:00:00.223Z",
+      "platformRetryCount": 1,
+      "lastPlatformRetryAt": "2026-10-08T00:35:32.753Z",
+      "nextPlatformRetryAt": "2026-10-08T12:35:32.753Z"
     },
     {
       "id": "avtr_621d3ab5-54ba-43f4-a64a-b18b7562fd7f",
@@ -12085,7 +12051,10 @@
       "platformMetadataCheckedAt": "2026-10-07T12:59:57.003Z",
       "platformMetadataState": "UNRESOLVED",
       "quarantineReason": "new-import-platform-unresolved",
-      "quarantinedAt": "2026-10-07T13:00:00.223Z"
+      "quarantinedAt": "2026-10-07T13:00:00.223Z",
+      "platformRetryCount": 1,
+      "lastPlatformRetryAt": "2026-10-08T00:35:32.753Z",
+      "nextPlatformRetryAt": "2026-10-08T12:35:32.753Z"
     },
     {
       "id": "avtr_3dcf0405-b7cb-4069-acbd-94f802ad814f",
@@ -12109,7 +12078,10 @@
       "platformMetadataCheckedAt": "2026-10-07T12:59:57.101Z",
       "platformMetadataState": "UNRESOLVED",
       "quarantineReason": "new-import-platform-unresolved",
-      "quarantinedAt": "2026-10-07T13:00:00.223Z"
+      "quarantinedAt": "2026-10-07T13:00:00.223Z",
+      "platformRetryCount": 1,
+      "lastPlatformRetryAt": "2026-10-08T00:35:32.753Z",
+      "nextPlatformRetryAt": "2026-10-08T12:35:32.753Z"
     },
     {
       "id": "avtr_e331bcdb-385a-46c4-a991-3d268ece119c",
@@ -12133,7 +12105,10 @@
       "platformMetadataCheckedAt": "2026-10-07T12:59:57.268Z",
       "platformMetadataState": "UNRESOLVED",
       "quarantineReason": "new-import-platform-unresolved",
-      "quarantinedAt": "2026-10-07T13:00:00.223Z"
+      "quarantinedAt": "2026-10-07T13:00:00.223Z",
+      "platformRetryCount": 1,
+      "lastPlatformRetryAt": "2026-10-08T00:35:32.753Z",
+      "nextPlatformRetryAt": "2026-10-08T12:35:32.753Z"
     },
     {
       "id": "avtr_aac05e98-4ea0-4032-9f81-0f46f1f70242",
@@ -12157,7 +12132,10 @@
       "platformMetadataCheckedAt": "2026-10-07T12:59:57.363Z",
       "platformMetadataState": "UNRESOLVED",
       "quarantineReason": "new-import-platform-unresolved",
-      "quarantinedAt": "2026-10-07T13:00:00.223Z"
+      "quarantinedAt": "2026-10-07T13:00:00.223Z",
+      "platformRetryCount": 1,
+      "lastPlatformRetryAt": "2026-10-08T00:35:32.753Z",
+      "nextPlatformRetryAt": "2026-10-08T12:35:32.753Z"
     },
     {
       "id": "avtr_29977533-28ee-41f4-9a21-8d7f68342781",
@@ -12181,7 +12159,10 @@
       "platformMetadataCheckedAt": "2026-10-07T12:59:57.535Z",
       "platformMetadataState": "UNRESOLVED",
       "quarantineReason": "new-import-platform-unresolved",
-      "quarantinedAt": "2026-10-07T13:00:00.223Z"
+      "quarantinedAt": "2026-10-07T13:00:00.223Z",
+      "platformRetryCount": 1,
+      "lastPlatformRetryAt": "2026-10-08T00:35:32.753Z",
+      "nextPlatformRetryAt": "2026-10-08T12:35:32.754Z"
     },
     {
       "id": "avtr_944cefaa-fe4d-4ebe-9326-a05ecd1a9881",
@@ -12205,7 +12186,10 @@
       "platformMetadataCheckedAt": "2026-10-07T12:59:57.622Z",
       "platformMetadataState": "UNRESOLVED",
       "quarantineReason": "new-import-platform-unresolved",
-      "quarantinedAt": "2026-10-07T13:00:00.223Z"
+      "quarantinedAt": "2026-10-07T13:00:00.223Z",
+      "platformRetryCount": 1,
+      "lastPlatformRetryAt": "2026-10-08T00:35:32.754Z",
+      "nextPlatformRetryAt": "2026-10-08T12:35:32.754Z"
     },
     {
       "id": "avtr_4a7366b9-3648-4daf-b2b3-e7f0341fd229",
@@ -12229,7 +12213,10 @@
       "platformMetadataCheckedAt": "2026-10-07T12:59:57.728Z",
       "platformMetadataState": "UNRESOLVED",
       "quarantineReason": "new-import-platform-unresolved",
-      "quarantinedAt": "2026-10-07T13:00:00.223Z"
+      "quarantinedAt": "2026-10-07T13:00:00.223Z",
+      "platformRetryCount": 1,
+      "lastPlatformRetryAt": "2026-10-08T00:35:32.754Z",
+      "nextPlatformRetryAt": "2026-10-08T12:35:32.754Z"
     },
     {
       "id": "avtr_50a351c3-5b32-4df4-9b9a-0af4df2e7628",
@@ -12253,7 +12240,10 @@
       "platformMetadataCheckedAt": "2026-10-07T12:59:58.319Z",
       "platformMetadataState": "UNRESOLVED",
       "quarantineReason": "new-import-platform-unresolved",
-      "quarantinedAt": "2026-10-07T13:00:00.223Z"
+      "quarantinedAt": "2026-10-07T13:00:00.223Z",
+      "platformRetryCount": 1,
+      "lastPlatformRetryAt": "2026-10-08T00:35:32.754Z",
+      "nextPlatformRetryAt": "2026-10-08T12:35:32.754Z"
     },
     {
       "id": "avtr_f8543a63-eb05-4f78-bd52-4739fbf954c7",
@@ -12277,7 +12267,10 @@
       "platformMetadataCheckedAt": "2026-10-07T12:59:58.608Z",
       "platformMetadataState": "UNRESOLVED",
       "quarantineReason": "new-import-platform-unresolved",
-      "quarantinedAt": "2026-10-07T13:00:00.223Z"
+      "quarantinedAt": "2026-10-07T13:00:00.223Z",
+      "platformRetryCount": 1,
+      "lastPlatformRetryAt": "2026-10-08T00:35:32.754Z",
+      "nextPlatformRetryAt": "2026-10-08T12:35:32.754Z"
     },
     {
       "id": "avtr_fd33d915-924d-46cf-bb3e-af65225a0407",
@@ -12301,7 +12294,10 @@
       "platformMetadataCheckedAt": "2026-10-07T12:59:59.464Z",
       "platformMetadataState": "UNRESOLVED",
       "quarantineReason": "new-import-platform-unresolved",
-      "quarantinedAt": "2026-10-07T13:00:00.223Z"
+      "quarantinedAt": "2026-10-07T13:00:00.223Z",
+      "platformRetryCount": 1,
+      "lastPlatformRetryAt": "2026-10-08T00:35:32.754Z",
+      "nextPlatformRetryAt": "2026-10-08T12:35:32.754Z"
     },
     {
       "id": "avtr_55f18a65-3606-43c1-8274-8d89d6e396d6",
@@ -12325,7 +12321,10 @@
       "platformMetadataCheckedAt": "2026-10-07T12:59:58.609Z",
       "platformMetadataState": "UNRESOLVED",
       "quarantineReason": "new-import-platform-unresolved",
-      "quarantinedAt": "2026-10-07T13:00:00.223Z"
+      "quarantinedAt": "2026-10-07T13:00:00.223Z",
+      "platformRetryCount": 1,
+      "lastPlatformRetryAt": "2026-10-08T00:35:32.754Z",
+      "nextPlatformRetryAt": "2026-10-08T12:35:32.754Z"
     },
     {
       "id": "avtr_42f27608-3de5-488e-a24f-82126e7e6e3c",
@@ -12349,7 +12348,10 @@
       "platformMetadataCheckedAt": "2026-10-07T12:59:59.014Z",
       "platformMetadataState": "UNRESOLVED",
       "quarantineReason": "new-import-platform-unresolved",
-      "quarantinedAt": "2026-10-07T13:00:00.223Z"
+      "quarantinedAt": "2026-10-07T13:00:00.223Z",
+      "platformRetryCount": 1,
+      "lastPlatformRetryAt": "2026-10-08T00:35:32.754Z",
+      "nextPlatformRetryAt": "2026-10-08T12:35:32.754Z"
     },
     {
       "id": "avtr_6a1b88d4-6276-4786-9441-a1e28ec47292",
@@ -12373,7 +12375,10 @@
       "platformMetadataCheckedAt": "2026-10-07T12:59:59.269Z",
       "platformMetadataState": "UNRESOLVED",
       "quarantineReason": "new-import-platform-unresolved",
-      "quarantinedAt": "2026-10-07T13:00:00.223Z"
+      "quarantinedAt": "2026-10-07T13:00:00.223Z",
+      "platformRetryCount": 1,
+      "lastPlatformRetryAt": "2026-10-08T00:35:32.754Z",
+      "nextPlatformRetryAt": "2026-10-08T12:35:32.754Z"
     },
     {
       "id": "avtr_5d0e9523-b7ec-42d2-98a5-bea718c668e3",
@@ -12397,7 +12402,10 @@
       "platformMetadataCheckedAt": "2026-10-07T12:59:59.283Z",
       "platformMetadataState": "UNRESOLVED",
       "quarantineReason": "new-import-platform-unresolved",
-      "quarantinedAt": "2026-10-07T13:00:00.223Z"
+      "quarantinedAt": "2026-10-07T13:00:00.223Z",
+      "platformRetryCount": 1,
+      "lastPlatformRetryAt": "2026-10-08T00:35:32.754Z",
+      "nextPlatformRetryAt": "2026-10-08T12:35:32.754Z"
     },
     {
       "id": "avtr_dbd54443-d630-406b-851a-7848a6af726e",
