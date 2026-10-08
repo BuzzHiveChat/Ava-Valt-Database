@@ -34,11 +34,17 @@ const slim = a => ({
 export function build(inputText) {
   const root = JSON.parse(inputText);
   const avatars = Array.isArray(root) ? root : root.avatars;
+  let exclusions = {};
+  try { exclusions = JSON.parse(readFileSync('avatar-opt-outs.json', 'utf8')); }
+  catch (e) { if (e.code !== 'ENOENT') throw e; }
+  const blockedIds = new Set((exclusions.excludedAvatars || []).map(x=>key(x.id)));
+  const blockedCreators = new Set((exclusions.excludedCreators || []).map(x=>key(x.id)));
+  const creatorKey = a => key(a.authorId || a.creatorId || a.author?.id || a.creator?.id);
   if (!Array.isArray(avatars)) throw new Error('avatar-index.json must contain an array or an object with an avatars array');
   const all=Array.from({length:BUCKETS},()=>new Map());
   const ids=new Set(); let ignored=0;
   for(const a of avatars){
-    if(!validId(a?.id)||ids.has(key(a.id))){ignored++;continue;}
+    if(!validId(a?.id)||ids.has(key(a.id))||blockedIds.has(key(a.id))||blockedCreators.has(creatorKey(a))){ignored++;continue;}
     ids.add(key(a.id));
     const ts = new Set([...tokens(a.name),...tokens(a.author||a.authorName),...tokens(a.tags)]);
     const row = slim(a);
