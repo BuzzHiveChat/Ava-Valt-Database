@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-08T12:41:03.444Z",
+  "updated": "2026-10-08T12:41:16.113Z",
   "avatars": [
     {
       "id": "avtr_a3e8487e-2dfa-453d-857e-7ba0466562e2",
@@ -181,32 +181,6 @@
       "quarantineReason": "new-import-platform-unresolved",
       "quarantinedAt": "2026-10-07T13:00:00.224Z",
       "platformMetadataCheckedAt": "2026-10-08T01:36:59.960Z",
-      "reviewReason": "platform-unresolved-after-repair",
-      "movedToReviewAt": "2026-10-08T01:37:24.973Z"
-    },
-    {
-      "id": "avtr_cc4347b3-19fe-4264-844b-e60a4078910a",
-      "name": "Dog",
-      "author": "PizzaJazz",
-      "authorId": "usr_98578a09-4f70-4f18-b7df-d8d413e60b74",
-      "description": "Dog",
-      "imageUrl": "http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/file/file_bf0282a4-98b7-4c1c-b37e-d0131c11356f/1/file",
-      "thumbnailImageUrl": "http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_bf0282a4-98b7-4c1c-b37e-d0131c11356f/1/256",
-      "releaseStatus": "public",
-      "searchable": true,
-      "platforms": [],
-      "performancePc": "",
-      "performanceAndroid": "",
-      "performanceIos": "",
-      "tags": "",
-      "createdAt": "2026-03-01T01:03:24.951Z",
-      "updatedAt": "2026-03-02T08:54:38.361Z",
-      "version": 0,
-      "metadataProvider": "PAW",
-      "platformMetadataState": "NEEDS_OWNER_REVIEW",
-      "quarantineReason": "new-import-platform-unresolved",
-      "quarantinedAt": "2026-10-07T13:00:00.224Z",
-      "platformMetadataCheckedAt": "2026-10-08T01:37:00.713Z",
       "reviewReason": "platform-unresolved-after-repair",
       "movedToReviewAt": "2026-10-08T01:37:24.973Z"
     },
