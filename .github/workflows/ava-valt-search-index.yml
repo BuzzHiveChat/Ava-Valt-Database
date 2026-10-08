@@ -1,0 +1,82 @@
+name: Ava-Valt Automatic Search Index
+on:
+  push:
+    paths:
+      - 'avatar-index.json'
+  workflow_dispatch:
+  schedule:
+    - cron: '17 */6 * * *'
+
+permissions:
+  contents: write
+  pages: write
+
+concurrency:
+  group: ava-valt-index-main
+  cancel-in-progress: true
+
+jobs:
+  publish:
+    if: github.repository == 'BuzzHiveChat/Ava-Valt-Database'
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          persist-credentials: true
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Build and validate every search shard
+        run: node scripts/build-search-index.mjs
+      - name: Commit all shards and manifest together
+        shell: bash
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          BRANCH="${GITHUB_REF_NAME}"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          # Abort if the live DB changed after this job checked out its snapshot.
+          # A new push or scheduled run will rebuild against the latest version.
+          git fetch origin "$BRANCH"
+          EXPECTED_SHA="$(git hash-object avatar-index.json)"
+          CURRENT_SHA="$(git ls-tree "origin/$BRANCH" avatar-index.json | awk '{print $3}')"
+          if [ "$EXPECTED_SHA" != "$CURRENT_SHA" ]; then
+            echo "Database changed mid-run; leaving existing published index untouched. The next run will use the latest source."
+            exit 0
+          fi
+          git add search/v1 search-manifest.json
+          if git diff --cached --quiet; then
+            echo "Search index is already current"
+            exit 0
+          fi
+          git commit -m "Ava-Valt: automatically synchronize 256 avatar search files"
+          # Git commits are atomic: the public index never gets half a batch of new files.
+          for ATTEMPT in 1 2 3; do
+            git fetch origin "$BRANCH"
+            CURRENT_SHA="$(git ls-tree "origin/$BRANCH" avatar-index.json | awk '{print $3}')"
+            if [ "$EXPECTED_SHA" != "$CURRENT_SHA" ]; then
+              echo "A newer avatar database exists; not publishing a stale index."
+              exit 0
+            fi
+            if git push origin "HEAD:$BRANCH"; then
+              echo "Search index committed. Requesting the Pages branch-site build explicitly."
+              # GITHUB_TOKEN commits do not themselves trigger branch-based GitHub Pages.
+              # This official Pages API triggers a rebuild without changing Pages settings.
+              curl --fail-with-body --silent --show-error --retry 3 --retry-delay 3 \
+                -X POST \
+                -H "Accept: application/vnd.github+json" \
+                -H "Authorization: Bearer $GITHUB_TOKEN" \
+                -H "X-GitHub-Api-Version: 2022-11-28" \
+                "https://api.github.com/repos/$GITHUB_REPOSITORY/pages/builds"
+              echo "GitHub Pages rebuild requested."
+              exit 0
+            fi
+            echo "Branch changed; rebasing index-only commit (attempt $ATTEMPT)..."
+            git rebase "origin/$BRANCH"
+          done
+          echo "Unable to publish after three safe retries. Check Actions logs."
+          exit 1
