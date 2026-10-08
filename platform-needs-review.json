@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-08T12:40:17.119Z",
+  "updated": "2026-10-08T12:40:27.748Z",
   "avatars": [
     {
       "id": "avtr_a3e8487e-2dfa-453d-857e-7ba0466562e2",
@@ -285,32 +285,6 @@
       "quarantineReason": "new-import-platform-unresolved",
       "quarantinedAt": "2026-10-07T13:00:00.224Z",
       "platformMetadataCheckedAt": "2026-10-08T01:37:01.450Z",
-      "reviewReason": "platform-unresolved-after-repair",
-      "movedToReviewAt": "2026-10-08T01:37:24.973Z"
-    },
-    {
-      "id": "avtr_42798c26-65fd-40a6-af12-76a51c685a2c",
-      "name": "Braziliam meme dog",
-      "author": "_Flin_",
-      "authorId": "usr_04e3deda-be86-4055-926e-d02a7e057a16",
-      "description": "Braziliam meme dog",
-      "imageUrl": "http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/file/file_6f3c9cf3-1d9f-48c0-9459-5a4775c8771e/1/file",
-      "thumbnailImageUrl": "http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_6f3c9cf3-1d9f-48c0-9459-5a4775c8771e/1/256",
-      "releaseStatus": "public",
-      "searchable": true,
-      "platforms": [],
-      "performancePc": "",
-      "performanceAndroid": "",
-      "performanceIos": "",
-      "tags": "",
-      "createdAt": "2026-02-17T23:41:56.525Z",
-      "updatedAt": "2026-05-20T00:40:34.381Z",
-      "version": 0,
-      "metadataProvider": "PAW",
-      "platformMetadataState": "NEEDS_OWNER_REVIEW",
-      "quarantineReason": "new-import-platform-unresolved",
-      "quarantinedAt": "2026-10-07T13:00:00.224Z",
-      "platformMetadataCheckedAt": "2026-10-08T01:37:02.444Z",
       "reviewReason": "platform-unresolved-after-repair",
       "movedToReviewAt": "2026-10-08T01:37:24.973Z"
     },
