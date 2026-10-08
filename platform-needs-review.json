@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-08T12:26:54.050Z",
+  "updated": "2026-10-08T12:27:05.207Z",
   "avatars": [
     {
       "id": "avtr_a3e8487e-2dfa-453d-857e-7ba0466562e2",
@@ -415,32 +415,6 @@
       "quarantineReason": "new-import-platform-unresolved",
       "quarantinedAt": "2026-10-07T13:00:00.224Z",
       "platformMetadataCheckedAt": "2026-10-08T01:37:05.661Z",
-      "reviewReason": "platform-unresolved-after-repair",
-      "movedToReviewAt": "2026-10-08T01:37:24.973Z"
-    },
-    {
-      "id": "avtr_d4d5f03c-98b3-424f-a79f-f554297a88c5",
-      "name": "Dog Brother X",
-      "author": "JT IRON",
-      "authorId": "usr_217533cc-dff7-445f-8686-7bf27f8f9d4b",
-      "description": "Wolverine's Immortal Beasts skin from Marvel Rivals",
-      "imageUrl": "http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/file/file_5e275631-388d-46a1-be91-4c47dfd50ebb/1/file",
-      "thumbnailImageUrl": "http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_5e275631-388d-46a1-be91-4c47dfd50ebb/1/256",
-      "releaseStatus": "public",
-      "searchable": true,
-      "platforms": [],
-      "performancePc": "",
-      "performanceAndroid": "",
-      "performanceIos": "",
-      "tags": "",
-      "createdAt": "2025-11-28T21:30:03.170Z",
-      "updatedAt": "2025-11-28T21:35:11.975Z",
-      "version": 0,
-      "metadataProvider": "PAW",
-      "platformMetadataState": "NEEDS_OWNER_REVIEW",
-      "quarantineReason": "new-import-platform-unresolved",
-      "quarantinedAt": "2026-10-07T13:00:00.224Z",
-      "platformMetadataCheckedAt": "2026-10-08T01:37:07.644Z",
       "reviewReason": "platform-unresolved-after-repair",
       "movedToReviewAt": "2026-10-08T01:37:24.973Z"
     },
