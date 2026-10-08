@@ -1,7 +1,16 @@
 {
   "version": 1,
-  "updated": "2026-10-08T01:04:42.142Z",
-  "excludedAvatars": [],
+  "updated": "2026-10-08T01:05:14.737Z",
+  "excludedAvatars": [
+    {
+      "id": "avtr_382346f2-2874-4192-be25-336ada0d9082",
+      "marker": "owner-request",
+      "reason": "it says private on the avatar",
+      "verifiedBy": "Owner",
+      "proof": "owner-verified",
+      "approvedAt": "2026-10-08T01:05:14.737Z"
+    }
+  ],
   "excludedCreators": [],
   "pending": [],
   "dismissedRequests": []
