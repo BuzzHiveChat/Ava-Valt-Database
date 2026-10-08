@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-08T12:41:45.568Z",
+  "updated": "2026-10-08T12:42:02.125Z",
   "avatars": [
     {
       "id": "avtr_a3e8487e-2dfa-453d-857e-7ba0466562e2",
@@ -77,32 +77,6 @@
       "quarantineReason": "new-import-platform-unresolved",
       "quarantinedAt": "2026-10-07T13:00:00.224Z",
       "platformMetadataCheckedAt": "2026-10-08T01:36:58.208Z",
-      "reviewReason": "platform-unresolved-after-repair",
-      "movedToReviewAt": "2026-10-08T01:37:24.973Z"
-    },
-    {
-      "id": "avtr_91b1442f-71ad-40ce-af71-f6e9caa9bce3",
-      "name": "Blackened Skull Dog",
-      "author": "Blackened_13",
-      "authorId": "usr_545f77b8-a5f9-4783-8808-89c8596b18a7",
-      "description": "Blackened Skull Dog",
-      "imageUrl": "http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/file/file_1d654028-4131-453d-9062-9b3570446e4e/1/file",
-      "thumbnailImageUrl": "http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_1d654028-4131-453d-9062-9b3570446e4e/1/256",
-      "releaseStatus": "public",
-      "searchable": true,
-      "platforms": [],
-      "performancePc": "",
-      "performanceAndroid": "",
-      "performanceIos": "",
-      "tags": "",
-      "createdAt": "2026-03-15T14:44:58.079Z",
-      "updatedAt": "2026-08-20T18:05:37.425Z",
-      "version": 0,
-      "metadataProvider": "PAW",
-      "platformMetadataState": "NEEDS_OWNER_REVIEW",
-      "quarantineReason": "new-import-platform-unresolved",
-      "quarantinedAt": "2026-10-07T13:00:00.224Z",
-      "platformMetadataCheckedAt": "2026-10-08T01:36:58.503Z",
       "reviewReason": "platform-unresolved-after-repair",
       "movedToReviewAt": "2026-10-08T01:37:24.973Z"
     },
