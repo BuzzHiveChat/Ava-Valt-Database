@@ -385439,13 +385439,13 @@
       "metadataCheckedAt": "2026-10-08T12:27:22.202Z"
     },
     {
-      "id": "avtr_91b1442f-71ad-40ce-af71-f6e9caa9bce3",
-      "name": "Blackened Skull Dog",
-      "author": "Blackened_13",
-      "authorId": "usr_545f77b8-a5f9-4783-8808-89c8596b18a7",
-      "description": "Blackened Skull Dog",
-      "imageUrl": "http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/file/file_1d654028-4131-453d-9062-9b3570446e4e/1/file",
-      "thumbnailImageUrl": "http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_1d654028-4131-453d-9062-9b3570446e4e/1/256",
+      "id": "avtr_b8c9f24c-3949-4586-95a1-0958d1169518",
+      "name": "Charging Apple Dog Toya",
+      "author": "LocallySunshine",
+      "authorId": "usr_f9f62a72-eb45-4941-8872-5a2c603177dd",
+      "description": "Charging Apple Dog Toya",
+      "imageUrl": "http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/file/file_065eddc0-e2b0-4cb3-a1cc-5abcdf73a88f/1/file",
+      "thumbnailImageUrl": "http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_065eddc0-e2b0-4cb3-a1cc-5abcdf73a88f/1/256",
       "releaseStatus": "public",
       "searchable": true,
       "platforms": [
@@ -385456,13 +385456,13 @@
       "performanceAndroid": "",
       "performanceIos": "",
       "tags": "",
-      "createdAt": "2026-03-15T14:44:58.079Z",
-      "updatedAt": "2026-08-20T18:05:37.425Z",
+      "createdAt": "2026-03-29T00:20:57.857Z",
+      "updatedAt": "2026-03-31T04:23:43.717Z",
       "version": 0,
       "metadataProvider": "Owner verified",
       "platformMetadataState": "OWNER_VERIFIED",
-      "platformMetadataCheckedAt": "2026-10-08T12:41:57.153Z",
-      "metadataCheckedAt": "2026-10-08T12:41:57.153Z"
+      "platformMetadataCheckedAt": "2026-10-08T12:42:32.308Z",
+      "metadataCheckedAt": "2026-10-08T12:42:32.308Z"
     }
   ]
 }
