@@ -385439,13 +385439,13 @@
       "metadataCheckedAt": "2026-10-08T12:27:22.202Z"
     },
     {
-      "id": "avtr_be26d0d0-cd1e-480a-b90c-23406cdf89db",
-      "name": "ringo dog",
+      "id": "avtr_71a415ff-8c19-470e-b1d1-48ba11ce07ac",
+      "name": "george dog",
       "author": "Jackyln Burger",
       "authorId": "usr_8bf963db-ed3c-48ff-a261-02887c859812",
-      "description": "i think he wants to be in an octopus garden",
-      "imageUrl": "http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/file/file_73aae6d9-8eef-49bb-9024-2b77214719c4/3/file",
-      "thumbnailImageUrl": "http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_73aae6d9-8eef-49bb-9024-2b77214719c4/3/256",
+      "description": "isn't it a pity?",
+      "imageUrl": "http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/file/file_bdcea5cd-30d3-4879-8f65-d3caa0e0475f/2/file",
+      "thumbnailImageUrl": "http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_bdcea5cd-30d3-4879-8f65-d3caa0e0475f/2/256",
       "releaseStatus": "public",
       "searchable": true,
       "platforms": [
@@ -385456,13 +385456,13 @@
       "performanceAndroid": "",
       "performanceIos": "",
       "tags": "",
-      "createdAt": "2026-03-13T23:23:46.717Z",
-      "updatedAt": "2026-04-12T20:56:36.246Z",
+      "createdAt": "2026-03-13T23:43:53.614Z",
+      "updatedAt": "2026-04-01T22:38:53.155Z",
       "version": 0,
       "metadataProvider": "Owner verified",
       "platformMetadataState": "OWNER_VERIFIED",
-      "platformMetadataCheckedAt": "2026-10-08T12:41:20.715Z",
-      "metadataCheckedAt": "2026-10-08T12:41:20.715Z"
+      "platformMetadataCheckedAt": "2026-10-08T12:41:30.716Z",
+      "metadataCheckedAt": "2026-10-08T12:41:30.716Z"
     }
   ]
 }
