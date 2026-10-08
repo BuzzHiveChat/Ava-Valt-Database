@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-08T12:40:49.905Z",
+  "updated": "2026-10-08T12:41:03.444Z",
   "avatars": [
     {
       "id": "avtr_a3e8487e-2dfa-453d-857e-7ba0466562e2",
@@ -207,32 +207,6 @@
       "quarantineReason": "new-import-platform-unresolved",
       "quarantinedAt": "2026-10-07T13:00:00.224Z",
       "platformMetadataCheckedAt": "2026-10-08T01:37:00.713Z",
-      "reviewReason": "platform-unresolved-after-repair",
-      "movedToReviewAt": "2026-10-08T01:37:24.973Z"
-    },
-    {
-      "id": "avtr_07495d16-22ae-410b-ba71-1b22754b7058",
-      "name": "Arcade Fluffy Dog V2",
-      "author": "HerobrineSings",
-      "authorId": "usr_487bc03a-a81d-45c8-a66f-41b0d5a680bb",
-      "description": "Arcade doggo",
-      "imageUrl": "http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/file/file_03236e0e-1bed-40d7-9f7e-e265f83d16fd/2/file",
-      "thumbnailImageUrl": "http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_03236e0e-1bed-40d7-9f7e-e265f83d16fd/2/256",
-      "releaseStatus": "public",
-      "searchable": true,
-      "platforms": [],
-      "performancePc": "",
-      "performanceAndroid": "",
-      "performanceIos": "",
-      "tags": "",
-      "createdAt": "2026-02-28T03:15:53.691Z",
-      "updatedAt": "2026-05-19T00:28:06.339Z",
-      "version": 0,
-      "metadataProvider": "PAW",
-      "platformMetadataState": "NEEDS_OWNER_REVIEW",
-      "quarantineReason": "new-import-platform-unresolved",
-      "quarantinedAt": "2026-10-07T13:00:00.224Z",
-      "platformMetadataCheckedAt": "2026-10-08T01:37:00.637Z",
       "reviewReason": "platform-unresolved-after-repair",
       "movedToReviewAt": "2026-10-08T01:37:24.973Z"
     },
