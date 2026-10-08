@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-08T12:41:37.575Z",
+  "updated": "2026-10-08T12:41:45.568Z",
   "avatars": [
     {
       "id": "avtr_a3e8487e-2dfa-453d-857e-7ba0466562e2",
@@ -103,32 +103,6 @@
       "quarantineReason": "new-import-platform-unresolved",
       "quarantinedAt": "2026-10-07T13:00:00.224Z",
       "platformMetadataCheckedAt": "2026-10-08T01:36:58.503Z",
-      "reviewReason": "platform-unresolved-after-repair",
-      "movedToReviewAt": "2026-10-08T01:37:24.973Z"
-    },
-    {
-      "id": "avtr_82461743-1a67-4afa-a5d7-2b970affb4b7",
-      "name": "paul dog",
-      "author": "Jackyln Burger",
-      "authorId": "usr_8bf963db-ed3c-48ff-a261-02887c859812",
-      "description": "Mccartney IV‚ ITS COMIN UPǃ",
-      "imageUrl": "http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/file/file_2a4a7fc6-0da6-43ae-abfa-12026928baa2/2/file",
-      "thumbnailImageUrl": "http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_2a4a7fc6-0da6-43ae-abfa-12026928baa2/2/256",
-      "releaseStatus": "public",
-      "searchable": true,
-      "platforms": [],
-      "performancePc": "",
-      "performanceAndroid": "",
-      "performanceIos": "",
-      "tags": "",
-      "createdAt": "2026-03-14T00:06:16.316Z",
-      "updatedAt": "2026-04-01T22:39:31.857Z",
-      "version": 0,
-      "metadataProvider": "PAW",
-      "platformMetadataState": "NEEDS_OWNER_REVIEW",
-      "quarantineReason": "new-import-platform-unresolved",
-      "quarantinedAt": "2026-10-07T13:00:00.224Z",
-      "platformMetadataCheckedAt": "2026-10-08T01:36:58.928Z",
       "reviewReason": "platform-unresolved-after-repair",
       "movedToReviewAt": "2026-10-08T01:37:24.973Z"
     },
