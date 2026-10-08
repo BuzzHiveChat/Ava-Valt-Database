@@ -385437,6 +385437,32 @@
       "platformMetadataState": "OWNER_VERIFIED",
       "platformMetadataCheckedAt": "2026-10-08T12:27:22.202Z",
       "metadataCheckedAt": "2026-10-08T12:27:22.202Z"
+    },
+    {
+      "id": "avtr_4ec85ac2-b288-42cf-a34e-1369d6074d47",
+      "name": "Lobster Dog 2․0",
+      "author": "max84444",
+      "authorId": "usr_5a2cc695-afbf-468d-83ea-fbb99231c95c",
+      "description": "Lobster Dog 2․0",
+      "imageUrl": "http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/file/file_b3cf0b24-a926-40d1-9ea9-3a25bda45c7e/1/file",
+      "thumbnailImageUrl": "http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_b3cf0b24-a926-40d1-9ea9-3a25bda45c7e/1/256",
+      "releaseStatus": "public",
+      "searchable": true,
+      "platforms": [
+        "PC",
+        "Android"
+      ],
+      "performancePc": "",
+      "performanceAndroid": "",
+      "performanceIos": "",
+      "tags": "",
+      "createdAt": "2025-12-27T04:32:08.940Z",
+      "updatedAt": "2025-12-27T04:33:45.049Z",
+      "version": 0,
+      "metadataProvider": "Owner verified",
+      "platformMetadataState": "OWNER_VERIFIED",
+      "platformMetadataCheckedAt": "2026-10-08T12:39:58.455Z",
+      "metadataCheckedAt": "2026-10-08T12:39:58.455Z"
     }
   ]
 }
