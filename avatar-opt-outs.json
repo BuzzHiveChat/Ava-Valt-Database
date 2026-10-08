@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-08T01:39:55.855Z",
+  "updated": "2026-10-08T11:04:05.405Z",
   "excludedAvatars": [
     {
       "id": "avtr_382346f2-2874-4192-be25-336ada0d9082",
@@ -31,6 +31,26 @@
       "name": "german shepherd jinxed dog",
       "source": "NekoSuneVR Exact Lookup",
       "reportedAt": "2026-10-08T01:37:16.562Z"
+    },
+    {
+      "id": "avtr_6b8d27ef-afe4-42b4-9e42-fc0759e22c76",
+      "type": "avatar",
+      "marker": "blacklist",
+      "avatarId": "avtr_6b8d27ef-afe4-42b4-9e42-fc0759e22c76",
+      "creatorId": "usr_eaf632cc-f5a0-4003-bce0-fbe5c47f23f4",
+      "name": "Stitch‚ Yard Dog BlackCell （BO6）",
+      "source": "NekoSuneVR Exact Lookup",
+      "reportedAt": "2026-10-08T11:04:05.405Z"
+    },
+    {
+      "id": "avtr_a25e236b-d6f1-4cd0-a5aa-c45e19eb3ea3",
+      "type": "avatar",
+      "marker": "blacklist",
+      "avatarId": "avtr_a25e236b-d6f1-4cd0-a5aa-c45e19eb3ea3",
+      "creatorId": "usr_eaf632cc-f5a0-4003-bce0-fbe5c47f23f4",
+      "name": "Stitch‚ Yard Dog （BO6）",
+      "source": "NekoSuneVR Exact Lookup",
+      "reportedAt": "2026-10-08T11:04:05.405Z"
     }
   ],
   "dismissedRequests": []
