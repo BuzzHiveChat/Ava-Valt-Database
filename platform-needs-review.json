@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-08T12:23:56.370Z",
+  "updated": "2026-10-08T12:25:34.978Z",
   "avatars": [
     {
       "id": "avtr_e1161d4f-6876-464a-a988-89dcaaf4534c",
@@ -415,32 +415,6 @@
       "quarantineReason": "new-import-platform-unresolved",
       "quarantinedAt": "2026-10-07T13:00:00.224Z",
       "platformMetadataCheckedAt": "2026-10-08T01:37:02.857Z",
-      "reviewReason": "platform-unresolved-after-repair",
-      "movedToReviewAt": "2026-10-08T01:37:24.973Z"
-    },
-    {
-      "id": "avtr_bdccb844-13a6-4a77-bc71-198e96b43d52",
-      "name": "Old Cartoon Dog P2",
-      "author": "Bucket-Head",
-      "authorId": "usr_48697779-06f2-4c7f-99ee-3efb6757494e",
-      "description": "Cartoon dog from trevor henderson",
-      "imageUrl": "http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/file/file_c544f78d-23eb-4b7c-b9da-d87ff9464ddf/1/file",
-      "thumbnailImageUrl": "http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_c544f78d-23eb-4b7c-b9da-d87ff9464ddf/1/256",
-      "releaseStatus": "public",
-      "searchable": true,
-      "platforms": [],
-      "performancePc": "",
-      "performanceAndroid": "",
-      "performanceIos": "",
-      "tags": "",
-      "createdAt": "2026-01-20T03:05:08.787Z",
-      "updatedAt": "2026-01-20T03:16:17.501Z",
-      "version": 0,
-      "metadataProvider": "PAW",
-      "platformMetadataState": "NEEDS_OWNER_REVIEW",
-      "quarantineReason": "new-import-platform-unresolved",
-      "quarantinedAt": "2026-10-07T13:00:00.224Z",
-      "platformMetadataCheckedAt": "2026-10-08T01:37:03.355Z",
       "reviewReason": "platform-unresolved-after-repair",
       "movedToReviewAt": "2026-10-08T01:37:24.973Z"
     },
@@ -2216,7 +2190,8 @@
   "dismissedIds": [
     "avtr_682065af-19ce-4d6b-8e33-07879d719a91",
     "avtr_eed88d36-a81d-427f-b775-4fa5743a9c22",
-    "avtr_a647fe5d-286e-4c66-b89c-364170190f8f"
+    "avtr_a647fe5d-286e-4c66-b89c-364170190f8f",
+    "avtr_bdccb844-13a6-4a77-bc71-198e96b43d52"
   ],
   "autoReview": {}
 }
