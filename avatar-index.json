@@ -32360,44 +32360,6 @@
       "version": 0
     },
     {
-      "id": "avtr_b088f768-b8ca-4e7a-a338-4fe2f4f975fa",
-      "name": "bHaptics Cool Bunny",
-      "author": "bHaptics Inc",
-      "authorId": "usr_9e4e8d2d-6d2e-44eb-8889-85ef502800f9",
-      "description": "bHaptics Avatar for PC",
-      "imageUrl": "https://db.vrcnext.com/thumbs/5a/avtr_b088f768-b8ca-4e7a-a338-4fe2f4f975fa.webp",
-      "thumbnailImageUrl": "https://db.vrcnext.com/thumbs/5a/avtr_b088f768-b8ca-4e7a-a338-4fe2f4f975fa.webp",
-      "releaseStatus": "public",
-      "searchable": true,
-      "platforms": "PC",
-      "performancePc": "VeryPoor",
-      "performanceAndroid": "",
-      "performanceIos": "",
-      "tags": "",
-      "createdAt": "",
-      "updatedAt": "2025-11-07T13:55:51.872Z",
-      "version": 0
-    },
-    {
-      "id": "avtr_687cf28d-04fc-419a-aa08-602df0d137a3",
-      "name": "bHaptics Cool Bunny for Quest",
-      "author": "bHaptics Inc",
-      "authorId": "usr_9e4e8d2d-6d2e-44eb-8889-85ef502800f9",
-      "description": "bHaptics Avatar for Quest",
-      "imageUrl": "https://db.vrcnext.com/thumbs/17/avtr_687cf28d-04fc-419a-aa08-602df0d137a3.webp",
-      "thumbnailImageUrl": "https://db.vrcnext.com/thumbs/17/avtr_687cf28d-04fc-419a-aa08-602df0d137a3.webp",
-      "releaseStatus": "public",
-      "searchable": true,
-      "platforms": "PC • ANDROID",
-      "performancePc": "Medium",
-      "performanceAndroid": "VeryPoor",
-      "performanceIos": "",
-      "tags": "",
-      "createdAt": "",
-      "updatedAt": "2025-11-07T13:51:26.705Z",
-      "version": 0
-    },
-    {
       "id": "avtr_d67eefe1-f735-4cef-8662-eefcc34b4510",
       "name": "BICH",
       "author": "Dj dragonsexyfighter",
@@ -384267,32 +384229,6 @@
       "platformMetadataState": "AUTO_RESOLVED",
       "metadataEvidence": "public exact-ID Platform field",
       "metadataCheckedAt": "2026-10-08T00:35:25.892Z"
-    },
-    {
-      "id": "avtr_7ad4c376-2242-42a6-bd1f-da765771de63",
-      "name": "Roman Reigns （Big Dog） （All In One） （WWE2K25）",
-      "author": "acecardcoolman",
-      "authorId": "usr_4c3e3b8f-0cee-42c7-9653-4977893eacfe",
-      "description": "Roman Reigns （Big Dog） （All In One） （WWE2K25）",
-      "imageUrl": "http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/file/file_631fa2d4-ce05-445f-81b9-7004eafa0f56/1/file",
-      "thumbnailImageUrl": "http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_631fa2d4-ce05-445f-81b9-7004eafa0f56/1/256",
-      "releaseStatus": "public",
-      "searchable": true,
-      "platforms": [
-        "PC",
-        "Android"
-      ],
-      "performancePc": "",
-      "performanceAndroid": "",
-      "performanceIos": "",
-      "tags": "",
-      "createdAt": "2026-04-21T02:05:53.595Z",
-      "updatedAt": "2026-04-21T02:20:14.158Z",
-      "version": 0,
-      "metadataProvider": "Owner verified",
-      "platformMetadataCheckedAt": "2026-10-08T01:38:11.391Z",
-      "platformMetadataState": "OWNER_VERIFIED",
-      "metadataCheckedAt": "2026-10-08T01:38:11.391Z"
     }
   ]
 }
