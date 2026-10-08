@@ -60,8 +60,10 @@
     "raptor"
   ],
   "providerEnabled": {
-    "avtrDB": true,
+    "avtrDB": false,
+    "AvtrZip": true,
     "KitsuneDB": true,
+    "CuteDB": true,
     "PAW": true,
     "VRCDB": true,
     "VRCWB": true,
@@ -178,13 +180,13 @@
     "verificationTimeMs": 18052
   },
   "searchTermCursor": 6,
-  "lastQuarantineRepair": "2026-10-07T23:08:03.445Z",
-  "lastQuarantineChecked": 91,
-  "lastQuarantineRestored": 61,
-  "lastQuarantineRemaining": 723,
+  "lastQuarantineRepair": "2026-10-08T00:33:55.276Z",
+  "lastQuarantineChecked": 87,
+  "lastQuarantineRestored": 51,
+  "lastQuarantineRemaining": 672,
   "lastQuarantineError": null,
   "currentStage": "STOPPED",
   "stageUpdatedAt": "2026-10-07T13:10:24.355Z",
-  "updatedAt": "2026-10-07T23:11:46.971Z",
+  "updatedAt": "2026-10-08T00:33:55.276Z",
   "lastConflicts": 0
 }
