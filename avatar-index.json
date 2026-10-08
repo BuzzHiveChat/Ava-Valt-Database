@@ -385411,6 +385411,32 @@
       "metadataEvidence": "public exact-ID Platform field",
       "metadataCheckedAt": "2026-10-08T12:11:58.738Z",
       "platformMetadataCheckedAt": "2026-10-08T12:11:58.738Z"
+    },
+    {
+      "id": "avtr_e1161d4f-6876-464a-a988-89dcaaf4534c",
+      "name": "Charging Apple Dog Rui",
+      "author": "Kɪᴡɪᴋʏʀᴀ",
+      "authorId": "usr_4e576e0e-df65-47db-8771-028de1cfd3eb",
+      "description": "ruimeowhi",
+      "imageUrl": "http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/file/file_a3c3b4e1-b06e-40e1-8e86-c4207e1aeeba/1/file",
+      "thumbnailImageUrl": "http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_a3c3b4e1-b06e-40e1-8e86-c4207e1aeeba/1/256",
+      "releaseStatus": "public",
+      "searchable": true,
+      "platforms": [
+        "PC",
+        "Android"
+      ],
+      "performancePc": "",
+      "performanceAndroid": "",
+      "performanceIos": "",
+      "tags": "",
+      "createdAt": "2026-04-16T03:26:43.183Z",
+      "updatedAt": "2026-04-17T00:09:29.864Z",
+      "version": 0,
+      "metadataProvider": "Owner verified",
+      "platformMetadataState": "OWNER_VERIFIED",
+      "platformMetadataCheckedAt": "2026-10-08T12:26:18.347Z",
+      "metadataCheckedAt": "2026-10-08T12:26:18.347Z"
     }
   ]
 }
