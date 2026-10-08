@@ -385439,31 +385439,30 @@
       "metadataCheckedAt": "2026-10-08T12:27:22.202Z"
     },
     {
-      "id": "avtr_07495d16-22ae-410b-ba71-1b22754b7058",
-      "name": "Arcade Fluffy Dog V2",
-      "author": "HerobrineSings",
-      "authorId": "usr_487bc03a-a81d-45c8-a66f-41b0d5a680bb",
-      "description": "Arcade doggo",
-      "imageUrl": "http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/file/file_03236e0e-1bed-40d7-9f7e-e265f83d16fd/2/file",
-      "thumbnailImageUrl": "http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_03236e0e-1bed-40d7-9f7e-e265f83d16fd/2/256",
+      "id": "avtr_cc4347b3-19fe-4264-844b-e60a4078910a",
+      "name": "Dog",
+      "author": "PizzaJazz",
+      "authorId": "usr_98578a09-4f70-4f18-b7df-d8d413e60b74",
+      "description": "Dog",
+      "imageUrl": "http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/file/file_bf0282a4-98b7-4c1c-b37e-d0131c11356f/1/file",
+      "thumbnailImageUrl": "http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_bf0282a4-98b7-4c1c-b37e-d0131c11356f/1/256",
       "releaseStatus": "public",
       "searchable": true,
       "platforms": [
-        "Android",
         "PC",
-        "iOS"
+        "Android"
       ],
       "performancePc": "",
       "performanceAndroid": "",
       "performanceIos": "",
       "tags": "",
-      "createdAt": "2026-02-28T03:15:53.691Z",
-      "updatedAt": "2026-05-19T00:28:06.339Z",
+      "createdAt": "2026-03-01T01:03:24.951Z",
+      "updatedAt": "2026-03-02T08:54:38.361Z",
       "version": 0,
       "metadataProvider": "Owner verified",
       "platformMetadataState": "OWNER_VERIFIED",
-      "platformMetadataCheckedAt": "2026-10-08T12:40:56.200Z",
-      "metadataCheckedAt": "2026-10-08T12:40:56.200Z"
+      "platformMetadataCheckedAt": "2026-10-08T12:41:07.397Z",
+      "metadataCheckedAt": "2026-10-08T12:41:07.397Z"
     }
   ]
 }
