@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-08T12:40:04.056Z",
+  "updated": "2026-10-08T12:40:17.119Z",
   "avatars": [
     {
       "id": "avtr_a3e8487e-2dfa-453d-857e-7ba0466562e2",
@@ -311,32 +311,6 @@
       "quarantineReason": "new-import-platform-unresolved",
       "quarantinedAt": "2026-10-07T13:00:00.224Z",
       "platformMetadataCheckedAt": "2026-10-08T01:37:02.444Z",
-      "reviewReason": "platform-unresolved-after-repair",
-      "movedToReviewAt": "2026-10-08T01:37:24.973Z"
-    },
-    {
-      "id": "avtr_025375be-96be-441a-b6c4-4e3df37b6f33",
-      "name": "Guard Dog",
-      "author": "Redberry Sans",
-      "authorId": "usr_a3ba4878-f9a2-45aa-8452-095b491365ca",
-      "description": "Super Earth's most patriotic pup․ This Avatar was made for the Virtual Diver Program PvP Community․",
-      "imageUrl": "http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/file/file_7b2d1e16-54ac-43c5-8412-bd5c0e86797d/2/file",
-      "thumbnailImageUrl": "http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_7b2d1e16-54ac-43c5-8412-bd5c0e86797d/2/256",
-      "releaseStatus": "public",
-      "searchable": true,
-      "platforms": [],
-      "performancePc": "",
-      "performanceAndroid": "",
-      "performanceIos": "",
-      "tags": "",
-      "createdAt": "2026-02-03T06:21:46.515Z",
-      "updatedAt": "2026-04-19T20:53:18.853Z",
-      "version": 0,
-      "metadataProvider": "PAW",
-      "platformMetadataState": "NEEDS_OWNER_REVIEW",
-      "quarantineReason": "new-import-platform-unresolved",
-      "quarantinedAt": "2026-10-07T13:00:00.224Z",
-      "platformMetadataCheckedAt": "2026-10-08T01:37:02.857Z",
       "reviewReason": "platform-unresolved-after-repair",
       "movedToReviewAt": "2026-10-08T01:37:24.973Z"
     },
