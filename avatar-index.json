@@ -385439,30 +385439,29 @@
       "metadataCheckedAt": "2026-10-08T12:27:22.202Z"
     },
     {
-      "id": "avtr_4ec85ac2-b288-42cf-a34e-1369d6074d47",
-      "name": "Lobster Dog 2․0",
-      "author": "max84444",
-      "authorId": "usr_5a2cc695-afbf-468d-83ea-fbb99231c95c",
-      "description": "Lobster Dog 2․0",
-      "imageUrl": "http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/file/file_b3cf0b24-a926-40d1-9ea9-3a25bda45c7e/1/file",
-      "thumbnailImageUrl": "http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_b3cf0b24-a926-40d1-9ea9-3a25bda45c7e/1/256",
+      "id": "avtr_025375be-96be-441a-b6c4-4e3df37b6f33",
+      "name": "Guard Dog",
+      "author": "Redberry Sans",
+      "authorId": "usr_a3ba4878-f9a2-45aa-8452-095b491365ca",
+      "description": "Super Earth's most patriotic pup․ This Avatar was made for the Virtual Diver Program PvP Community․",
+      "imageUrl": "http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/file/file_7b2d1e16-54ac-43c5-8412-bd5c0e86797d/2/file",
+      "thumbnailImageUrl": "http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_7b2d1e16-54ac-43c5-8412-bd5c0e86797d/2/256",
       "releaseStatus": "public",
       "searchable": true,
       "platforms": [
-        "PC",
-        "Android"
+        "PC"
       ],
       "performancePc": "",
       "performanceAndroid": "",
       "performanceIos": "",
       "tags": "",
-      "createdAt": "2025-12-27T04:32:08.940Z",
-      "updatedAt": "2025-12-27T04:33:45.049Z",
+      "createdAt": "2026-02-03T06:21:46.515Z",
+      "updatedAt": "2026-04-19T20:53:18.853Z",
       "version": 0,
       "metadataProvider": "Owner verified",
       "platformMetadataState": "OWNER_VERIFIED",
-      "platformMetadataCheckedAt": "2026-10-08T12:39:58.455Z",
-      "metadataCheckedAt": "2026-10-08T12:39:58.455Z"
+      "platformMetadataCheckedAt": "2026-10-08T12:40:11.349Z",
+      "metadataCheckedAt": "2026-10-08T12:40:11.349Z"
     }
   ]
 }
