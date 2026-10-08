@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-08T12:12:23.559Z",
+  "updated": "2026-10-08T12:23:56.370Z",
   "avatars": [
     {
       "id": "avtr_e1161d4f-6876-464a-a988-89dcaaf4534c",
@@ -129,32 +129,6 @@
       "quarantineReason": "new-import-platform-unresolved",
       "quarantinedAt": "2026-10-07T13:00:00.224Z",
       "platformMetadataCheckedAt": "2026-10-08T01:36:56.812Z",
-      "reviewReason": "platform-unresolved-after-repair",
-      "movedToReviewAt": "2026-10-08T01:37:24.973Z"
-    },
-    {
-      "id": "avtr_a647fe5d-286e-4c66-b89c-364170190f8f",
-      "name": "icky dog",
-      "author": "wіtсh",
-      "authorId": "usr_0577e0be-a0c4-4494-a67e-9c0cdb0e2d66",
-      "description": "meow mewo woof wmeow ejiwkafjiasfaskmlas",
-      "imageUrl": "http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/file/file_deb9d98f-3310-4107-b553-83bf0eab93c2/1/file",
-      "thumbnailImageUrl": "http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_deb9d98f-3310-4107-b553-83bf0eab93c2/1/256",
-      "releaseStatus": "public",
-      "searchable": true,
-      "platforms": [],
-      "performancePc": "",
-      "performanceAndroid": "",
-      "performanceIos": "",
-      "tags": "",
-      "createdAt": "2026-03-26T05:37:24.342Z",
-      "updatedAt": "2026-03-26T05:49:19.811Z",
-      "version": 0,
-      "metadataProvider": "PAW",
-      "platformMetadataState": "NEEDS_OWNER_REVIEW",
-      "quarantineReason": "new-import-platform-unresolved",
-      "quarantinedAt": "2026-10-07T13:00:00.224Z",
-      "platformMetadataCheckedAt": "2026-10-08T01:36:57.437Z",
       "reviewReason": "platform-unresolved-after-repair",
       "movedToReviewAt": "2026-10-08T01:37:24.973Z"
     },
@@ -2241,7 +2215,8 @@
   ],
   "dismissedIds": [
     "avtr_682065af-19ce-4d6b-8e33-07879d719a91",
-    "avtr_eed88d36-a81d-427f-b775-4fa5743a9c22"
+    "avtr_eed88d36-a81d-427f-b775-4fa5743a9c22",
+    "avtr_a647fe5d-286e-4c66-b89c-364170190f8f"
   ],
   "autoReview": {}
 }
