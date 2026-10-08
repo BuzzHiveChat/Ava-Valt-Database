@@ -5,7 +5,7 @@
   "maxAddPerRun": 300,
   "strictPlatformMode": true,
   "autoQuarantineRepair": false,
-  "quarantineRepairBatch": 100,
+  "quarantineRepairBatch": 200,
   "quarantineRetryCooldownHours": 12,
   "searchTerms": [
     "avatar",
