@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-08T01:38:32.436Z",
+  "updated": "2026-10-08T01:38:38.503Z",
   "avatars": [
     {
       "id": "avtr_e1161d4f-6876-464a-a988-89dcaaf4534c",
@@ -627,32 +627,6 @@
       "movedToReviewAt": "2026-10-08T01:37:24.973Z"
     },
     {
-      "id": "avtr_eed88d36-a81d-427f-b775-4fa5743a9c22",
-      "name": "bHaptics Hot Dog",
-      "author": "bHaptics Inc",
-      "authorId": "usr_9e4e8d2d-6d2e-44eb-8889-85ef502800f9",
-      "description": "bHaptics Avatar for PC",
-      "imageUrl": "http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/file/file_c48ae6d9-9e6f-4944-b3b2-1f3081cad23b/1/file",
-      "thumbnailImageUrl": "http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_c48ae6d9-9e6f-4944-b3b2-1f3081cad23b/1/256",
-      "releaseStatus": "public",
-      "searchable": true,
-      "platforms": [],
-      "performancePc": "",
-      "performanceAndroid": "",
-      "performanceIos": "",
-      "tags": "",
-      "createdAt": "2025-11-07T02:51:24.257Z",
-      "updatedAt": "2025-11-07T13:57:49.575Z",
-      "version": 0,
-      "metadataProvider": "PAW",
-      "platformMetadataState": "NEEDS_OWNER_REVIEW",
-      "quarantineReason": "new-import-platform-unresolved",
-      "quarantinedAt": "2026-10-07T13:00:00.224Z",
-      "platformMetadataCheckedAt": "2026-10-08T01:37:09.252Z",
-      "reviewReason": "platform-unresolved-after-repair",
-      "movedToReviewAt": "2026-10-08T01:37:24.973Z"
-    },
-    {
       "id": "avtr_7478e4f9-fa73-4d1e-a538-a39d4cb82a09",
       "name": "Happy dog",
       "author": "Kazuki Pierre",
@@ -966,6 +940,7 @@
     }
   ],
   "dismissedIds": [
-    "avtr_682065af-19ce-4d6b-8e33-07879d719a91"
+    "avtr_682065af-19ce-4d6b-8e33-07879d719a91",
+    "avtr_eed88d36-a81d-427f-b775-4fa5743a9c22"
   ]
 }
