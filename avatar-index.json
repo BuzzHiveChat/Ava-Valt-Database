@@ -386675,6 +386675,29 @@
       "platformMetadataState": "OWNER_VERIFIED",
       "platformMetadataCheckedAt": "2026-10-08T21:48:04.397Z",
       "metadataCheckedAt": "2026-10-08T21:48:04.397Z"
+    },
+    {
+      "id": "avtr_e550c709-d479-4e90-a123-88683760e207",
+      "name": "All N One Regulus˸ Five Nights At Freddy's",
+      "author": "AlexTheRegulus",
+      "authorId": "",
+      "description": "",
+      "imageUrl": "",
+      "thumbnailImageUrl": "",
+      "releaseStatus": "public",
+      "searchable": true,
+      "platforms": [
+        "PC",
+        "Android"
+      ],
+      "performancePc": "",
+      "performanceAndroid": "",
+      "performanceIos": "",
+      "tags": "",
+      "createdAt": "",
+      "updatedAt": "",
+      "version": 0,
+      "metadataProvider": "Quick Import (manual platform)"
     }
   ]
 }
