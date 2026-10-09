@@ -1,0 +1,15 @@
+{
+  "name": "ava-valt-admin",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "test": "node --experimental-loader ./tests/extension-loader.mjs --test tests/*.test.mjs"
+  },
+  "dependencies": {
+    "next": "^16.0.10",
+    "react": "19.2.0",
+    "react-dom": "19.2.0"
+  }
+}
