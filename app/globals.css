@@ -1,9 +1,0 @@
-
-textarea{width:100%;box-sizing:border-box}.danger{border-color:#ff6b81}.status{display:inline-block;padding:8px 12px;border-radius:999px;margin:8px 0 14px;background:#35252b}.status.good{background:#203b31}.error{color:#ff9ca9}.row{display:flex;gap:18px;align-items:center;justify-content:space-between;flex-wrap:wrap}.top{display:flex;justify-content:space-between;gap:20px;align-items:center;flex-wrap:wrap}.eyebrow{font-size:12px;letter-spacing:.16em;opacity:.7}
-
-.importBanner{margin:18px 0;padding:14px 16px;border:1px solid #3a3049;border-radius:14px;display:flex;align-items:center;justify-content:space-between;gap:14px;flex-wrap:wrap;background:#17131f}
-.importBanner.running{border-color:#5fbe8b}.importBanner.ready{border-color:#7b55c7}.importBanner.stopped{opacity:.9}
-.importBanner span{opacity:.72;margin-left:8px}.button{display:inline-block;text-decoration:none}
-button:disabled{opacity:.55;cursor:not-allowed}
-
-.pill{display:inline-block;margin:6px 6px 0 0;padding:3px 8px;border:1px solid #6b4aa0;border-radius:999px;font-size:12px;font-weight:700}

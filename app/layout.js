@@ -1,1 +1,0 @@
-import "./style.css"; export const metadata={title:"Ava-Valt Admin"}; export default function Layout({children}){return <html><body>{children}</body></html>}

@@ -1,1 +1,0 @@
-import{authorized}from"../../../lib/guard";import{readDb}from"../../../lib/db";export async function GET(){if(!await authorized())return Response.json({error:"Unauthorized"},{status:401});try{const d=await readDb();return Response.json({count:d.avatars.length,updated:d.updated,version:d.version})}catch(e){return Response.json({error:e.message},{status:500})}}
