@@ -12,7 +12,9 @@ const MAX_BUCKET_BYTES = 5 * 1024 * 1024;
 const MAX_PAGES_BYTES = 900 * 1024 * 1024;
 const BASE_URL = 'https://buzzhivechat.github.io/Ava-Valt-Database/search/v1/';
 const validId = id => typeof id === 'string' && /^avtr_[\da-f-]{36}$/i.test(id);
-const key = id => id.toLowerCase();
+// Creator IDs are optional in manually imported avatars. Missing IDs are not
+// opt-out matches and must never crash index generation.
+const key = id => typeof id === 'string' ? id.toLowerCase() : '';
 const tokens = value => {
   const raw = Array.isArray(value) ? value.join(' ') : String(value ?? '');
   return (raw.toLowerCase().match(/[a-z0-9]{2,}/g) || []).map(w => w.slice(0, 2));
@@ -37,9 +39,9 @@ export function build(inputText) {
   let exclusions = {};
   try { exclusions = JSON.parse(readFileSync('avatar-opt-outs.json', 'utf8')); }
   catch (e) { if (e.code !== 'ENOENT') throw e; }
-  const blockedIds = new Set((exclusions.excludedAvatars || []).map(x=>key(x.id)));
-  const blockedCreators = new Set((exclusions.excludedCreators || []).map(x=>key(x.id)));
-  const creatorKey = a => key(a.authorId || a.creatorId || a.author?.id || a.creator?.id);
+  const blockedIds = new Set((exclusions.excludedAvatars || []).map(x=>key(x?.id)).filter(Boolean));
+  const blockedCreators = new Set((exclusions.excludedCreators || []).map(x=>key(x?.id)).filter(Boolean));
+  const creatorKey = a => key(a?.authorId || a?.creatorId || a?.author?.id || a?.creator?.id);
   if (!Array.isArray(avatars)) throw new Error('avatar-index.json must contain an array or an object with an avatars array');
   const all=Array.from({length:BUCKETS},()=>new Map());
   const ids=new Set(); let ignored=0;
@@ -60,7 +62,6 @@ export function build(inputText) {
     out.push(text);
   }
   if(totalBytes>MAX_PAGES_BYTES)throw new Error(`Search index is ${totalBytes} bytes; too large for the current GitHub Pages setup. No files have been published.`);
-  // Equivalent to Git's blob SHA, used by the existing Unity-friendly manifest.
   const sourceSha=createHash('sha1').update(`blob ${Buffer.byteLength(inputText)}\0`).update(inputText).digest('hex');
   const manifest={version:1,searchMode:'two-letter-word-prefix',bucketCount:BUCKETS,
     baseUrl:BASE_URL,sourceSha,total:ids.size,generatedAt:new Date().toISOString(),
@@ -70,7 +71,7 @@ export function build(inputText) {
 
 if(process.argv[1] && resolve(process.argv[1])===resolve(fileURLToPath(import.meta.url))){
   const input=readFileSync('avatar-index.json','utf8');
-  const data=build(input); // Validate size of EVERY file before writing even one.
+  const data=build(input);
   mkdirSync(PREFIX,{recursive:true});
   for(let i=0;i<BUCKETS;i++){
     writeFileSync(`${PREFIX}/${i.toString(16).padStart(2,'0')}.json`,data.out[i]);
