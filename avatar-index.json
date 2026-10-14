@@ -386698,6 +386698,30 @@
       "updatedAt": "",
       "version": 0,
       "metadataProvider": "Quick Import (manual platform)"
+    },
+    {
+      "id": "avtr_289c56ca-9f63-4049-a686-1990dc0a781b",
+      "name": "Sonic - Sonic R",
+      "author": "Ash the tenrec",
+      "authorId": "",
+      "description": "",
+      "imageUrl": "",
+      "thumbnailImageUrl": "",
+      "releaseStatus": "public",
+      "searchable": true,
+      "platforms": [
+        "iOS",
+        "PC",
+        "Android"
+      ],
+      "performancePc": "",
+      "performanceAndroid": "",
+      "performanceIos": "",
+      "tags": "",
+      "createdAt": "",
+      "updatedAt": "",
+      "version": 0,
+      "metadataProvider": "Quick Import (manual platform)"
     }
   ]
 }
