@@ -404119,6 +404119,393 @@
       "sourceProviders": [
         "VRCWB"
       ]
+    },
+    {
+      "id": "avtr_f2551de3-6a98-4c43-92bd-5036a4fd6758",
+      "name": "Varang from avatar fire and ash",
+      "author": "Anzai~Inferno",
+      "authorId": "usr_39115d3d-c84a-46e2-9472-71bae6a334e6",
+      "description": "Varang from avatar fire and ash",
+      "imageUrl": "http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/file/file_c1fdfe4c-1a51-432c-b6da-dbeb53ca0d05/2/file",
+      "thumbnailImageUrl": "http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_c1fdfe4c-1a51-432c-b6da-dbeb53ca0d05/2/256",
+      "releaseStatus": "public",
+      "searchable": true,
+      "platforms": [
+        "PC",
+        "Android"
+      ],
+      "performancePc": "",
+      "performanceAndroid": "",
+      "performanceIos": "",
+      "tags": "",
+      "createdAt": "2025-12-27T03:18:36.438Z",
+      "updatedAt": "2026-02-20T06:58:30.481Z",
+      "version": 0,
+      "metadataProvider": "VRCWB",
+      "sourceProviders": [
+        "PAW",
+        "VRCWB"
+      ]
+    },
+    {
+      "id": "avtr_d0dac56b-9f76-4149-8130-815cd0a64d37",
+      "name": "Elise Avatar",
+      "author": "Azeru Huyara",
+      "authorId": "usr_73c4ce31-678e-4184-9039-819391f04163",
+      "description": "Elise Avatar",
+      "imageUrl": "http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/file/file_04c5558a-3299-492f-840d-d39ba2b8fb7e/1/file",
+      "thumbnailImageUrl": "http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_04c5558a-3299-492f-840d-d39ba2b8fb7e/1/256",
+      "releaseStatus": "public",
+      "searchable": true,
+      "platforms": [
+        "PC"
+      ],
+      "performancePc": "",
+      "performanceAndroid": "",
+      "performanceIos": "",
+      "tags": "",
+      "createdAt": "2025-11-28T19:34:46.487Z",
+      "updatedAt": "2025-11-28T19:44:42.831Z",
+      "version": 0,
+      "metadataProvider": "VRCWB",
+      "sourceProviders": [
+        "PAW",
+        "VRCWB"
+      ]
+    },
+    {
+      "id": "avtr_ee89ce7f-5b5b-40bd-aeec-b420ef71bd7f",
+      "name": "raptor my firdst actual avatar wtf",
+      "author": "Kaisstudios",
+      "authorId": "usr_418a9f6d-7abf-4004-a7cc-492299759468",
+      "description": "what",
+      "imageUrl": "http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/file/file_8cb208e4-d9fb-41bc-936c-afc59d77855d/1/file",
+      "thumbnailImageUrl": "http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_8cb208e4-d9fb-41bc-936c-afc59d77855d/1/256",
+      "releaseStatus": "public",
+      "searchable": true,
+      "platforms": [
+        "PC",
+        "Android"
+      ],
+      "performancePc": "",
+      "performanceAndroid": "",
+      "performanceIos": "",
+      "tags": "",
+      "createdAt": "2025-03-10T20:49:34.216Z",
+      "updatedAt": "2025-03-10T20:56:25.399Z",
+      "version": 0,
+      "metadataProvider": "VRCWB",
+      "sourceProviders": [
+        "PAW",
+        "VRCWB"
+      ]
+    },
+    {
+      "id": "avtr_4244f6f6-d3ad-4a30-a2e6-68110d83a147",
+      "name": "bamboo_avatar_yellow",
+      "author": "sera1",
+      "authorId": "usr_b6ccc067-5dc4-4a0b-9662-0e498bf7ede2",
+      "description": "bamboo_avatar_yellow",
+      "imageUrl": "http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/file/file_43996d66-f765-4d5f-b139-dc7041bc6b79/1/file",
+      "thumbnailImageUrl": "http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_43996d66-f765-4d5f-b139-dc7041bc6b79/1/256",
+      "releaseStatus": "public",
+      "searchable": true,
+      "platforms": [
+        "PC"
+      ],
+      "performancePc": "",
+      "performanceAndroid": "",
+      "performanceIos": "",
+      "tags": "",
+      "createdAt": "2024-10-30T07:00:24.260Z",
+      "updatedAt": "2024-10-30T07:20:16.633Z",
+      "version": 0,
+      "metadataProvider": "VRCWB",
+      "sourceProviders": [
+        "PAW",
+        "VRCWB"
+      ]
+    },
+    {
+      "id": "avtr_df97c3bf-3621-4594-a790-4956f219c73e",
+      "name": "mushroom_avatar_blue",
+      "author": "sera1",
+      "authorId": "usr_b6ccc067-5dc4-4a0b-9662-0e498bf7ede2",
+      "description": "mushroom_avatar_blue",
+      "imageUrl": "http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/file/file_ac0480c5-ed1a-4ad0-b7c4-a664f4284c26/1/file",
+      "thumbnailImageUrl": "http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_ac0480c5-ed1a-4ad0-b7c4-a664f4284c26/1/256",
+      "releaseStatus": "public",
+      "searchable": true,
+      "platforms": [
+        "PC"
+      ],
+      "performancePc": "",
+      "performanceAndroid": "",
+      "performanceIos": "",
+      "tags": "",
+      "createdAt": "2024-10-30T07:11:00.367Z",
+      "updatedAt": "2024-10-30T07:19:58.113Z",
+      "version": 0,
+      "metadataProvider": "VRCWB",
+      "sourceProviders": [
+        "PAW",
+        "VRCWB"
+      ]
+    },
+    {
+      "id": "avtr_47f8800e-975e-4d4e-acaf-046f2cf5a732",
+      "name": "mushroom_avatar_brown",
+      "author": "sera1",
+      "authorId": "usr_b6ccc067-5dc4-4a0b-9662-0e498bf7ede2",
+      "description": "mushroom_avatar_brown",
+      "imageUrl": "http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/file/file_a2c6ef57-2e22-485a-87e4-94467b84ab99/1/file",
+      "thumbnailImageUrl": "http://paw-api.amelia.fun/proxy?url=https://api.vrchat.cloud/api/1/image/file_a2c6ef57-2e22-485a-87e4-94467b84ab99/1/256",
+      "releaseStatus": "public",
+      "searchable": true,
+      "platforms": [
+        "PC"
+      ],
+      "performancePc": "",
+      "performanceAndroid": "",
+      "performanceIos": "",
+      "tags": "",
+      "createdAt": "2024-10-30T07:12:00.977Z",
+      "updatedAt": "2024-10-30T07:19:19.609Z",
+      "version": 0,
+      "metadataProvider": "VRCWB",
+      "sourceProviders": [
+        "PAW",
+        "VRCWB"
+      ]
+    },
+    {
+      "id": "avtr_d3ddd188-ca1e-47d7-a731-5c76025880c1",
+      "name": "Changed Avatar ＃2",
+      "author": "Unknown",
+      "authorId": "",
+      "description": "",
+      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_7e9d9432-8d63-479f-b1c8-85590568c5e6/2/file",
+      "thumbnailImageUrl": "",
+      "releaseStatus": "public",
+      "searchable": true,
+      "platforms": [
+        "PC"
+      ],
+      "performancePc": "VeryPoor",
+      "performanceAndroid": "",
+      "performanceIos": "",
+      "tags": "",
+      "createdAt": "",
+      "updatedAt": "",
+      "version": 0,
+      "metadataProvider": "VRCWB",
+      "sourceProviders": [
+        "VRCWB"
+      ]
+    },
+    {
+      "id": "avtr_45901881-a6fc-45d0-bf47-78a0314961f8",
+      "name": "10xx Space Avatar super smol",
+      "author": "Unknown",
+      "authorId": "",
+      "description": "",
+      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_d7c7f199-e3f5-4913-bb28-846d28fdc5ad/1/file",
+      "thumbnailImageUrl": "",
+      "releaseStatus": "public",
+      "searchable": true,
+      "platforms": [
+        "PC"
+      ],
+      "performancePc": "Medium",
+      "performanceAndroid": "",
+      "performanceIos": "",
+      "tags": "",
+      "createdAt": "",
+      "updatedAt": "",
+      "version": 0,
+      "metadataProvider": "VRCWB",
+      "sourceProviders": [
+        "VRCWB"
+      ]
+    },
+    {
+      "id": "avtr_67909927-0424-4d87-a21a-fc8cd7b1b28c",
+      "name": "1st avatar",
+      "author": "Nevie",
+      "authorId": "",
+      "description": "1st avatar",
+      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_663583fc-d0ec-4544-885e-b7466253d265/1/file",
+      "thumbnailImageUrl": "https://api.vrchat.cloud/api/1/image/file_663583fc-d0ec-4544-885e-b7466253d265/1/256",
+      "releaseStatus": "public",
+      "searchable": true,
+      "platforms": [
+        "PC"
+      ],
+      "performancePc": "Poor",
+      "performanceAndroid": "",
+      "performanceIos": "",
+      "tags": "",
+      "createdAt": "",
+      "updatedAt": "",
+      "version": 0,
+      "metadataProvider": "VRCWB",
+      "sourceProviders": [
+        "VRCWB",
+        "NSVR"
+      ]
+    },
+    {
+      "id": "avtr_1c96d4cc-a012-418c-aa66-a94526456aef",
+      "name": "Untitled goose avatar",
+      "author": "Kinimara",
+      "authorId": "usr_aad7b179-860f-40b7-98b6-633d7746574f",
+      "description": "Untitled goose avatar",
+      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_8b3a0b90-4c81-4abc-ae70-4ea6de2ac24a/2/file",
+      "thumbnailImageUrl": "https://api.vrchat.cloud/api/1/image/file_8b3a0b90-4c81-4abc-ae70-4ea6de2ac24a/2/256",
+      "releaseStatus": "public",
+      "searchable": true,
+      "platforms": [
+        "PC"
+      ],
+      "performancePc": "",
+      "performanceAndroid": "",
+      "performanceIos": "",
+      "tags": "",
+      "createdAt": "",
+      "updatedAt": "",
+      "version": 0,
+      "metadataProvider": "VRCWB",
+      "sourceProviders": [
+        "NSVR",
+        "VRCWB"
+      ]
+    },
+    {
+      "id": "avtr_1e59ed12-ace9-4a2f-b0bb-ba1c46faeba3",
+      "name": "VR Avatar mark 6",
+      "author": "Unknown",
+      "authorId": "",
+      "description": "",
+      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_27c17c9a-3adf-4c1e-abe2-4b541987e8f3/1/file",
+      "thumbnailImageUrl": "",
+      "releaseStatus": "public",
+      "searchable": true,
+      "platforms": [
+        "PC"
+      ],
+      "performancePc": "VeryPoor",
+      "performanceAndroid": "",
+      "performanceIos": "",
+      "tags": "",
+      "createdAt": "",
+      "updatedAt": "",
+      "version": 0,
+      "metadataProvider": "VRCWB",
+      "sourceProviders": [
+        "VRCWB"
+      ]
+    },
+    {
+      "id": "avtr_1bd8ab7d-926b-48eb-9c6c-276059fb04ee",
+      "name": "Rusk Sisters Lightstick Avatar",
+      "author": "Unknown",
+      "authorId": "",
+      "description": "",
+      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_29f0e529-5164-48b9-bbb6-710622ac9962/6/file",
+      "thumbnailImageUrl": "",
+      "releaseStatus": "public",
+      "searchable": true,
+      "platforms": [
+        "PC"
+      ],
+      "performancePc": "Excellent",
+      "performanceAndroid": "",
+      "performanceIos": "",
+      "tags": "",
+      "createdAt": "",
+      "updatedAt": "",
+      "version": 0,
+      "metadataProvider": "VRCWB",
+      "sourceProviders": [
+        "VRCWB"
+      ]
+    },
+    {
+      "id": "avtr_a0daa75f-531e-43d9-a079-6d8d181ac3a5",
+      "name": "Rick furry's avatar",
+      "author": "InvertedCrink",
+      "authorId": "usr_666b2b80-3310-4077-8085-7ec5030b1c0c",
+      "description": "Avatar for Rick furry",
+      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_e9218950-9b9b-4abe-b30f-089a7f60518b/1/file",
+      "thumbnailImageUrl": "https://api.vrchat.cloud/api/1/image/file_e9218950-9b9b-4abe-b30f-089a7f60518b/1/256",
+      "releaseStatus": "public",
+      "searchable": true,
+      "platforms": [
+        "PC",
+        "Android"
+      ],
+      "performancePc": "",
+      "performanceAndroid": "",
+      "performanceIos": "",
+      "tags": "",
+      "createdAt": "",
+      "updatedAt": "",
+      "version": 0,
+      "metadataProvider": "VRCWB",
+      "sourceProviders": [
+        "NSVR",
+        "VRCWB"
+      ]
+    },
+    {
+      "id": "avtr_8851004f-a977-4385-88f0-1820945938df",
+      "name": "avatar test",
+      "author": "Unknown",
+      "authorId": "",
+      "description": "",
+      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_9d47657b-9fca-48bf-aef1-796682001983/1/file",
+      "thumbnailImageUrl": "",
+      "releaseStatus": "public",
+      "searchable": true,
+      "platforms": [
+        "PC"
+      ],
+      "performancePc": "Medium",
+      "performanceAndroid": "",
+      "performanceIos": "",
+      "tags": "",
+      "createdAt": "",
+      "updatedAt": "",
+      "version": 0,
+      "metadataProvider": "VRCWB",
+      "sourceProviders": [
+        "VRCWB"
+      ]
+    },
+    {
+      "id": "avtr_49ef7dcd-f6f6-4d5a-b42a-62ac0d8bd656",
+      "name": "Samantha the Furry Avatar",
+      "author": "Unknown",
+      "authorId": "",
+      "description": "",
+      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_abdead07-ba2f-4c24-8803-d9121fdb755f/4/file",
+      "thumbnailImageUrl": "",
+      "releaseStatus": "public",
+      "searchable": true,
+      "platforms": [
+        "PC"
+      ],
+      "performancePc": "Poor",
+      "performanceAndroid": "",
+      "performanceIos": "",
+      "tags": "",
+      "createdAt": "",
+      "updatedAt": "",
+      "version": 0,
+      "metadataProvider": "VRCWB",
+      "sourceProviders": [
+        "VRCWB"
+      ]
     }
   ]
 }
