@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-18T01:18:54.245Z",
+  "updated": "2026-10-18T01:18:59.196Z",
   "excludedAvatars": [
     {
       "id": "avtr_382346f2-2874-4192-be25-336ada0d9082",
@@ -22,16 +22,6 @@
     }
   ],
   "pending": [
-    {
-      "id": "avtr_59e86810-e920-4155-9ab7-64d45457c90a",
-      "type": "avatar",
-      "marker": "blacklist",
-      "avatarId": "avtr_59e86810-e920-4155-9ab7-64d45457c90a",
-      "creatorId": "usr_23d73a20-d71a-4cd6-bd6d-488447db3e58",
-      "name": "Vox ［Repo Comfy Dextro Avatar］",
-      "source": "PAW",
-      "reportedAt": "2026-10-18T01:16:59.224Z"
-    },
     {
       "id": "avtr_584462cf-bafe-464a-8a20-5dbdb7d95451",
       "type": "avatar",
@@ -81,6 +71,12 @@
       "id": "avtr_a25e236b-d6f1-4cd0-a5aa-c45e19eb3ea3",
       "marker": "blacklist",
       "reviewedAt": "2026-10-18T01:18:54.245Z"
+    },
+    {
+      "type": "avatar",
+      "id": "avtr_59e86810-e920-4155-9ab7-64d45457c90a",
+      "marker": "blacklist",
+      "reviewedAt": "2026-10-18T01:18:59.196Z"
     }
   ]
 }
