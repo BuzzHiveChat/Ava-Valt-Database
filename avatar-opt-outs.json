@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-18T02:42:23.160Z",
+  "updated": "2026-10-18T03:15:10.229Z",
   "excludedAvatars": [
     {
       "id": "avtr_382346f2-2874-4192-be25-336ada0d9082",
@@ -1033,6 +1033,33 @@
       "proof": "provider-avatar-description-unverified",
       "source": "AviSeek",
       "autoExcludedAt": "2026-10-18T02:42:23.159Z"
+    },
+    {
+      "id": "avtr_12b7864e-32d2-4fe4-b276-4d2bb7b36e54",
+      "marker": "blacklist",
+      "reason": "Avatar description opt-out marker (automatic)",
+      "verifiedBy": "Automatic — not owner verified",
+      "proof": "provider-avatar-description-unverified",
+      "source": "VRCWB",
+      "autoExcludedAt": "2026-10-18T03:15:10.228Z"
+    },
+    {
+      "id": "avtr_447d21cb-68d0-4a00-b7fb-fb51c0ed33a5",
+      "marker": "blacklist",
+      "reason": "Avatar description opt-out marker (automatic)",
+      "verifiedBy": "Automatic — not owner verified",
+      "proof": "provider-avatar-description-unverified",
+      "source": "VRCWB",
+      "autoExcludedAt": "2026-10-18T03:15:10.228Z"
+    },
+    {
+      "id": "avtr_016eae8c-3b3e-493f-9390-4d15cdad77ff",
+      "marker": "blacklist",
+      "reason": "Avatar description opt-out marker (automatic)",
+      "verifiedBy": "Automatic — not owner verified",
+      "proof": "provider-avatar-description-unverified",
+      "source": "VRCWB",
+      "autoExcludedAt": "2026-10-18T03:15:10.228Z"
     }
   ],
   "excludedCreators": [
