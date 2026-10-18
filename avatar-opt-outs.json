@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-18T01:21:46.495Z",
+  "updated": "2026-10-18T02:01:14.733Z",
   "excludedAvatars": [
     {
       "id": "avtr_382346f2-2874-4192-be25-336ada0d9082",
@@ -25,6 +25,33 @@
       "verifiedBy": "Owner",
       "proof": "official-profile-marker",
       "approvedAt": "2026-10-18T01:20:02.925Z"
+    },
+    {
+      "id": "avtr_2d0035ce-da30-4a41-b6cd-7183434e3643",
+      "marker": "blacklist",
+      "reason": "Avatar description opt-out marker (automatic)",
+      "verifiedBy": "Automatic — not owner verified",
+      "proof": "provider-avatar-description-unverified",
+      "source": "VRCWB",
+      "autoExcludedAt": "2026-10-18T02:01:14.733Z"
+    },
+    {
+      "id": "avtr_7e6a5b20-7ae8-4350-82a2-e03c2d927e5b",
+      "marker": "blacklist",
+      "reason": "Avatar description opt-out marker (automatic)",
+      "verifiedBy": "Automatic — not owner verified",
+      "proof": "provider-avatar-description-unverified",
+      "source": "AviSeek",
+      "autoExcludedAt": "2026-10-18T02:01:14.733Z"
+    },
+    {
+      "id": "avtr_46b7b3e3-7526-4cf6-b87d-b16760e69101",
+      "marker": "blacklist",
+      "reason": "Avatar description opt-out marker (automatic)",
+      "verifiedBy": "Automatic — not owner verified",
+      "proof": "provider-avatar-description-unverified",
+      "source": "AviSeek",
+      "autoExcludedAt": "2026-10-18T02:01:14.733Z"
     }
   ],
   "excludedCreators": [
@@ -37,38 +64,7 @@
       "approvedAt": "2026-10-08T01:39:55.854Z"
     }
   ],
-  "pending": [
-    {
-      "id": "avtr_2d0035ce-da30-4a41-b6cd-7183434e3643",
-      "type": "avatar",
-      "marker": "blacklist",
-      "avatarId": "avtr_2d0035ce-da30-4a41-b6cd-7183434e3643",
-      "creatorId": "",
-      "name": "An Ordinary Sonic Avatar",
-      "source": "VRCWB",
-      "reportedAt": "2026-10-18T01:21:46.494Z"
-    },
-    {
-      "id": "avtr_7e6a5b20-7ae8-4350-82a2-e03c2d927e5b",
-      "type": "avatar",
-      "marker": "blacklist",
-      "avatarId": "avtr_7e6a5b20-7ae8-4350-82a2-e03c2d927e5b",
-      "creatorId": "usr_db52096e-9b3c-46bd-b004-83748b16570b",
-      "name": "Sonic Frontiers",
-      "source": "AviSeek",
-      "reportedAt": "2026-10-18T01:21:46.494Z"
-    },
-    {
-      "id": "avtr_46b7b3e3-7526-4cf6-b87d-b16760e69101",
-      "type": "avatar",
-      "marker": "blacklist",
-      "avatarId": "avtr_46b7b3e3-7526-4cf6-b87d-b16760e69101",
-      "creatorId": "usr_b30a07ea-be16-4560-944e-aaf6221a1332",
-      "name": "Rodentrap Sonic （Public）",
-      "source": "AviSeek",
-      "reportedAt": "2026-10-18T01:21:46.494Z"
-    }
-  ],
+  "pending": [],
   "dismissedRequests": [
     {
       "type": "avatar",
