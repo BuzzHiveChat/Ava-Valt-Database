@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-18T01:19:39.304Z",
+  "updated": "2026-10-18T01:20:02.925Z",
   "excludedAvatars": [
     {
       "id": "avtr_382346f2-2874-4192-be25-336ada0d9082",
@@ -17,6 +17,14 @@
       "verifiedBy": "Owner",
       "proof": "official-profile-marker",
       "approvedAt": "2026-10-18T01:19:39.304Z"
+    },
+    {
+      "id": "avtr_a629a216-3e97-4c25-90bb-9be52103ec43",
+      "marker": "blacklist",
+      "reason": "backlisted",
+      "verifiedBy": "Owner",
+      "proof": "official-profile-marker",
+      "approvedAt": "2026-10-18T01:20:02.925Z"
     }
   ],
   "excludedCreators": [
@@ -29,18 +37,7 @@
       "approvedAt": "2026-10-08T01:39:55.854Z"
     }
   ],
-  "pending": [
-    {
-      "id": "avtr_a629a216-3e97-4c25-90bb-9be52103ec43",
-      "type": "avatar",
-      "marker": "blacklist",
-      "avatarId": "avtr_a629a216-3e97-4c25-90bb-9be52103ec43",
-      "creatorId": "usr_cd3f932f-7c0e-4577-bb79-90fe1df0c77e",
-      "name": "Nashatra Bealdhild",
-      "source": "AviSeek",
-      "reportedAt": "2026-10-18T01:16:59.225Z"
-    }
-  ],
+  "pending": [],
   "dismissedRequests": [
     {
       "type": "avatar",
