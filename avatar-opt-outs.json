@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-18T02:18:21.680Z",
+  "updated": "2026-10-18T02:42:23.160Z",
   "excludedAvatars": [
     {
       "id": "avtr_382346f2-2874-4192-be25-336ada0d9082",
@@ -79,6 +79,960 @@
       "proof": "provider-avatar-description-unverified",
       "source": "AviSeek",
       "autoExcludedAt": "2026-10-18T02:18:21.680Z"
+    },
+    {
+      "id": "avtr_d77aab69-3e5f-48c2-b4c6-b50cbe904d16",
+      "marker": "private",
+      "reason": "Avatar description opt-out marker (automatic)",
+      "verifiedBy": "Automatic — not owner verified",
+      "proof": "provider-avatar-description-unverified",
+      "source": "provider",
+      "autoExcludedAt": "2026-10-18T02:42:23.087Z"
+    },
+    {
+      "id": "avtr_c2e9b7e3-43bc-41fd-93b5-1e812784d732",
+      "marker": "private",
+      "reason": "Avatar description opt-out marker (automatic)",
+      "verifiedBy": "Automatic — not owner verified",
+      "proof": "provider-avatar-description-unverified",
+      "source": "provider",
+      "autoExcludedAt": "2026-10-18T02:42:23.087Z"
+    },
+    {
+      "id": "avtr_b7211054-dea0-4e53-a5e9-ee03318a1d0b",
+      "marker": "private",
+      "reason": "Avatar description opt-out marker (automatic)",
+      "verifiedBy": "Automatic — not owner verified",
+      "proof": "provider-avatar-description-unverified",
+      "source": "provider",
+      "autoExcludedAt": "2026-10-18T02:42:23.087Z"
+    },
+    {
+      "id": "avtr_2278a867-cec8-424f-a8f7-91da07693afc",
+      "marker": "private",
+      "reason": "Avatar description opt-out marker (automatic)",
+      "verifiedBy": "Automatic — not owner verified",
+      "proof": "provider-avatar-description-unverified",
+      "source": "provider",
+      "autoExcludedAt": "2026-10-18T02:42:23.088Z"
+    },
+    {
+      "id": "avtr_97e83980-acf5-4229-8401-6fce993832f7",
+      "marker": "private",
+      "reason": "Avatar description opt-out marker (automatic)",
+      "verifiedBy": "Automatic — not owner verified",
+      "proof": "provider-avatar-description-unverified",
+      "source": "provider",
+      "autoExcludedAt": "2026-10-18T02:42:23.088Z"
+    },
+    {
+      "id": "avtr_9ee26132-fd86-4f27-9ef2-6dda414a9a01",
+      "marker": "private",
+      "reason": "Avatar description opt-out marker (automatic)",
+      "verifiedBy": "Automatic — not owner verified",
+      "proof": "provider-avatar-description-unverified",
+      "source": "provider",
+      "autoExcludedAt": "2026-10-18T02:42:23.089Z"
+    },
+    {
+      "id": "avtr_eb53c5ab-9038-4411-bd11-f484b424c3d6",
+      "marker": "private",
+      "reason": "Avatar description opt-out marker (automatic)",
+      "verifiedBy": "Automatic — not owner verified",
+      "proof": "provider-avatar-description-unverified",
+      "source": "provider",
+      "autoExcludedAt": "2026-10-18T02:42:23.089Z"
+    },
+    {
+      "id": "avtr_c47eb908-914e-45ae-87ff-2bbf62d174b3",
+      "marker": "private",
+      "reason": "Avatar description opt-out marker (automatic)",
+      "verifiedBy": "Automatic — not owner verified",
+      "proof": "provider-avatar-description-unverified",
+      "source": "provider",
+      "autoExcludedAt": "2026-10-18T02:42:23.089Z"
+    },
+    {
+      "id": "avtr_1e57fd22-d1a5-4f5d-b9c9-370ba92cf908",
+      "marker": "private",
+      "reason": "Avatar description opt-out marker (automatic)",
+      "verifiedBy": "Automatic — not owner verified",
+      "proof": "provider-avatar-description-unverified",
+      "source": "provider",
+      "autoExcludedAt": "2026-10-18T02:42:23.092Z"
+    },
+    {
+      "id": "avtr_6f85af2c-835e-487c-9561-a0d54cfaf86e",
+      "marker": "private",
+      "reason": "Avatar description opt-out marker (automatic)",
+      "verifiedBy": "Automatic — not owner verified",
+      "proof": "provider-avatar-description-unverified",
+      "source": "provider",
+      "autoExcludedAt": "2026-10-18T02:42:23.092Z"
+    },
+    {
+      "id": "avtr_561cca90-6d24-48c3-8546-21c406dcb7b6",
+      "marker": "private",
+      "reason": "Avatar description opt-out marker (automatic)",
+      "verifiedBy": "Automatic — not owner verified",
+      "proof": "provider-avatar-description-unverified",
+      "source": "provider",
+      "autoExcludedAt": "2026-10-18T02:42:23.092Z"
+    },
+    {
+      "id": "avtr_a498f3f5-5690-41bb-8036-1ea6e0c58b2b",
+      "marker": "private",
+      "reason": "Avatar description opt-out marker (automatic)",
+      "verifiedBy": "Automatic — not owner verified",
+      "proof": "provider-avatar-description-unverified",
+      "source": "provider",
+      "autoExcludedAt": "2026-10-18T02:42:23.092Z"
+    },
+    {
+      "id": "avtr_c5d496b6-d674-433c-af42-70fee93f20fe",
+      "marker": "private",
+      "reason": "Avatar description opt-out marker (automatic)",
+      "verifiedBy": "Automatic — not owner verified",
+      "proof": "provider-avatar-description-unverified",
+      "source": "provider",
+      "autoExcludedAt": "2026-10-18T02:42:23.093Z"
+    },
+    {
+      "id": "avtr_a229a9ec-6774-47f9-ba05-d53dec03d94c",
+      "marker": "private",
+      "reason": "Avatar description opt-out marker (automatic)",
+      "verifiedBy": "Automatic — not owner verified",
+      "proof": "provider-avatar-description-unverified",
+      "source": "provider",
+      "autoExcludedAt": "2026-10-18T02:42:23.093Z"
+    },
+    {
+      "id": "avtr_730c6bd6-be82-4ce9-b823-b4f1d4919c24",
+      "marker": "private",
+      "reason": "Avatar description opt-out marker (automatic)",
+      "verifiedBy": "Automatic — not owner verified",
+      "proof": "provider-avatar-description-unverified",
+      "source": "provider",
+      "autoExcludedAt": "2026-10-18T02:42:23.094Z"
+    },
+    {
+      "id": "avtr_f5ab8902-9a25-4506-aa72-aac35cf77c0f",
+      "marker": "private",
+      "reason": "Avatar description opt-out marker (automatic)",
+      "verifiedBy": "Automatic — not owner verified",
+      "proof": "provider-avatar-description-unverified",
+      "source": "provider",
+      "autoExcludedAt": "2026-10-18T02:42:23.095Z"
+    },
+    {
+      "id": "avtr_1d6e1792-5e63-4ae0-887b-9d8cefd5530e",
+      "marker": "private",
+      "reason": "Avatar description opt-out marker (automatic)",
+      "verifiedBy": "Automatic — not owner verified",
+      "proof": "provider-avatar-description-unverified",
+      "source": "provider",
+      "autoExcludedAt": "2026-10-18T02:42:23.096Z"
+    },
+    {
+      "id": "avtr_7406421c-0204-48d3-ba10-b780559e3e91",
+      "marker": "private",
+      "reason": "Avatar description opt-out marker (automatic)",
+      "verifiedBy": "Automatic — not owner verified",
+      "proof": "provider-avatar-description-unverified",
+      "source": "provider",
+      "autoExcludedAt": "2026-10-18T02:42:23.097Z"
+    },
+    {
+      "id": "avtr_f5febb75-7f3c-44f8-869f-a01561ecd8fe",
+      "marker": "private",
+      "reason": "Avatar description opt-out marker (automatic)",
+      "verifiedBy": "Automatic — not owner verified",
+      "proof": "provider-avatar-description-unverified",
+      "source": "provider",
+      "autoExcludedAt": "2026-10-18T02:42:23.097Z"
+    },
+    {
+      "id": "avtr_8a7cafd4-94d5-4dca-97c8-b7d2242724a0",
+      "marker": "private",
+      "reason": "Avatar description opt-out marker (automatic)",
+      "verifiedBy": "Automatic — not owner verified",
+      "proof": "provider-avatar-description-unverified",
+      "source": "provider",
+      "autoExcludedAt": "2026-10-18T02:42:23.097Z"
+    },
+    {
+      "id": "avtr_6168e248-44bc-48ff-a374-0e421ef5ba2f",
+      "marker": "private",
+      "reason": "Avatar description opt-out marker (automatic)",
+      "verifiedBy": "Automatic — not owner verified",
+      "proof": "provider-avatar-description-unverified",
+      "source": "provider",
+      "autoExcludedAt": "2026-10-18T02:42:23.098Z"
+    },
+    {
+      "id": "avtr_47b45eaa-e76e-4304-8d3c-53c10d4825b7",
+      "marker": "private",
+      "reason": "Avatar description opt-out marker (automatic)",
+      "verifiedBy": "Automatic — not owner verified",
+      "proof": "provider-avatar-description-unverified",
+      "source": "provider",
+      "autoExcludedAt": "2026-10-18T02:42:23.098Z"
+    },
+    {
+      "id": "avtr_393eb59a-7564-4d7b-86a6-f2373446a7fc",
+      "marker": "private",
+      "reason": "Avatar description opt-out marker (automatic)",
+      "verifiedBy": "Automatic — not owner verified",
+      "proof": "provider-avatar-description-unverified",
+      "source": "provider",
+      "autoExcludedAt": "2026-10-18T02:42:23.098Z"
+    },
+    {
+      "id": "avtr_b514113a-68c5-4626-aace-c170e58d87f2",
+      "marker": "private",
+      "reason": "Avatar description opt-out marker (automatic)",
+      "verifiedBy": "Automatic — not owner verified",
+      "proof": "provider-avatar-description-unverified",
+      "source": "provider",
+      "autoExcludedAt": "2026-10-18T02:42:23.098Z"
+    },
+    {
+      "id": "avtr_73e8d07d-5afa-4a2a-8b33-d348be8cde18",
+      "marker": "private",
+      "reason": "Avatar description opt-out marker (automatic)",
+      "verifiedBy": "Automatic — not owner verified",
+      "proof": "provider-avatar-description-unverified",
+      "source": "provider",
+      "autoExcludedAt": "2026-10-18T02:42:23.098Z"
+    },
+    {
+      "id": "avtr_c62ab72c-6eff-4940-a166-a948ba347280",
+      "marker": "private",
+      "reason": "Avatar description opt-out marker (automatic)",
+      "verifiedBy": "Automatic — not owner verified",
+      "proof": "provider-avatar-description-unverified",
+      "source": "provider",
+      "autoExcludedAt": "2026-10-18T02:42:23.098Z"
+    },
+    {
+      "id": "avtr_eb9c1373-5c84-4a58-bc40-fc155b65954b",
+      "marker": "private",
+      "reason": "Avatar description opt-out marker (automatic)",
+      "verifiedBy": "Automatic — not owner verified",
+      "proof": "provider-avatar-description-unverified",
+      "source": "provider",
+      "autoExcludedAt": "2026-10-18T02:42:23.099Z"
+    },
+    {
+      "id": "avtr_ba14f9ef-368d-4f9a-86c9-c1eaead18538",
+      "marker": "private",
+      "reason": "Avatar description opt-out marker (automatic)",
+      "verifiedBy": "Automatic — not owner verified",
+      "proof": "provider-avatar-description-unverified",
+      "source": "provider",
+      "autoExcludedAt": "2026-10-18T02:42:23.100Z"
+    },
+    {
+      "id": "avtr_53b1e6a2-d98b-4d16-93b6-1efe168f65c2",
+      "marker": "private",
+      "reason": "Avatar description opt-out marker (automatic)",
+      "verifiedBy": "Automatic — not owner verified",
+      "proof": "provider-avatar-description-unverified",
+      "source": "provider",
+      "autoExcludedAt": "2026-10-18T02:42:23.100Z"
+    },
+    {
+      "id": "avtr_ee26b1d9-27f6-49fe-b8e5-897ab5058e7a",
+      "marker": "private",
+      "reason": "Avatar description opt-out marker (automatic)",
+      "verifiedBy": "Automatic — not owner verified",
+      "proof": "provider-avatar-description-unverified",
+      "source": "provider",
+      "autoExcludedAt": "2026-10-18T02:42:23.100Z"
+    },
+    {
+      "id": "avtr_d1af2431-6d8a-408a-8a16-3f27828e4c60",
+      "marker": "private",
+      "reason": "Avatar description opt-out marker (automatic)",
+      "verifiedBy": "Automatic — not owner verified",
+      "proof": "provider-avatar-description-unverified",
+      "source": "provider",
+      "autoExcludedAt": "2026-10-18T02:42:23.101Z"
+    },
+    {
+      "id": "avtr_f555b102-6f01-466f-91dd-deb2b506e649",
+      "marker": "private",
+      "reason": "Avatar description opt-out marker (automatic)",
+      "verifiedBy": "Automatic — not owner verified",
+      "proof": "provider-avatar-description-unverified",
+      "source": "provider",
+      "autoExcludedAt": "2026-10-18T02:42:23.101Z"
+    },
+    {
+      "id": "avtr_3e804e4e-33ee-475c-b8b1-1a38d0eaaa3a",
+      "marker": "private",
+      "reason": "Avatar description opt-out marker (automatic)",
+      "verifiedBy": "Automatic — not owner verified",
+      "proof": "provider-avatar-description-unverified",
+      "source": "provider",
+      "autoExcludedAt": "2026-10-18T02:42:23.101Z"
+    },
+    {
+      "id": "avtr_8bd76763-cb19-4cf0-a73f-4074ee0f5937",
+      "marker": "private",
+      "reason": "Avatar description opt-out marker (automatic)",
+      "verifiedBy": "Automatic — not owner verified",
+      "proof": "provider-avatar-description-unverified",
+      "source": "provider",
+      "autoExcludedAt": "2026-10-18T02:42:23.101Z"
+    },
+    {
+      "id": "avtr_2a7754ef-1666-40ac-b414-057165a5f074",
+      "marker": "private",
+      "reason": "Avatar description opt-out marker (automatic)",
+      "verifiedBy": "Automatic — not owner verified",
+      "proof": "provider-avatar-description-unverified",
+      "source": "provider",
+      "autoExcludedAt": "2026-10-18T02:42:23.115Z"
+    },
+    {
+      "id": "avtr_00e39017-85a8-4d2b-b07e-2982cb2314de",
+      "marker": "private",
+      "reason": "Avatar description opt-out marker (automatic)",
+      "verifiedBy": "Automatic — not owner verified",
+      "proof": "provider-avatar-description-unverified",
+      "source": "provider",
+      "autoExcludedAt": "2026-10-18T02:42:23.115Z"
+    },
+    {
+      "id": "avtr_eb7824a6-f146-4f77-a8f6-d287d3bdecc3",
+      "marker": "private",
+      "reason": "Avatar description opt-out marker (automatic)",
+      "verifiedBy": "Automatic — not owner verified",
+      "proof": "provider-avatar-description-unverified",
+      "source": "provider",
+      "autoExcludedAt": "2026-10-18T02:42:23.115Z"
+    },
+    {
+      "id": "avtr_3e725f93-fa90-43ea-8c78-a70441bf34f4",
+      "marker": "private",
+      "reason": "Avatar description opt-out marker (automatic)",
+      "verifiedBy": "Automatic — not owner verified",
+      "proof": "provider-avatar-description-unverified",
+      "source": "provider",
+      "autoExcludedAt": "2026-10-18T02:42:23.116Z"
+    },
+    {
+      "id": "avtr_b3fe3714-b4de-4628-b1da-1488bff98f19",
+      "marker": "private",
+      "reason": "Avatar description opt-out marker (automatic)",
+      "verifiedBy": "Automatic — not owner verified",
+      "proof": "provider-avatar-description-unverified",
+      "source": "provider",
+      "autoExcludedAt": "2026-10-18T02:42:23.116Z"
+    },
+    {
+      "id": "avtr_98f0abeb-1968-4765-8e64-eff4d9a26236",
+      "marker": "private",
+      "reason": "Avatar description opt-out marker (automatic)",
+      "verifiedBy": "Automatic — not owner verified",
+      "proof": "provider-avatar-description-unverified",
+      "source": "provider",
+      "autoExcludedAt": "2026-10-18T02:42:23.117Z"
+    },
+    {
+      "id": "avtr_45afcaad-d74e-47c5-b3b4-c7ac73c50563",
+      "marker": "private",
+      "reason": "Avatar description opt-out marker (automatic)",
+      "verifiedBy": "Automatic — not owner verified",
+      "proof": "provider-avatar-description-unverified",
+      "source": "provider",
+      "autoExcludedAt": "2026-10-18T02:42:23.118Z"
+    },
+    {
+      "id": "avtr_c75c7767-4c4d-45c8-90bc-1f1c17d3f840",
+      "marker": "private",
+      "reason": "Avatar description opt-out marker (automatic)",
+      "verifiedBy": "Automatic — not owner verified",
+      "proof": "provider-avatar-description-unverified",
+      "source": "provider",
+      "autoExcludedAt": "2026-10-18T02:42:23.118Z"
+    },
+    {
+      "id": "avtr_f998d064-bbbc-4418-a425-a184bb7f94db",
+      "marker": "private",
+      "reason": "Avatar description opt-out marker (automatic)",
+      "verifiedBy": "Automatic — not owner verified",
+      "proof": "provider-avatar-description-unverified",
+      "source": "provider",
+      "autoExcludedAt": "2026-10-18T02:42:23.118Z"
+    },
+    {
+      "id": "avtr_37588361-70b5-42dd-8606-ee9d3caa4eb2",
+      "marker": "private",
+      "reason": "Avatar description opt-out marker (automatic)",
+      "verifiedBy": "Automatic — not owner verified",
+      "proof": "provider-avatar-description-unverified",
+      "source": "provider",
+      "autoExcludedAt": "2026-10-18T02:42:23.118Z"
+    },
+    {
+      "id": "avtr_8c6d706d-c3f4-4b73-a0d9-9483b3c057f5",
+      "marker": "private",
+      "reason": "Avatar description opt-out marker (automatic)",
+      "verifiedBy": "Automatic — not owner verified",
+      "proof": "provider-avatar-description-unverified",
+      "source": "provider",
+      "autoExcludedAt": "2026-10-18T02:42:23.119Z"
+    },
+    {
+      "id": "avtr_3627667d-a85e-4440-8ee0-50786d7072b4",
+      "marker": "private",
+      "reason": "Avatar description opt-out marker (automatic)",
+      "verifiedBy": "Automatic — not owner verified",
+      "proof": "provider-avatar-description-unverified",
+      "source": "provider",
+      "autoExcludedAt": "2026-10-18T02:42:23.119Z"
+    },
+    {
+      "id": "avtr_3b761905-bfe9-4b8b-9aad-4c91ae4adff7",
+      "marker": "private",
+      "reason": "Avatar description opt-out marker (automatic)",
+      "verifiedBy": "Automatic — not owner verified",
+      "proof": "provider-avatar-description-unverified",
+      "source": "provider",
+      "autoExcludedAt": "2026-10-18T02:42:23.120Z"
+    },
+    {
+      "id": "avtr_8689396f-577d-4bbe-a2ca-5c3f18cf161f",
+      "marker": "private",
+      "reason": "Avatar description opt-out marker (automatic)",
+      "verifiedBy": "Automatic — not owner verified",
+      "proof": "provider-avatar-description-unverified",
+      "source": "provider",
+      "autoExcludedAt": "2026-10-18T02:42:23.120Z"
+    },
+    {
+      "id": "avtr_9244ed81-269b-405d-8651-57f65a5957fe",
+      "marker": "blacklist",
+      "reason": "Avatar description opt-out marker (automatic)",
+      "verifiedBy": "Automatic — not owner verified",
+      "proof": "provider-avatar-description-unverified",
+      "source": "provider",
+      "autoExcludedAt": "2026-10-18T02:42:23.120Z"
+    },
+    {
+      "id": "avtr_3e86b296-74ba-4776-b98e-4c99f21b185f",
+      "marker": "private",
+      "reason": "Avatar description opt-out marker (automatic)",
+      "verifiedBy": "Automatic — not owner verified",
+      "proof": "provider-avatar-description-unverified",
+      "source": "provider",
+      "autoExcludedAt": "2026-10-18T02:42:23.121Z"
+    },
+    {
+      "id": "avtr_da214ee9-fb43-4d1f-aa82-47c359add81d",
+      "marker": "private",
+      "reason": "Avatar description opt-out marker (automatic)",
+      "verifiedBy": "Automatic — not owner verified",
+      "proof": "provider-avatar-description-unverified",
+      "source": "provider",
+      "autoExcludedAt": "2026-10-18T02:42:23.121Z"
+    },
+    {
+      "id": "avtr_03b5ae6d-753a-422d-87c8-2b91e1c6d1c9",
+      "marker": "private",
+      "reason": "Avatar description opt-out marker (automatic)",
+      "verifiedBy": "Automatic — not owner verified",
+      "proof": "provider-avatar-description-unverified",
+      "source": "provider",
+      "autoExcludedAt": "2026-10-18T02:42:23.121Z"
+    },
+    {
+      "id": "avtr_dd662ce0-fb68-4f2b-9cd7-28bcb06b065a",
+      "marker": "private",
+      "reason": "Avatar description opt-out marker (automatic)",
+      "verifiedBy": "Automatic — not owner verified",
+      "proof": "provider-avatar-description-unverified",
+      "source": "provider",
+      "autoExcludedAt": "2026-10-18T02:42:23.121Z"
+    },
+    {
+      "id": "avtr_6753b076-8a93-4149-b6a8-a6704be25999",
+      "marker": "private",
+      "reason": "Avatar description opt-out marker (automatic)",
+      "verifiedBy": "Automatic — not owner verified",
+      "proof": "provider-avatar-description-unverified",
+      "source": "provider",
+      "autoExcludedAt": "2026-10-18T02:42:23.122Z"
+    },
+    {
+      "id": "avtr_d00a312c-3283-4f6f-84c0-b6179223fde7",
+      "marker": "private",
+      "reason": "Avatar description opt-out marker (automatic)",
+      "verifiedBy": "Automatic — not owner verified",
+      "proof": "provider-avatar-description-unverified",
+      "source": "provider",
+      "autoExcludedAt": "2026-10-18T02:42:23.124Z"
+    },
+    {
+      "id": "avtr_d0cc2ebd-97d1-4f31-a5fc-6c924a391909",
+      "marker": "private",
+      "reason": "Avatar description opt-out marker (automatic)",
+      "verifiedBy": "Automatic — not owner verified",
+      "proof": "provider-avatar-description-unverified",
+      "source": "provider",
+      "autoExcludedAt": "2026-10-18T02:42:23.126Z"
+    },
+    {
+      "id": "avtr_bd76782a-b90d-4499-bd52-83d1839409b5",
+      "marker": "private",
+      "reason": "Avatar description opt-out marker (automatic)",
+      "verifiedBy": "Automatic — not owner verified",
+      "proof": "provider-avatar-description-unverified",
+      "source": "provider",
+      "autoExcludedAt": "2026-10-18T02:42:23.135Z"
+    },
+    {
+      "id": "avtr_1ac14556-346f-4426-8cfa-be5472c06d76",
+      "marker": "private",
+      "reason": "Avatar description opt-out marker (automatic)",
+      "verifiedBy": "Automatic — not owner verified",
+      "proof": "provider-avatar-description-unverified",
+      "source": "provider",
+      "autoExcludedAt": "2026-10-18T02:42:23.136Z"
+    },
+    {
+      "id": "avtr_f229491d-9448-401b-8518-61f48368296c",
+      "marker": "private",
+      "reason": "Avatar description opt-out marker (automatic)",
+      "verifiedBy": "Automatic — not owner verified",
+      "proof": "provider-avatar-description-unverified",
+      "source": "provider",
+      "autoExcludedAt": "2026-10-18T02:42:23.136Z"
+    },
+    {
+      "id": "avtr_ce9aee2b-1ab0-4913-9878-b53a82ff15f8",
+      "marker": "private",
+      "reason": "Avatar description opt-out marker (automatic)",
+      "verifiedBy": "Automatic — not owner verified",
+      "proof": "provider-avatar-description-unverified",
+      "source": "provider",
+      "autoExcludedAt": "2026-10-18T02:42:23.137Z"
+    },
+    {
+      "id": "avtr_cb608cf2-2e41-4405-a416-3fc4655548ec",
+      "marker": "private",
+      "reason": "Avatar description opt-out marker (automatic)",
+      "verifiedBy": "Automatic — not owner verified",
+      "proof": "provider-avatar-description-unverified",
+      "source": "provider",
+      "autoExcludedAt": "2026-10-18T02:42:23.137Z"
+    },
+    {
+      "id": "avtr_d671f605-62f3-4f91-844e-8fb59b3d9677",
+      "marker": "private",
+      "reason": "Avatar description opt-out marker (automatic)",
+      "verifiedBy": "Automatic — not owner verified",
+      "proof": "provider-avatar-description-unverified",
+      "source": "provider",
+      "autoExcludedAt": "2026-10-18T02:42:23.137Z"
+    },
+    {
+      "id": "avtr_edeb8525-81f5-46bf-a2ba-5bb9f60682a6",
+      "marker": "private",
+      "reason": "Avatar description opt-out marker (automatic)",
+      "verifiedBy": "Automatic — not owner verified",
+      "proof": "provider-avatar-description-unverified",
+      "source": "provider",
+      "autoExcludedAt": "2026-10-18T02:42:23.137Z"
+    },
+    {
+      "id": "avtr_cb29cccf-a946-4077-a7a0-db6cc2e160fe",
+      "marker": "private",
+      "reason": "Avatar description opt-out marker (automatic)",
+      "verifiedBy": "Automatic — not owner verified",
+      "proof": "provider-avatar-description-unverified",
+      "source": "provider",
+      "autoExcludedAt": "2026-10-18T02:42:23.137Z"
+    },
+    {
+      "id": "avtr_bbe6f96c-2bdb-4b4b-b8e5-b2889461d361",
+      "marker": "private",
+      "reason": "Avatar description opt-out marker (automatic)",
+      "verifiedBy": "Automatic — not owner verified",
+      "proof": "provider-avatar-description-unverified",
+      "source": "provider",
+      "autoExcludedAt": "2026-10-18T02:42:23.137Z"
+    },
+    {
+      "id": "avtr_1477504d-92ea-4d9e-9817-c72c13345544",
+      "marker": "private",
+      "reason": "Avatar description opt-out marker (automatic)",
+      "verifiedBy": "Automatic — not owner verified",
+      "proof": "provider-avatar-description-unverified",
+      "source": "provider",
+      "autoExcludedAt": "2026-10-18T02:42:23.139Z"
+    },
+    {
+      "id": "avtr_b7dcbacc-8899-4fae-8894-fbb4a7f34268",
+      "marker": "private",
+      "reason": "Avatar description opt-out marker (automatic)",
+      "verifiedBy": "Automatic — not owner verified",
+      "proof": "provider-avatar-description-unverified",
+      "source": "provider",
+      "autoExcludedAt": "2026-10-18T02:42:23.140Z"
+    },
+    {
+      "id": "avtr_4ac4aad9-9d19-4aad-b7ab-4f6a53241c73",
+      "marker": "private",
+      "reason": "Avatar description opt-out marker (automatic)",
+      "verifiedBy": "Automatic — not owner verified",
+      "proof": "provider-avatar-description-unverified",
+      "source": "provider",
+      "autoExcludedAt": "2026-10-18T02:42:23.141Z"
+    },
+    {
+      "id": "avtr_e202c238-183e-4802-9d11-3ed6954fd918",
+      "marker": "private",
+      "reason": "Avatar description opt-out marker (automatic)",
+      "verifiedBy": "Automatic — not owner verified",
+      "proof": "provider-avatar-description-unverified",
+      "source": "provider",
+      "autoExcludedAt": "2026-10-18T02:42:23.141Z"
+    },
+    {
+      "id": "avtr_3bc95d40-1e9f-45a6-844b-2aed47b55235",
+      "marker": "private",
+      "reason": "Avatar description opt-out marker (automatic)",
+      "verifiedBy": "Automatic — not owner verified",
+      "proof": "provider-avatar-description-unverified",
+      "source": "provider",
+      "autoExcludedAt": "2026-10-18T02:42:23.141Z"
+    },
+    {
+      "id": "avtr_b0fae73e-8b45-46f0-a79d-c3970f12ec08",
+      "marker": "private",
+      "reason": "Avatar description opt-out marker (automatic)",
+      "verifiedBy": "Automatic — not owner verified",
+      "proof": "provider-avatar-description-unverified",
+      "source": "provider",
+      "autoExcludedAt": "2026-10-18T02:42:23.141Z"
+    },
+    {
+      "id": "avtr_02869a25-443d-47c9-9d0f-2818215e0105",
+      "marker": "private",
+      "reason": "Avatar description opt-out marker (automatic)",
+      "verifiedBy": "Automatic — not owner verified",
+      "proof": "provider-avatar-description-unverified",
+      "source": "provider",
+      "autoExcludedAt": "2026-10-18T02:42:23.142Z"
+    },
+    {
+      "id": "avtr_12b17823-a8ba-4627-86af-d74a80c89b28",
+      "marker": "private",
+      "reason": "Avatar description opt-out marker (automatic)",
+      "verifiedBy": "Automatic — not owner verified",
+      "proof": "provider-avatar-description-unverified",
+      "source": "provider",
+      "autoExcludedAt": "2026-10-18T02:42:23.142Z"
+    },
+    {
+      "id": "avtr_769be750-e07f-4bb0-b8e1-01d7fa95b0a8",
+      "marker": "private",
+      "reason": "Avatar description opt-out marker (automatic)",
+      "verifiedBy": "Automatic — not owner verified",
+      "proof": "provider-avatar-description-unverified",
+      "source": "provider",
+      "autoExcludedAt": "2026-10-18T02:42:23.142Z"
+    },
+    {
+      "id": "avtr_5d794fd4-6292-4416-a50f-a71097bc85cc",
+      "marker": "private",
+      "reason": "Avatar description opt-out marker (automatic)",
+      "verifiedBy": "Automatic — not owner verified",
+      "proof": "provider-avatar-description-unverified",
+      "source": "provider",
+      "autoExcludedAt": "2026-10-18T02:42:23.142Z"
+    },
+    {
+      "id": "avtr_efb05977-e8ef-4b0d-b639-63eead276e9c",
+      "marker": "private",
+      "reason": "Avatar description opt-out marker (automatic)",
+      "verifiedBy": "Automatic — not owner verified",
+      "proof": "provider-avatar-description-unverified",
+      "source": "provider",
+      "autoExcludedAt": "2026-10-18T02:42:23.143Z"
+    },
+    {
+      "id": "avtr_81ca5d28-e56e-4ae9-a842-de7d529f342f",
+      "marker": "private",
+      "reason": "Avatar description opt-out marker (automatic)",
+      "verifiedBy": "Automatic — not owner verified",
+      "proof": "provider-avatar-description-unverified",
+      "source": "provider",
+      "autoExcludedAt": "2026-10-18T02:42:23.144Z"
+    },
+    {
+      "id": "avtr_40a0af9e-d1c9-49d2-8883-38fc0e75258f",
+      "marker": "private",
+      "reason": "Avatar description opt-out marker (automatic)",
+      "verifiedBy": "Automatic — not owner verified",
+      "proof": "provider-avatar-description-unverified",
+      "source": "provider",
+      "autoExcludedAt": "2026-10-18T02:42:23.144Z"
+    },
+    {
+      "id": "avtr_b6c6ea26-8893-4c19-99b7-5a6cc1890e3b",
+      "marker": "private",
+      "reason": "Avatar description opt-out marker (automatic)",
+      "verifiedBy": "Automatic — not owner verified",
+      "proof": "provider-avatar-description-unverified",
+      "source": "provider",
+      "autoExcludedAt": "2026-10-18T02:42:23.144Z"
+    },
+    {
+      "id": "avtr_9a582e84-1c6a-4f37-9d45-ce808fcfeb40",
+      "marker": "private",
+      "reason": "Avatar description opt-out marker (automatic)",
+      "verifiedBy": "Automatic — not owner verified",
+      "proof": "provider-avatar-description-unverified",
+      "source": "provider",
+      "autoExcludedAt": "2026-10-18T02:42:23.144Z"
+    },
+    {
+      "id": "avtr_2f481095-8586-4d67-b19f-5c79ea2e4120",
+      "marker": "private",
+      "reason": "Avatar description opt-out marker (automatic)",
+      "verifiedBy": "Automatic — not owner verified",
+      "proof": "provider-avatar-description-unverified",
+      "source": "provider",
+      "autoExcludedAt": "2026-10-18T02:42:23.144Z"
+    },
+    {
+      "id": "avtr_34f02823-a77c-47c1-b58e-e2aea501ab20",
+      "marker": "private",
+      "reason": "Avatar description opt-out marker (automatic)",
+      "verifiedBy": "Automatic — not owner verified",
+      "proof": "provider-avatar-description-unverified",
+      "source": "provider",
+      "autoExcludedAt": "2026-10-18T02:42:23.144Z"
+    },
+    {
+      "id": "avtr_02821c43-e522-497a-87b6-a206f67d2ed8",
+      "marker": "private",
+      "reason": "Avatar description opt-out marker (automatic)",
+      "verifiedBy": "Automatic — not owner verified",
+      "proof": "provider-avatar-description-unverified",
+      "source": "provider",
+      "autoExcludedAt": "2026-10-18T02:42:23.145Z"
+    },
+    {
+      "id": "avtr_c5b73273-0e9d-437b-b304-1d1fd69b1166",
+      "marker": "private",
+      "reason": "Avatar description opt-out marker (automatic)",
+      "verifiedBy": "Automatic — not owner verified",
+      "proof": "provider-avatar-description-unverified",
+      "source": "provider",
+      "autoExcludedAt": "2026-10-18T02:42:23.145Z"
+    },
+    {
+      "id": "avtr_4328bb8c-32d4-4761-aee5-3dedfe78b13f",
+      "marker": "private",
+      "reason": "Avatar description opt-out marker (automatic)",
+      "verifiedBy": "Automatic — not owner verified",
+      "proof": "provider-avatar-description-unverified",
+      "source": "provider",
+      "autoExcludedAt": "2026-10-18T02:42:23.145Z"
+    },
+    {
+      "id": "avtr_84c4984a-1295-4d5e-86d3-ddb4293b8ce1",
+      "marker": "private",
+      "reason": "Avatar description opt-out marker (automatic)",
+      "verifiedBy": "Automatic — not owner verified",
+      "proof": "provider-avatar-description-unverified",
+      "source": "provider",
+      "autoExcludedAt": "2026-10-18T02:42:23.145Z"
+    },
+    {
+      "id": "avtr_128ad46e-498b-45b4-9741-54b7f0c95a8d",
+      "marker": "private",
+      "reason": "Avatar description opt-out marker (automatic)",
+      "verifiedBy": "Automatic — not owner verified",
+      "proof": "provider-avatar-description-unverified",
+      "source": "provider",
+      "autoExcludedAt": "2026-10-18T02:42:23.145Z"
+    },
+    {
+      "id": "avtr_6b8dd8d7-cd8b-4fff-930d-2962ed70b525",
+      "marker": "private",
+      "reason": "Avatar description opt-out marker (automatic)",
+      "verifiedBy": "Automatic — not owner verified",
+      "proof": "provider-avatar-description-unverified",
+      "source": "provider",
+      "autoExcludedAt": "2026-10-18T02:42:23.145Z"
+    },
+    {
+      "id": "avtr_fe3deda9-2d38-4b79-9ee8-995eb6c5e54e",
+      "marker": "private",
+      "reason": "Avatar description opt-out marker (automatic)",
+      "verifiedBy": "Automatic — not owner verified",
+      "proof": "provider-avatar-description-unverified",
+      "source": "provider",
+      "autoExcludedAt": "2026-10-18T02:42:23.146Z"
+    },
+    {
+      "id": "avtr_1f88bfb1-f799-4748-b1c0-6c0f073f9cd8",
+      "marker": "private",
+      "reason": "Avatar description opt-out marker (automatic)",
+      "verifiedBy": "Automatic — not owner verified",
+      "proof": "provider-avatar-description-unverified",
+      "source": "provider",
+      "autoExcludedAt": "2026-10-18T02:42:23.146Z"
+    },
+    {
+      "id": "avtr_e2e1057d-b9bf-4eb0-8b6e-df1714c2111a",
+      "marker": "private",
+      "reason": "Avatar description opt-out marker (automatic)",
+      "verifiedBy": "Automatic — not owner verified",
+      "proof": "provider-avatar-description-unverified",
+      "source": "provider",
+      "autoExcludedAt": "2026-10-18T02:42:23.146Z"
+    },
+    {
+      "id": "avtr_ad5fd164-99a2-4405-9d32-542c1521e16d",
+      "marker": "private",
+      "reason": "Avatar description opt-out marker (automatic)",
+      "verifiedBy": "Automatic — not owner verified",
+      "proof": "provider-avatar-description-unverified",
+      "source": "provider",
+      "autoExcludedAt": "2026-10-18T02:42:23.146Z"
+    },
+    {
+      "id": "avtr_85c7a13b-7d38-4d1b-b63a-9cbfd4849765",
+      "marker": "private",
+      "reason": "Avatar description opt-out marker (automatic)",
+      "verifiedBy": "Automatic — not owner verified",
+      "proof": "provider-avatar-description-unverified",
+      "source": "provider",
+      "autoExcludedAt": "2026-10-18T02:42:23.156Z"
+    },
+    {
+      "id": "avtr_a1c4c975-03b7-4a02-b6c3-4d4c60372ebd",
+      "marker": "private",
+      "reason": "Avatar description opt-out marker (automatic)",
+      "verifiedBy": "Automatic — not owner verified",
+      "proof": "provider-avatar-description-unverified",
+      "source": "provider",
+      "autoExcludedAt": "2026-10-18T02:42:23.156Z"
+    },
+    {
+      "id": "avtr_1bcf7afb-18e6-4df7-a8cd-dc8b054e3e0f",
+      "marker": "private",
+      "reason": "Avatar description opt-out marker (automatic)",
+      "verifiedBy": "Automatic — not owner verified",
+      "proof": "provider-avatar-description-unverified",
+      "source": "provider",
+      "autoExcludedAt": "2026-10-18T02:42:23.157Z"
+    },
+    {
+      "id": "avtr_b471a3ee-83d8-4bf8-845a-a995cde3875b",
+      "marker": "private",
+      "reason": "Avatar description opt-out marker (automatic)",
+      "verifiedBy": "Automatic — not owner verified",
+      "proof": "provider-avatar-description-unverified",
+      "source": "provider",
+      "autoExcludedAt": "2026-10-18T02:42:23.157Z"
+    },
+    {
+      "id": "avtr_38adf3c9-e9c0-4981-b750-608af676b968",
+      "marker": "private",
+      "reason": "Avatar description opt-out marker (automatic)",
+      "verifiedBy": "Automatic — not owner verified",
+      "proof": "provider-avatar-description-unverified",
+      "source": "provider",
+      "autoExcludedAt": "2026-10-18T02:42:23.157Z"
+    },
+    {
+      "id": "avtr_87ab2119-d27a-4561-a48c-c4f384f3c4e8",
+      "marker": "private",
+      "reason": "Avatar description opt-out marker (automatic)",
+      "verifiedBy": "Automatic — not owner verified",
+      "proof": "provider-avatar-description-unverified",
+      "source": "provider",
+      "autoExcludedAt": "2026-10-18T02:42:23.157Z"
+    },
+    {
+      "id": "avtr_81d19ad4-b4d7-4334-87be-8fef4949adea",
+      "marker": "private",
+      "reason": "Avatar description opt-out marker (automatic)",
+      "verifiedBy": "Automatic — not owner verified",
+      "proof": "provider-avatar-description-unverified",
+      "source": "provider",
+      "autoExcludedAt": "2026-10-18T02:42:23.157Z"
+    },
+    {
+      "id": "avtr_2ea16be2-99d0-4f5a-8564-3dfc0a409558",
+      "marker": "private",
+      "reason": "Avatar description opt-out marker (automatic)",
+      "verifiedBy": "Automatic — not owner verified",
+      "proof": "provider-avatar-description-unverified",
+      "source": "provider",
+      "autoExcludedAt": "2026-10-18T02:42:23.157Z"
+    },
+    {
+      "id": "avtr_97c87333-377a-417b-97a8-2651885825ab",
+      "marker": "private",
+      "reason": "Avatar description opt-out marker (automatic)",
+      "verifiedBy": "Automatic — not owner verified",
+      "proof": "provider-avatar-description-unverified",
+      "source": "provider",
+      "autoExcludedAt": "2026-10-18T02:42:23.157Z"
+    },
+    {
+      "id": "avtr_15418bf9-423e-47dd-a146-f74b5dca8def",
+      "marker": "private",
+      "reason": "Avatar description opt-out marker (automatic)",
+      "verifiedBy": "Automatic — not owner verified",
+      "proof": "provider-avatar-description-unverified",
+      "source": "provider",
+      "autoExcludedAt": "2026-10-18T02:42:23.157Z"
+    },
+    {
+      "id": "avtr_7a0c50cb-3e9a-4b84-8c74-9cd7d755dcc9",
+      "marker": "private",
+      "reason": "Avatar description opt-out marker (automatic)",
+      "verifiedBy": "Automatic — not owner verified",
+      "proof": "provider-avatar-description-unverified",
+      "source": "provider",
+      "autoExcludedAt": "2026-10-18T02:42:23.158Z"
+    },
+    {
+      "id": "avtr_fb175440-45ff-47ef-993a-83bb2638b09d",
+      "marker": "private",
+      "reason": "Avatar description opt-out marker (automatic)",
+      "verifiedBy": "Automatic — not owner verified",
+      "proof": "provider-avatar-description-unverified",
+      "source": "provider",
+      "autoExcludedAt": "2026-10-18T02:42:23.158Z"
+    },
+    {
+      "id": "avtr_391ad1eb-bc82-47f1-ab7f-44fc9313f1fc",
+      "marker": "private",
+      "reason": "Avatar description opt-out marker (automatic)",
+      "verifiedBy": "Automatic — not owner verified",
+      "proof": "provider-avatar-description-unverified",
+      "source": "NekoSuneVR Exact Lookup",
+      "autoExcludedAt": "2026-10-18T02:42:23.159Z"
+    },
+    {
+      "id": "avtr_5945625e-3fbf-4dc7-916e-cb0eb85b1279",
+      "marker": "private",
+      "reason": "Avatar description opt-out marker (automatic)",
+      "verifiedBy": "Automatic — not owner verified",
+      "proof": "provider-avatar-description-unverified",
+      "source": "AviSeek",
+      "autoExcludedAt": "2026-10-18T02:42:23.159Z"
     }
   ],
   "excludedCreators": [
