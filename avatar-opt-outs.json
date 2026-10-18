@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-18T01:19:02.556Z",
+  "updated": "2026-10-18T01:19:39.304Z",
   "excludedAvatars": [
     {
       "id": "avtr_382346f2-2874-4192-be25-336ada0d9082",
@@ -9,6 +9,14 @@
       "verifiedBy": "Owner",
       "proof": "owner-verified",
       "approvedAt": "2026-10-08T01:05:14.737Z"
+    },
+    {
+      "id": "avtr_56493ce1-af99-46d7-89d8-3c2683a9ebf1",
+      "marker": "blacklist",
+      "reason": "backlisted",
+      "verifiedBy": "Owner",
+      "proof": "official-profile-marker",
+      "approvedAt": "2026-10-18T01:19:39.304Z"
     }
   ],
   "excludedCreators": [
@@ -22,16 +30,6 @@
     }
   ],
   "pending": [
-    {
-      "id": "avtr_56493ce1-af99-46d7-89d8-3c2683a9ebf1",
-      "type": "avatar",
-      "marker": "blacklist",
-      "avatarId": "avtr_56493ce1-af99-46d7-89d8-3c2683a9ebf1",
-      "creatorId": "",
-      "name": "Twisted Shelly ［ Dandy's world ］",
-      "source": "AviSeek",
-      "reportedAt": "2026-10-18T01:16:59.224Z"
-    },
     {
       "id": "avtr_a629a216-3e97-4c25-90bb-9be52103ec43",
       "type": "avatar",
