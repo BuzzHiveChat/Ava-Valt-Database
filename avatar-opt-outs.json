@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-08T11:04:05.405Z",
+  "updated": "2026-10-18T01:16:59.225Z",
   "excludedAvatars": [
     {
       "id": "avtr_382346f2-2874-4192-be25-336ada0d9082",
@@ -51,6 +51,46 @@
       "name": "Stitch‚ Yard Dog （BO6）",
       "source": "NekoSuneVR Exact Lookup",
       "reportedAt": "2026-10-08T11:04:05.405Z"
+    },
+    {
+      "id": "avtr_59e86810-e920-4155-9ab7-64d45457c90a",
+      "type": "avatar",
+      "marker": "blacklist",
+      "avatarId": "avtr_59e86810-e920-4155-9ab7-64d45457c90a",
+      "creatorId": "usr_23d73a20-d71a-4cd6-bd6d-488447db3e58",
+      "name": "Vox ［Repo Comfy Dextro Avatar］",
+      "source": "PAW",
+      "reportedAt": "2026-10-18T01:16:59.224Z"
+    },
+    {
+      "id": "avtr_584462cf-bafe-464a-8a20-5dbdb7d95451",
+      "type": "avatar",
+      "marker": "blacklist",
+      "avatarId": "avtr_584462cf-bafe-464a-8a20-5dbdb7d95451",
+      "creatorId": "usr_73bde438-ea83-4468-b7ef-3cf4ba07c7a2",
+      "name": "Chimera ｜ EXAMINATION",
+      "source": "AviSeek",
+      "reportedAt": "2026-10-18T01:16:59.224Z"
+    },
+    {
+      "id": "avtr_56493ce1-af99-46d7-89d8-3c2683a9ebf1",
+      "type": "avatar",
+      "marker": "blacklist",
+      "avatarId": "avtr_56493ce1-af99-46d7-89d8-3c2683a9ebf1",
+      "creatorId": "",
+      "name": "Twisted Shelly ［ Dandy's world ］",
+      "source": "AviSeek",
+      "reportedAt": "2026-10-18T01:16:59.224Z"
+    },
+    {
+      "id": "avtr_a629a216-3e97-4c25-90bb-9be52103ec43",
+      "type": "avatar",
+      "marker": "blacklist",
+      "avatarId": "avtr_a629a216-3e97-4c25-90bb-9be52103ec43",
+      "creatorId": "usr_cd3f932f-7c0e-4577-bb79-90fe1df0c77e",
+      "name": "Nashatra Bealdhild",
+      "source": "AviSeek",
+      "reportedAt": "2026-10-18T01:16:59.225Z"
     }
   ],
   "dismissedRequests": []
