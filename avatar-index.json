@@ -386974,6 +386974,33 @@
       "updatedAt": "2024-11-22T06:05:54.328Z",
       "version": 0,
       "metadataProvider": "VRCWB"
+    },
+    {
+      "id": "avtr_a0803fa7-d0d9-4c94-957e-c2f71dded00b",
+      "name": "Voided Kitty",
+      "author": "Sketch494",
+      "authorId": "usr_22a94aa8-de10-45f3-b151-de057b057b2b",
+      "description": "Voided Kitty The void calls for you․․․ will you enterǃ Ę̶͉͛̂̌̕n̴͉̾ť̸̪̹̥̮e̴̖͔͑͘r̶͖͎̽͌̈́͆ ̴̣̻̞͗͊͜t̷͍͚̪̣̄́̾h̵̪̃̕é̵͓ ̸͉͙̄̇͘̕v̶̥̥̅o̸̢̡̮͋̄̕į̸̯̀͗d̶͖̝̤̬͆ ｜ A mix of the Fennec and Kitty base",
+      "imageUrl": "https://api.vrchat.cloud/api/1/image/file_deb4c8d4-7aae-46e9-ba77-6f0ca9ad0a9b/1/256",
+      "thumbnailImageUrl": "https://api.vrchat.cloud/api/1/image/file_deb4c8d4-7aae-46e9-ba77-6f0ca9ad0a9b/1/256",
+      "releaseStatus": "public",
+      "searchable": true,
+      "platforms": [
+        "PC",
+        "Android",
+        "iOS"
+      ],
+      "performancePc": "Very Poor",
+      "performanceAndroid": "Very Poor",
+      "performanceIos": "",
+      "tags": "author_tag_Human • author_tag_Animal • author_tag_Voided • author_tag_Hoppu • author_tag_VRChat Legends",
+      "createdAt": "2026-08-25T02:23:20.267Z",
+      "updatedAt": "2025-11-21T22:51:45.407Z",
+      "metadataProvider": "AviSeek",
+      "metadataEvidence": "public catalog platform fields",
+      "sourceProviders": [
+        "AviSeek"
+      ]
     }
   ]
 }
