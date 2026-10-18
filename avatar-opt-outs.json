@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-18T03:15:10.229Z",
+  "updated": "2026-10-18T20:20:27.788Z",
   "excludedAvatars": [
     {
       "id": "avtr_382346f2-2874-4192-be25-336ada0d9082",
@@ -1060,6 +1060,15 @@
       "proof": "provider-avatar-description-unverified",
       "source": "VRCWB",
       "autoExcludedAt": "2026-10-18T03:15:10.228Z"
+    },
+    {
+      "id": "avtr_8db4757c-a58f-41ff-aa9d-5966a503f723",
+      "marker": "blacklist",
+      "reason": "Avatar description opt-out marker (automatic)",
+      "verifiedBy": "Automatic — not owner verified",
+      "proof": "provider-avatar-description-unverified",
+      "source": "AviSeek",
+      "autoExcludedAt": "2026-10-18T20:20:27.787Z"
     }
   ],
   "excludedCreators": [
