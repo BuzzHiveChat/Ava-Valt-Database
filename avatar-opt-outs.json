@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-18T01:18:59.196Z",
+  "updated": "2026-10-18T01:19:02.556Z",
   "excludedAvatars": [
     {
       "id": "avtr_382346f2-2874-4192-be25-336ada0d9082",
@@ -22,16 +22,6 @@
     }
   ],
   "pending": [
-    {
-      "id": "avtr_584462cf-bafe-464a-8a20-5dbdb7d95451",
-      "type": "avatar",
-      "marker": "blacklist",
-      "avatarId": "avtr_584462cf-bafe-464a-8a20-5dbdb7d95451",
-      "creatorId": "usr_73bde438-ea83-4468-b7ef-3cf4ba07c7a2",
-      "name": "Chimera ｜ EXAMINATION",
-      "source": "AviSeek",
-      "reportedAt": "2026-10-18T01:16:59.224Z"
-    },
     {
       "id": "avtr_56493ce1-af99-46d7-89d8-3c2683a9ebf1",
       "type": "avatar",
@@ -77,6 +67,12 @@
       "id": "avtr_59e86810-e920-4155-9ab7-64d45457c90a",
       "marker": "blacklist",
       "reviewedAt": "2026-10-18T01:18:59.196Z"
+    },
+    {
+      "type": "avatar",
+      "id": "avtr_584462cf-bafe-464a-8a20-5dbdb7d95451",
+      "marker": "blacklist",
+      "reviewedAt": "2026-10-18T01:19:02.556Z"
     }
   ]
 }
