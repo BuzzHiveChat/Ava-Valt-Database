@@ -399831,6 +399831,126 @@
       "sourceProviders": [
         "AviSeek"
       ]
+    },
+    {
+      "id": "avtr_94d1c493-f398-4cc7-89ad-96a62dcf07cc",
+      "name": "Snerfoil - Night Fury ［SFW］",
+      "author": "publicavatars2",
+      "authorId": "usr_8a0a0cd2-2e4a-4261-8bbb-a558705b6d7c",
+      "description": "Exclusively Safe For Work Versionǃ",
+      "imageUrl": "",
+      "thumbnailImageUrl": "https://api.vrchat.cloud/api/1/image/file_deb406eb-2e1c-4fea-8f8f-e9e036dcd8d9/1/256",
+      "releaseStatus": "public",
+      "searchable": true,
+      "platforms": [
+        "PC",
+        "Android",
+        "iOS"
+      ],
+      "performancePc": "",
+      "performanceAndroid": "",
+      "performanceIos": "",
+      "tags": "",
+      "createdAt": "",
+      "updatedAt": "",
+      "version": 0,
+      "metadataProvider": "AviSeek",
+      "sourceProviders": [
+        "NSVR"
+      ],
+      "safePlatformCheckCompleted": true,
+      "platformMetadataCheckedAt": "2026-10-20T21:35:56.314Z",
+      "platformMetadataState": "VERIFIED"
+    },
+    {
+      "id": "avtr_9a98c803-9c96-4cef-a927-5235ca4a8e72",
+      "name": "CHITA-avatarmuseum",
+      "author": "HAYA-CHAN",
+      "authorId": "usr_8012821b-b78f-4eb9-b42e-8e46e85fbf56",
+      "description": "booth chita chan",
+      "imageUrl": "",
+      "thumbnailImageUrl": "https://api.vrchat.cloud/api/1/image/file_379b161b-0355-43fa-a2b2-e3081f8f7e53/2/256",
+      "releaseStatus": "public",
+      "searchable": true,
+      "platforms": [
+        "PC",
+        "Android",
+        "iOS"
+      ],
+      "performancePc": "",
+      "performanceAndroid": "",
+      "performanceIos": "",
+      "tags": "",
+      "createdAt": "",
+      "updatedAt": "",
+      "version": 0,
+      "metadataProvider": "AviSeek",
+      "sourceProviders": [
+        "NSVR"
+      ],
+      "safePlatformCheckCompleted": true,
+      "platformMetadataCheckedAt": "2026-10-20T21:35:56.314Z",
+      "platformMetadataState": "VERIFIED"
+    },
+    {
+      "id": "avtr_980e90a6-526c-40d8-be02-a4b22f560765",
+      "name": "roblox avatar test",
+      "author": "freakyer",
+      "authorId": "usr_64742a67-aa7e-4779-9b94-f4246da142e7",
+      "description": "roblox avatar test",
+      "imageUrl": "",
+      "thumbnailImageUrl": "https://api.vrchat.cloud/api/1/image/file_49454ac1-3108-4544-a508-89b83e4ec6b4/1/256",
+      "releaseStatus": "public",
+      "searchable": true,
+      "platforms": [
+        "PC",
+        "Android",
+        "iOS"
+      ],
+      "performancePc": "",
+      "performanceAndroid": "",
+      "performanceIos": "",
+      "tags": "",
+      "createdAt": "",
+      "updatedAt": "",
+      "version": 0,
+      "metadataProvider": "AviSeek",
+      "sourceProviders": [
+        "NSVR"
+      ],
+      "safePlatformCheckCompleted": true,
+      "platformMetadataCheckedAt": "2026-10-20T21:36:28.546Z",
+      "platformMetadataState": "VERIFIED"
+    },
+    {
+      "id": "avtr_f75d00d6-59de-4b8a-82ae-9e981c542720",
+      "name": "GlueGay avatar necro bruh bruh for her her ehr heur hr he how who no no uno uno uno uno uno uno uno uno uno uno uno uno uno on quest uwu",
+      "author": "§å†åñÇðåx",
+      "authorId": "usr_17e24dc6-5420-4226-b4d6-f93763cace31",
+      "description": "GlueGay avatar necro bruh bruh for her her ehr heur hr he how who no no uno uno uno uno uno uno uno uno uno uno uno uno uno on quest uwu",
+      "imageUrl": "",
+      "thumbnailImageUrl": "https://api.vrchat.cloud/api/1/image/file_c8a69a85-1a24-44d8-898a-676453437273/1/256",
+      "releaseStatus": "public",
+      "searchable": true,
+      "platforms": [
+        "PC",
+        "Android",
+        "iOS"
+      ],
+      "performancePc": "",
+      "performanceAndroid": "",
+      "performanceIos": "",
+      "tags": "",
+      "createdAt": "",
+      "updatedAt": "",
+      "version": 0,
+      "metadataProvider": "AviSeek",
+      "sourceProviders": [
+        "NSVR"
+      ],
+      "safePlatformCheckCompleted": true,
+      "platformMetadataCheckedAt": "2026-10-20T21:38:39.959Z",
+      "platformMetadataState": "VERIFIED"
     }
   ]
 }
