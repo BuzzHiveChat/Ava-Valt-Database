@@ -62,12 +62,11 @@
   "providerEnabled": {
     "avtrDB": false,
     "AvtrZip": true,
-    "KitsuneDB": true,
     "CuteDB": true,
     "PAW": true,
-    "VRCDB": true,
     "VRCWB": true,
-    "NSVR": true
+    "NSVR": true,
+    "AviSeek": true
   },
   "lastRun": "2026-10-07T13:00:03.941Z",
   "lastAdded": 0,
@@ -82,23 +81,9 @@
       "term": "dog"
     },
     {
-      "provider": "KitsuneDB",
-      "state": "working",
-      "count": 50,
-      "error": "",
-      "term": "dog"
-    },
-    {
       "provider": "PAW",
       "state": "working",
       "count": 250,
-      "error": "",
-      "term": "dog"
-    },
-    {
-      "provider": "VRCDB",
-      "state": "working",
-      "count": 1000,
       "error": "",
       "term": "dog"
     },
@@ -124,23 +109,9 @@
       "term": "wolf"
     },
     {
-      "provider": "KitsuneDB",
-      "state": "working",
-      "count": 50,
-      "error": "",
-      "term": "wolf"
-    },
-    {
       "provider": "PAW",
       "state": "working",
       "count": 250,
-      "error": "",
-      "term": "wolf"
-    },
-    {
-      "provider": "VRCDB",
-      "state": "working",
-      "count": 1000,
       "error": "",
       "term": "wolf"
     },
@@ -188,6 +159,6 @@
   "lastQuarantineError": null,
   "currentStage": "STOPPED",
   "stageUpdatedAt": "2026-10-07T13:10:24.355Z",
-  "updatedAt": "2026-10-08T12:12:26.793Z",
+  "updatedAt": "2026-10-20T21:44:46.944Z",
   "lastConflicts": 0
 }
