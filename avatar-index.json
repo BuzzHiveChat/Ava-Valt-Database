@@ -417498,6 +417498,2760 @@
       "safePlatformCheckCompleted": true,
       "platformMetadataCheckedAt": "2026-10-18T20:25:07.800Z",
       "platformMetadataState": "VERIFIED"
+    },
+    {
+      "id": "avtr_2eda5388-a13f-487f-aad0-cb1703ce6eb3",
+      "name": "BCN Avatar",
+      "author": "Unknown",
+      "authorId": "",
+      "description": "",
+      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_27516b8a-1894-4575-8b1e-8c63d54ab8db/1/file",
+      "thumbnailImageUrl": "",
+      "releaseStatus": "public",
+      "searchable": true,
+      "platforms": [
+        "PC"
+      ],
+      "performancePc": "VeryPoor",
+      "performanceAndroid": "",
+      "performanceIos": "",
+      "tags": "",
+      "createdAt": "",
+      "updatedAt": "",
+      "version": 0,
+      "metadataProvider": "VRCWB",
+      "sourceProviders": [
+        "VRCWB"
+      ]
+    },
+    {
+      "id": "avtr_425d3232-0bbf-4396-b445-ad2836171018",
+      "name": "［MakeAvatar］【第4弾】クロミ×Forever21",
+      "author": "Unknown",
+      "authorId": "",
+      "description": "",
+      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_8c2cadc2-6a9f-4f20-aa8b-7438bd938a7b/1/file",
+      "thumbnailImageUrl": "",
+      "releaseStatus": "public",
+      "searchable": true,
+      "platforms": [
+        "PC",
+        "Android"
+      ],
+      "performancePc": "Excellent",
+      "performanceAndroid": "Poor",
+      "performanceIos": "",
+      "tags": "",
+      "createdAt": "",
+      "updatedAt": "",
+      "version": 0,
+      "metadataProvider": "VRCWB",
+      "sourceProviders": [
+        "VRCWB"
+      ]
+    },
+    {
+      "id": "avtr_ff5637a4-99bf-4875-86dc-3d3075bf4605",
+      "name": "Dragon ball avatar testing",
+      "author": "Unknown",
+      "authorId": "",
+      "description": "",
+      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_9d7f55d7-2b15-42ae-b648-fc5468002132/1/file",
+      "thumbnailImageUrl": "",
+      "releaseStatus": "public",
+      "searchable": true,
+      "platforms": [
+        "PC",
+        "Android"
+      ],
+      "performancePc": "VeryPoor",
+      "performanceAndroid": "VeryPoor",
+      "performanceIos": "",
+      "tags": "",
+      "createdAt": "",
+      "updatedAt": "",
+      "version": 0,
+      "metadataProvider": "VRCWB",
+      "sourceProviders": [
+        "VRCWB"
+      ]
+    },
+    {
+      "id": "avtr_261e8bb4-c36e-476e-a0dd-6e09f993371f",
+      "name": "Dunkin's Avatar",
+      "author": "Unknown",
+      "authorId": "",
+      "description": "",
+      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_ccd7be30-175e-4232-bf08-aa83cf21616d/2/file",
+      "thumbnailImageUrl": "",
+      "releaseStatus": "public",
+      "searchable": true,
+      "platforms": [
+        "PC",
+        "Android"
+      ],
+      "performancePc": "Medium",
+      "performanceAndroid": "VeryPoor",
+      "performanceIos": "",
+      "tags": "",
+      "createdAt": "",
+      "updatedAt": "",
+      "version": 0,
+      "metadataProvider": "VRCWB",
+      "sourceProviders": [
+        "VRCWB"
+      ]
+    },
+    {
+      "id": "avtr_61f85d92-2b6e-4bd9-a53d-04be9c90b916",
+      "name": "King's Avatar",
+      "author": "Unknown",
+      "authorId": "",
+      "description": "",
+      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_1cf26160-27a1-4c91-926d-042403a3317b/2/file",
+      "thumbnailImageUrl": "",
+      "releaseStatus": "public",
+      "searchable": true,
+      "platforms": [
+        "PC"
+      ],
+      "performancePc": "Good",
+      "performanceAndroid": "",
+      "performanceIos": "",
+      "tags": "",
+      "createdAt": "",
+      "updatedAt": "",
+      "version": 0,
+      "metadataProvider": "VRCWB",
+      "sourceProviders": [
+        "VRCWB"
+      ]
+    },
+    {
+      "id": "avtr_4f509686-d9eb-4cc2-a8fa-3d5b1086116a",
+      "name": "Reerard's Avatar",
+      "author": "Unknown",
+      "authorId": "",
+      "description": "",
+      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_6073fe79-5e38-4477-be8a-17264ab01030/1/file",
+      "thumbnailImageUrl": "",
+      "releaseStatus": "public",
+      "searchable": true,
+      "platforms": [
+        "PC"
+      ],
+      "performancePc": "VeryPoor",
+      "performanceAndroid": "",
+      "performanceIos": "",
+      "tags": "",
+      "createdAt": "",
+      "updatedAt": "",
+      "version": 0,
+      "metadataProvider": "VRCWB",
+      "sourceProviders": [
+        "VRCWB"
+      ]
+    },
+    {
+      "id": "avtr_e586ad72-42d2-4078-bf95-a5b714359b98",
+      "name": "Emma's Christmas Avatar",
+      "author": "Unknown",
+      "authorId": "",
+      "description": "",
+      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_7fb8ee4e-9799-4380-a7e1-1f70e005ca38/2/file",
+      "thumbnailImageUrl": "",
+      "releaseStatus": "public",
+      "searchable": true,
+      "platforms": [
+        "PC",
+        "Android"
+      ],
+      "performancePc": "Medium",
+      "performanceAndroid": "VeryPoor",
+      "performanceIos": "",
+      "tags": "",
+      "createdAt": "",
+      "updatedAt": "",
+      "version": 0,
+      "metadataProvider": "VRCWB",
+      "sourceProviders": [
+        "VRCWB"
+      ]
+    },
+    {
+      "id": "avtr_f20bfed0-3a96-43a3-a76a-ff9e75c03261",
+      "name": "seths avatar",
+      "author": "Unknown",
+      "authorId": "",
+      "description": "",
+      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_e2931345-0137-4181-b165-6ce9e0557a7d/3/file",
+      "thumbnailImageUrl": "",
+      "releaseStatus": "public",
+      "searchable": true,
+      "platforms": [
+        "PC"
+      ],
+      "performancePc": "VeryPoor",
+      "performanceAndroid": "",
+      "performanceIos": "",
+      "tags": "",
+      "createdAt": "",
+      "updatedAt": "",
+      "version": 0,
+      "metadataProvider": "VRCWB",
+      "sourceProviders": [
+        "VRCWB"
+      ]
+    },
+    {
+      "id": "avtr_dfe169c6-a693-4bc1-9ce5-7852faff2963",
+      "name": "foxylad avatar",
+      "author": "Unknown",
+      "authorId": "",
+      "description": "",
+      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_07090a74-c1ff-4de1-b8c0-7424048d17f8/1/file",
+      "thumbnailImageUrl": "",
+      "releaseStatus": "public",
+      "searchable": true,
+      "platforms": [
+        "PC"
+      ],
+      "performancePc": "VeryPoor",
+      "performanceAndroid": "",
+      "performanceIos": "",
+      "tags": "",
+      "createdAt": "",
+      "updatedAt": "",
+      "version": 0,
+      "metadataProvider": "VRCWB",
+      "sourceProviders": [
+        "VRCWB"
+      ]
+    },
+    {
+      "id": "avtr_5f825cb3-c005-4d9a-a52f-056d9b5e8db9",
+      "name": "Sadoboi Avatar v0․1",
+      "author": "Unknown",
+      "authorId": "",
+      "description": "",
+      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_c6fc7ca1-7be9-4525-85ac-d1b6036b69b5/1/file",
+      "thumbnailImageUrl": "",
+      "releaseStatus": "public",
+      "searchable": true,
+      "platforms": [
+        "PC"
+      ],
+      "performancePc": "Good",
+      "performanceAndroid": "",
+      "performanceIos": "",
+      "tags": "",
+      "createdAt": "",
+      "updatedAt": "",
+      "version": 0,
+      "metadataProvider": "VRCWB",
+      "sourceProviders": [
+        "VRCWB"
+      ]
+    },
+    {
+      "id": "avtr_4092aad1-06a9-4577-a40b-e1086abdcd64",
+      "name": "CubeAvatar VK5-UCEN",
+      "author": "Unknown",
+      "authorId": "",
+      "description": "",
+      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_ff3878a5-39f2-4076-be5f-3b258d695665/3/file",
+      "thumbnailImageUrl": "",
+      "releaseStatus": "public",
+      "searchable": true,
+      "platforms": [
+        "PC"
+      ],
+      "performancePc": "Excellent",
+      "performanceAndroid": "",
+      "performanceIos": "",
+      "tags": "",
+      "createdAt": "",
+      "updatedAt": "",
+      "version": 0,
+      "metadataProvider": "VRCWB",
+      "sourceProviders": [
+        "VRCWB"
+      ]
+    },
+    {
+      "id": "avtr_c095d4e4-ef33-433b-a7fe-4e05a817fa34",
+      "name": "The Exit 8 VR Avatar",
+      "author": "Unknown",
+      "authorId": "",
+      "description": "",
+      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_17d68e98-a99e-410b-b7cd-aa75f58b1909/1/file",
+      "thumbnailImageUrl": "",
+      "releaseStatus": "public",
+      "searchable": true,
+      "platforms": [
+        "PC",
+        "Android"
+      ],
+      "performancePc": "Medium",
+      "performanceAndroid": "VeryPoor",
+      "performanceIos": "",
+      "tags": "",
+      "createdAt": "",
+      "updatedAt": "",
+      "version": 0,
+      "metadataProvider": "VRCWB",
+      "sourceProviders": [
+        "VRCWB"
+      ]
+    },
+    {
+      "id": "avtr_a6bff343-bfb0-4195-99d0-f82201c5a657",
+      "name": "SupahRetrooo Avatar",
+      "author": "Unknown",
+      "authorId": "",
+      "description": "",
+      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_9f42d390-471f-4dc1-ad22-a47c8d16ffeb/1/file",
+      "thumbnailImageUrl": "",
+      "releaseStatus": "public",
+      "searchable": true,
+      "platforms": [
+        "PC",
+        "Android"
+      ],
+      "performancePc": "Excellent",
+      "performanceAndroid": "Excellent",
+      "performanceIos": "",
+      "tags": "",
+      "createdAt": "",
+      "updatedAt": "",
+      "version": 0,
+      "metadataProvider": "VRCWB",
+      "sourceProviders": [
+        "VRCWB"
+      ]
+    },
+    {
+      "id": "avtr_f361726a-189a-4200-b061-0caa258b2944",
+      "name": "RecRoom Avatar",
+      "author": "Unknown",
+      "authorId": "",
+      "description": "",
+      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_f93986a4-61f0-4d55-b70a-695605b0476c/1/file",
+      "thumbnailImageUrl": "",
+      "releaseStatus": "public",
+      "searchable": true,
+      "platforms": [
+        "PC",
+        "Android"
+      ],
+      "performancePc": "Good",
+      "performanceAndroid": "Medium",
+      "performanceIos": "",
+      "tags": "",
+      "createdAt": "",
+      "updatedAt": "",
+      "version": 0,
+      "metadataProvider": "VRCWB",
+      "sourceProviders": [
+        "VRCWB"
+      ]
+    },
+    {
+      "id": "avtr_e37c4768-84ff-41e0-9a51-d569a50e6a45",
+      "name": "ThemelessforNow - Public Avatar by Triock",
+      "author": "Unknown",
+      "authorId": "",
+      "description": "",
+      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_211c7b74-6d10-4288-abd9-1ad095a11bcc/2/file",
+      "thumbnailImageUrl": "",
+      "releaseStatus": "public",
+      "searchable": true,
+      "platforms": [
+        "PC"
+      ],
+      "performancePc": "Medium",
+      "performanceAndroid": "",
+      "performanceIos": "",
+      "tags": "",
+      "createdAt": "",
+      "updatedAt": "",
+      "version": 0,
+      "metadataProvider": "VRCWB",
+      "sourceProviders": [
+        "VRCWB"
+      ]
+    },
+    {
+      "id": "avtr_9064a0a5-ee7a-4eae-8cdf-d3cb7ca1ebb1",
+      "name": "Realistic Man Avatar 1",
+      "author": "Unknown",
+      "authorId": "",
+      "description": "",
+      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_ecce4bdb-4e33-4662-8236-bf8fff9222de/1/file",
+      "thumbnailImageUrl": "",
+      "releaseStatus": "public",
+      "searchable": true,
+      "platforms": [
+        "PC",
+        "Android"
+      ],
+      "performancePc": "Good",
+      "performanceAndroid": "Medium",
+      "performanceIos": "",
+      "tags": "",
+      "createdAt": "",
+      "updatedAt": "",
+      "version": 0,
+      "metadataProvider": "VRCWB",
+      "sourceProviders": [
+        "VRCWB"
+      ]
+    },
+    {
+      "id": "avtr_b782d4bb-90ad-4cf9-b65f-cc795e45d983",
+      "name": "public nikei meme‚ ＂is that a custom avatar＂",
+      "author": "Unknown",
+      "authorId": "",
+      "description": "",
+      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_c327cdc7-a2d6-40c1-b4f1-01371f7aae5a/1/file",
+      "thumbnailImageUrl": "",
+      "releaseStatus": "public",
+      "searchable": true,
+      "platforms": [
+        "PC"
+      ],
+      "performancePc": "VeryPoor",
+      "performanceAndroid": "",
+      "performanceIos": "",
+      "tags": "",
+      "createdAt": "",
+      "updatedAt": "",
+      "version": 0,
+      "metadataProvider": "VRCWB",
+      "sourceProviders": [
+        "VRCWB"
+      ]
+    },
+    {
+      "id": "avtr_f7583c31-2e29-40fa-b328-50b148df05d9",
+      "name": "Girl Avatar- Black",
+      "author": "Unknown",
+      "authorId": "",
+      "description": "",
+      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_d3f3f560-772d-4f68-9549-368e0c7523eb/1/file",
+      "thumbnailImageUrl": "",
+      "releaseStatus": "public",
+      "searchable": true,
+      "platforms": [
+        "PC"
+      ],
+      "performancePc": "VeryPoor",
+      "performanceAndroid": "",
+      "performanceIos": "",
+      "tags": "",
+      "createdAt": "",
+      "updatedAt": "",
+      "version": 0,
+      "metadataProvider": "VRCWB",
+      "sourceProviders": [
+        "VRCWB"
+      ]
+    },
+    {
+      "id": "avtr_222df510-5e8d-4017-af3a-eea8959026ed",
+      "name": "sub-zeros chill avatar",
+      "author": "Unknown",
+      "authorId": "",
+      "description": "",
+      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_72716c93-7fdc-47f5-a61a-988d764edacd/2/file",
+      "thumbnailImageUrl": "",
+      "releaseStatus": "public",
+      "searchable": true,
+      "platforms": [
+        "PC"
+      ],
+      "performancePc": "VeryPoor",
+      "performanceAndroid": "",
+      "performanceIos": "",
+      "tags": "",
+      "createdAt": "",
+      "updatedAt": "",
+      "version": 0,
+      "metadataProvider": "VRCWB",
+      "sourceProviders": [
+        "VRCWB"
+      ]
+    },
+    {
+      "id": "avtr_e58f906c-7cc0-4620-aea4-052b40aceff6",
+      "name": "＂Ace＂ - Reploid Avatar",
+      "author": "Unknown",
+      "authorId": "",
+      "description": "",
+      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_45e577cd-b879-498f-82ad-f009fc93b877/2/file",
+      "thumbnailImageUrl": "",
+      "releaseStatus": "public",
+      "searchable": true,
+      "platforms": [
+        "PC"
+      ],
+      "performancePc": "Good",
+      "performanceAndroid": "",
+      "performanceIos": "",
+      "tags": "",
+      "createdAt": "",
+      "updatedAt": "",
+      "version": 0,
+      "metadataProvider": "VRCWB",
+      "sourceProviders": [
+        "VRCWB"
+      ]
+    },
+    {
+      "id": "avtr_8d7c6e15-fab3-4fa5-a5a7-05b856110e89",
+      "name": "avatartest",
+      "author": "Unknown",
+      "authorId": "",
+      "description": "",
+      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_bed1e022-8989-42ca-bd50-7c5df2b32024/1/file",
+      "thumbnailImageUrl": "",
+      "releaseStatus": "public",
+      "searchable": true,
+      "platforms": [
+        "PC"
+      ],
+      "performancePc": "Excellent",
+      "performanceAndroid": "",
+      "performanceIos": "",
+      "tags": "",
+      "createdAt": "",
+      "updatedAt": "",
+      "version": 0,
+      "metadataProvider": "VRCWB",
+      "sourceProviders": [
+        "VRCWB"
+      ]
+    },
+    {
+      "id": "avtr_19b01c7b-6d83-42d3-92da-33b19c835f43",
+      "name": "Unity Default Avatar",
+      "author": "Unknown",
+      "authorId": "",
+      "description": "",
+      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_ba18c86f-3f9a-451e-b5a7-d359b3f9647d/1/file",
+      "thumbnailImageUrl": "",
+      "releaseStatus": "public",
+      "searchable": true,
+      "platforms": [
+        "PC",
+        "Android"
+      ],
+      "performancePc": "Medium",
+      "performanceAndroid": "VeryPoor",
+      "performanceIos": "",
+      "tags": "",
+      "createdAt": "",
+      "updatedAt": "",
+      "version": 0,
+      "metadataProvider": "VRCWB",
+      "sourceProviders": [
+        "VRCWB"
+      ]
+    },
+    {
+      "id": "avtr_5b6a5b65-db71-4829-b8c3-1cdf48dd5e86",
+      "name": "AieSven Public Avatars 1",
+      "author": "Unknown",
+      "authorId": "",
+      "description": "",
+      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_e252188e-3fd8-49eb-ab98-0ec693ed2f5d/2/file",
+      "thumbnailImageUrl": "",
+      "releaseStatus": "public",
+      "searchable": true,
+      "platforms": [
+        "PC"
+      ],
+      "performancePc": "Medium",
+      "performanceAndroid": "",
+      "performanceIos": "",
+      "tags": "",
+      "createdAt": "",
+      "updatedAt": "",
+      "version": 0,
+      "metadataProvider": "VRCWB",
+      "sourceProviders": [
+        "VRCWB"
+      ]
+    },
+    {
+      "id": "avtr_55f7226d-a02f-47e5-a0b9-b8c72434846b",
+      "name": "Gray'sCustomAvatar",
+      "author": "Unknown",
+      "authorId": "",
+      "description": "",
+      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_db7482ab-68f7-4f50-a42a-3633bdf4c687/3/file",
+      "thumbnailImageUrl": "",
+      "releaseStatus": "public",
+      "searchable": true,
+      "platforms": [
+        "PC"
+      ],
+      "performancePc": "VeryPoor",
+      "performanceAndroid": "",
+      "performanceIos": "",
+      "tags": "",
+      "createdAt": "",
+      "updatedAt": "",
+      "version": 0,
+      "metadataProvider": "VRCWB",
+      "sourceProviders": [
+        "VRCWB"
+      ]
+    },
+    {
+      "id": "avtr_501a4d86-0fbf-4bc6-a913-607e440fa971",
+      "name": "Skopea's Avatar WG",
+      "author": "Unknown",
+      "authorId": "",
+      "description": "",
+      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_468d8daa-79cd-40aa-abe5-482a11c86275/2/file",
+      "thumbnailImageUrl": "",
+      "releaseStatus": "public",
+      "searchable": true,
+      "platforms": [
+        "PC"
+      ],
+      "performancePc": "VeryPoor",
+      "performanceAndroid": "",
+      "performanceIos": "",
+      "tags": "",
+      "createdAt": "",
+      "updatedAt": "",
+      "version": 0,
+      "metadataProvider": "VRCWB",
+      "sourceProviders": [
+        "VRCWB"
+      ]
+    },
+    {
+      "id": "avtr_c77ab36d-0306-4ea0-86a7-c5b63ec26ee1",
+      "name": "Gordon_SampleAvatar",
+      "author": "Unknown",
+      "authorId": "",
+      "description": "",
+      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_469b86f3-6fd3-4505-a2ca-1e0b6e3f3d79/1/file",
+      "thumbnailImageUrl": "",
+      "releaseStatus": "public",
+      "searchable": true,
+      "platforms": [
+        "PC"
+      ],
+      "performancePc": "Medium",
+      "performanceAndroid": "",
+      "performanceIos": "",
+      "tags": "",
+      "createdAt": "",
+      "updatedAt": "",
+      "version": 0,
+      "metadataProvider": "VRCWB",
+      "sourceProviders": [
+        "VRCWB"
+      ]
+    },
+    {
+      "id": "avtr_681c1466-75b7-4b08-93d7-31a2c9bc5be5",
+      "name": "Sharāt_B_testingAvatar",
+      "author": "Unknown",
+      "authorId": "",
+      "description": "",
+      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_64fa8aed-a933-49c2-a3a9-7bcf1c80e78b/4/file",
+      "thumbnailImageUrl": "",
+      "releaseStatus": "public",
+      "searchable": true,
+      "platforms": [
+        "PC"
+      ],
+      "performancePc": "Medium",
+      "performanceAndroid": "",
+      "performanceIos": "",
+      "tags": "",
+      "createdAt": "",
+      "updatedAt": "",
+      "version": 0,
+      "metadataProvider": "VRCWB",
+      "sourceProviders": [
+        "VRCWB"
+      ]
+    },
+    {
+      "id": "avtr_39f7b634-a23f-4a25-9bbd-8d9094394044",
+      "name": "Marcello （ Bambi ） that i ported from sketchfab when i was learning how to make avatars",
+      "author": "Unknown",
+      "authorId": "",
+      "description": "",
+      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_2ada0633-adc0-43c9-affb-28b75d0b1b6d/1/file",
+      "thumbnailImageUrl": "",
+      "releaseStatus": "public",
+      "searchable": true,
+      "platforms": [
+        "PC",
+        "Android"
+      ],
+      "performancePc": "VeryPoor",
+      "performanceAndroid": "VeryPoor",
+      "performanceIos": "",
+      "tags": "",
+      "createdAt": "",
+      "updatedAt": "",
+      "version": 0,
+      "metadataProvider": "VRCWB",
+      "sourceProviders": [
+        "VRCWB"
+      ]
+    },
+    {
+      "id": "avtr_b4d3ba81-53e4-4f07-bd9c-779f4dd10aa3",
+      "name": "Scratch Avatar",
+      "author": "Unknown",
+      "authorId": "",
+      "description": "",
+      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_a8714385-2cee-4d4f-b358-0ca51288e133/1/file",
+      "thumbnailImageUrl": "",
+      "releaseStatus": "public",
+      "searchable": true,
+      "platforms": [
+        "PC"
+      ],
+      "performancePc": "Good",
+      "performanceAndroid": "",
+      "performanceIos": "",
+      "tags": "",
+      "createdAt": "",
+      "updatedAt": "",
+      "version": 0,
+      "metadataProvider": "VRCWB",
+      "sourceProviders": [
+        "VRCWB"
+      ]
+    },
+    {
+      "id": "avtr_8680bb63-15f3-4088-a1e5-ae97e395e118",
+      "name": "Default Avatar （Blocked by Performany）",
+      "author": "Unknown",
+      "authorId": "",
+      "description": "",
+      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_2345f5be-2402-4f73-8f75-150cb0bfc939/1/file",
+      "thumbnailImageUrl": "",
+      "releaseStatus": "public",
+      "searchable": true,
+      "platforms": [
+        "PC"
+      ],
+      "performancePc": "",
+      "performanceAndroid": "",
+      "performanceIos": "",
+      "tags": "",
+      "createdAt": "",
+      "updatedAt": "",
+      "version": 0,
+      "metadataProvider": "NekoSuneVR Exact Lookup",
+      "sourceProviders": [
+        "VRCWB"
+      ],
+      "safePlatformCheckCompleted": true,
+      "platformMetadataCheckedAt": "2026-10-20T19:48:24.246Z",
+      "platformMetadataState": "UNRESOLVED",
+      "metadataEvidence": "public exact-ID Platform field",
+      "metadataCheckedAt": "2026-10-20T19:48:24.246Z"
+    },
+    {
+      "id": "avtr_e521da52-c971-4269-aa3a-4ea7a54b9fe6",
+      "name": "Floaf's Bread Avatar",
+      "author": "Unknown",
+      "authorId": "",
+      "description": "",
+      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_e07318e7-00a7-4b3c-9b15-c902e0be42f6/1/file",
+      "thumbnailImageUrl": "",
+      "releaseStatus": "public",
+      "searchable": true,
+      "platforms": [
+        "PC"
+      ],
+      "performancePc": "Excellent",
+      "performanceAndroid": "",
+      "performanceIos": "",
+      "tags": "",
+      "createdAt": "",
+      "updatedAt": "",
+      "version": 0,
+      "metadataProvider": "VRCWB",
+      "sourceProviders": [
+        "VRCWB"
+      ]
+    },
+    {
+      "id": "avtr_deba3b5f-01dd-4d21-8419-67ef2fb19908",
+      "name": "Joffels‘ Avatar",
+      "author": "Unknown",
+      "authorId": "",
+      "description": "",
+      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_42049806-aff3-4042-9451-97d3f40a6784/1/file",
+      "thumbnailImageUrl": "",
+      "releaseStatus": "public",
+      "searchable": true,
+      "platforms": [
+        "PC"
+      ],
+      "performancePc": "Poor",
+      "performanceAndroid": "",
+      "performanceIos": "",
+      "tags": "",
+      "createdAt": "",
+      "updatedAt": "",
+      "version": 0,
+      "metadataProvider": "VRCWB",
+      "sourceProviders": [
+        "VRCWB"
+      ]
+    },
+    {
+      "id": "avtr_6ecb4e27-e1ab-49c3-946f-d60b6acfee70",
+      "name": "ZenPhantom15's Avatar",
+      "author": "Unknown",
+      "authorId": "",
+      "description": "",
+      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_9c37aa66-e51d-4623-8033-b4b443fbf717/1/file",
+      "thumbnailImageUrl": "",
+      "releaseStatus": "public",
+      "searchable": true,
+      "platforms": [
+        "PC",
+        "Android"
+      ],
+      "performancePc": "VeryPoor",
+      "performanceAndroid": "VeryPoor",
+      "performanceIos": "",
+      "tags": "",
+      "createdAt": "",
+      "updatedAt": "",
+      "version": 0,
+      "metadataProvider": "VRCWB",
+      "sourceProviders": [
+        "VRCWB"
+      ]
+    },
+    {
+      "id": "avtr_341799a2-3312-4a1b-b2e4-4d02e2dbb835",
+      "name": "a real avatar",
+      "author": "Unknown",
+      "authorId": "",
+      "description": "",
+      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_14b90269-f7af-49ad-88e2-b1153bc8649b/2/file",
+      "thumbnailImageUrl": "",
+      "releaseStatus": "public",
+      "searchable": true,
+      "platforms": [
+        "PC",
+        "Android"
+      ],
+      "performancePc": "Medium",
+      "performanceAndroid": "VeryPoor",
+      "performanceIos": "",
+      "tags": "",
+      "createdAt": "",
+      "updatedAt": "",
+      "version": 0,
+      "metadataProvider": "VRCWB",
+      "sourceProviders": [
+        "VRCWB"
+      ]
+    },
+    {
+      "id": "avtr_784b1aea-d17e-47ba-82df-57c2fb02a6b8",
+      "name": "flip flop fixed avatars",
+      "author": "Unknown",
+      "authorId": "",
+      "description": "",
+      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_457b2b58-8f19-4e4f-9aef-2fda3052d99f/1/file",
+      "thumbnailImageUrl": "",
+      "releaseStatus": "public",
+      "searchable": true,
+      "platforms": [
+        "PC"
+      ],
+      "performancePc": "Medium",
+      "performanceAndroid": "",
+      "performanceIos": "",
+      "tags": "",
+      "createdAt": "",
+      "updatedAt": "",
+      "version": 0,
+      "metadataProvider": "VRCWB",
+      "sourceProviders": [
+        "VRCWB"
+      ]
+    },
+    {
+      "id": "avtr_4d0c3428-5c19-4f96-b8c1-0f82635b4b61",
+      "name": "Avatar commission free 1",
+      "author": "Unknown",
+      "authorId": "",
+      "description": "",
+      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_f05a6dd9-3db7-4541-a0f3-5b628a1ac84e/1/file",
+      "thumbnailImageUrl": "",
+      "releaseStatus": "public",
+      "searchable": true,
+      "platforms": [
+        "PC",
+        "Android"
+      ],
+      "performancePc": "Medium",
+      "performanceAndroid": "VeryPoor",
+      "performanceIos": "",
+      "tags": "",
+      "createdAt": "",
+      "updatedAt": "",
+      "version": 0,
+      "metadataProvider": "VRCWB",
+      "sourceProviders": [
+        "VRCWB"
+      ]
+    },
+    {
+      "id": "avtr_88336872-2f3c-44a3-9f42-8c762a982b66",
+      "name": "WIP Yellow Tribal Girl - Public Avatar by Triock",
+      "author": "Unknown",
+      "authorId": "",
+      "description": "",
+      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_74bc63f7-a657-45cd-b8e0-c06182ac4091/1/file",
+      "thumbnailImageUrl": "",
+      "releaseStatus": "public",
+      "searchable": true,
+      "platforms": [
+        "PC"
+      ],
+      "performancePc": "Poor",
+      "performanceAndroid": "",
+      "performanceIos": "",
+      "tags": "",
+      "createdAt": "",
+      "updatedAt": "",
+      "version": 0,
+      "metadataProvider": "VRCWB",
+      "sourceProviders": [
+        "VRCWB"
+      ]
+    },
+    {
+      "id": "avtr_84103aa2-4353-40e1-a405-a0b6eedc5286",
+      "name": "Avatar Text Photo",
+      "author": "Unknown",
+      "authorId": "",
+      "description": "",
+      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_90376802-90f4-497b-995e-d117d3997da6/28/file",
+      "thumbnailImageUrl": "",
+      "releaseStatus": "public",
+      "searchable": true,
+      "platforms": [
+        "PC"
+      ],
+      "performancePc": "Excellent",
+      "performanceAndroid": "",
+      "performanceIos": "",
+      "tags": "",
+      "createdAt": "",
+      "updatedAt": "",
+      "version": 0,
+      "metadataProvider": "VRCWB",
+      "sourceProviders": [
+        "VRCWB"
+      ]
+    },
+    {
+      "id": "avtr_3846cdb3-0000-4a40-82be-7f9d20f8ac89",
+      "name": "Unturned Themed Avatar",
+      "author": "Unknown",
+      "authorId": "",
+      "description": "",
+      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_d01daea7-6149-4190-ad30-b518c8c433dc/2/file",
+      "thumbnailImageUrl": "",
+      "releaseStatus": "public",
+      "searchable": true,
+      "platforms": [
+        "PC",
+        "Android"
+      ],
+      "performancePc": "VeryPoor",
+      "performanceAndroid": "VeryPoor",
+      "performanceIos": "",
+      "tags": "",
+      "createdAt": "",
+      "updatedAt": "",
+      "version": 0,
+      "metadataProvider": "VRCWB",
+      "sourceProviders": [
+        "VRCWB"
+      ]
+    },
+    {
+      "id": "avtr_2406d657-f50b-4786-adb3-30c51439f275",
+      "name": "Public Avatar 1",
+      "author": "Unknown",
+      "authorId": "",
+      "description": "",
+      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_b484a318-da79-46d3-82ba-d053c5d4ba41/1/file",
+      "thumbnailImageUrl": "",
+      "releaseStatus": "public",
+      "searchable": true,
+      "platforms": [
+        "PC"
+      ],
+      "performancePc": "Medium",
+      "performanceAndroid": "",
+      "performanceIos": "",
+      "tags": "",
+      "createdAt": "",
+      "updatedAt": "",
+      "version": 0,
+      "metadataProvider": "VRCWB",
+      "sourceProviders": [
+        "VRCWB"
+      ]
+    },
+    {
+      "id": "avtr_ffc79ecd-d96c-4edf-a074-cb6aee98ab01",
+      "name": "AvatarTestingRustTV2",
+      "author": "Unknown",
+      "authorId": "",
+      "description": "",
+      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_6c141caf-de14-4165-b977-95fe5b4c4066/2/file",
+      "thumbnailImageUrl": "",
+      "releaseStatus": "public",
+      "searchable": true,
+      "platforms": [
+        "PC"
+      ],
+      "performancePc": "VeryPoor",
+      "performanceAndroid": "",
+      "performanceIos": "",
+      "tags": "",
+      "createdAt": "",
+      "updatedAt": "",
+      "version": 0,
+      "metadataProvider": "VRCWB",
+      "sourceProviders": [
+        "VRCWB"
+      ]
+    },
+    {
+      "id": "avtr_e13fe4fb-6732-4473-af66-8454617d5712",
+      "name": "whitty but its my roblox avatar",
+      "author": "Unknown",
+      "authorId": "",
+      "description": "",
+      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_f6aa40c8-6288-45ab-adc8-2e59a9c45f2e/1/file",
+      "thumbnailImageUrl": "",
+      "releaseStatus": "public",
+      "searchable": true,
+      "platforms": [
+        "PC",
+        "Android"
+      ],
+      "performancePc": "Medium",
+      "performanceAndroid": "VeryPoor",
+      "performanceIos": "",
+      "tags": "",
+      "createdAt": "",
+      "updatedAt": "",
+      "version": 0,
+      "metadataProvider": "VRCWB",
+      "sourceProviders": [
+        "VRCWB"
+      ]
+    },
+    {
+      "id": "avtr_c33b656d-b959-4e3f-a316-f6aa56eb8ea5",
+      "name": "Techno Avatar Main",
+      "author": "Unknown",
+      "authorId": "",
+      "description": "",
+      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_93a17a2d-2e99-4ff3-a4c6-b7d020ba6116/2/file",
+      "thumbnailImageUrl": "",
+      "releaseStatus": "public",
+      "searchable": true,
+      "platforms": [
+        "PC",
+        "Android"
+      ],
+      "performancePc": "Medium",
+      "performanceAndroid": "VeryPoor",
+      "performanceIos": "",
+      "tags": "",
+      "createdAt": "",
+      "updatedAt": "",
+      "version": 0,
+      "metadataProvider": "VRCWB",
+      "sourceProviders": [
+        "VRCWB"
+      ]
+    },
+    {
+      "id": "avtr_4d9ff205-4098-48df-bce1-6585bc84fcc7",
+      "name": "Rose Avatar",
+      "author": "Unknown",
+      "authorId": "",
+      "description": "",
+      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_fedbd16a-990e-49bb-ba62-afcd8d43f459/1/file",
+      "thumbnailImageUrl": "",
+      "releaseStatus": "public",
+      "searchable": true,
+      "platforms": [
+        "PC",
+        "Android"
+      ],
+      "performancePc": "VeryPoor",
+      "performanceAndroid": "VeryPoor",
+      "performanceIos": "",
+      "tags": "",
+      "createdAt": "",
+      "updatedAt": "",
+      "version": 0,
+      "metadataProvider": "VRCWB",
+      "sourceProviders": [
+        "VRCWB"
+      ]
+    },
+    {
+      "id": "avtr_d1cbffed-4d8b-4a21-83ad-32b46537a4d8",
+      "name": "Amber Avatar （Private）",
+      "author": "Unknown",
+      "authorId": "",
+      "description": "",
+      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_dc574fd9-0298-4274-9d65-f896bc7069c9/2/file",
+      "thumbnailImageUrl": "",
+      "releaseStatus": "public",
+      "searchable": true,
+      "platforms": [
+        "PC",
+        "Android"
+      ],
+      "performancePc": "Poor",
+      "performanceAndroid": "VeryPoor",
+      "performanceIos": "",
+      "tags": "",
+      "createdAt": "",
+      "updatedAt": "",
+      "version": 0,
+      "metadataProvider": "VRCWB",
+      "sourceProviders": [
+        "VRCWB"
+      ]
+    },
+    {
+      "id": "avtr_8d8c6cc7-675e-4620-969d-e38160d1f3ca",
+      "name": "Cutie Custom Avatar",
+      "author": "Unknown",
+      "authorId": "",
+      "description": "",
+      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_c358e7c7-b0f9-422e-bd2c-1a6c66b7d1ea/1/file",
+      "thumbnailImageUrl": "",
+      "releaseStatus": "public",
+      "searchable": true,
+      "platforms": [
+        "PC",
+        "Android"
+      ],
+      "performancePc": "VeryPoor",
+      "performanceAndroid": "VeryPoor",
+      "performanceIos": "",
+      "tags": "",
+      "createdAt": "",
+      "updatedAt": "",
+      "version": 0,
+      "metadataProvider": "VRCWB",
+      "sourceProviders": [
+        "VRCWB"
+      ]
+    },
+    {
+      "id": "avtr_41a69c6e-8802-4ba0-88e3-fcd873dc0926",
+      "name": "Newton （Avatar 3․0）",
+      "author": "Unknown",
+      "authorId": "",
+      "description": "",
+      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_7628c373-70d8-43ca-99fa-8d5fb7ee8458/1/file",
+      "thumbnailImageUrl": "",
+      "releaseStatus": "public",
+      "searchable": true,
+      "platforms": [
+        "PC",
+        "Android"
+      ],
+      "performancePc": "Medium",
+      "performanceAndroid": "VeryPoor",
+      "performanceIos": "",
+      "tags": "",
+      "createdAt": "",
+      "updatedAt": "",
+      "version": 0,
+      "metadataProvider": "VRCWB",
+      "sourceProviders": [
+        "VRCWB"
+      ]
+    },
+    {
+      "id": "avtr_f53c0750-d181-4fc8-988f-bf013d4bf8ac",
+      "name": "210408 avatar",
+      "author": "Unknown",
+      "authorId": "",
+      "description": "",
+      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_94044695-dd83-4d16-b83d-287e135db263/2/file",
+      "thumbnailImageUrl": "",
+      "releaseStatus": "public",
+      "searchable": true,
+      "platforms": [
+        "PC"
+      ],
+      "performancePc": "Good",
+      "performanceAndroid": "",
+      "performanceIos": "",
+      "tags": "",
+      "createdAt": "",
+      "updatedAt": "",
+      "version": 0,
+      "metadataProvider": "VRCWB",
+      "sourceProviders": [
+        "VRCWB"
+      ]
+    },
+    {
+      "id": "avtr_78c3c1f4-ea6f-4988-bc2d-f0fb245d4278",
+      "name": "Kenny Personal Avatar",
+      "author": "Unknown",
+      "authorId": "",
+      "description": "",
+      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_b7f4563a-108f-4c93-a05f-e4c183f79ecd/7/file",
+      "thumbnailImageUrl": "",
+      "releaseStatus": "public",
+      "searchable": true,
+      "platforms": [
+        "PC"
+      ],
+      "performancePc": "VeryPoor",
+      "performanceAndroid": "",
+      "performanceIos": "",
+      "tags": "",
+      "createdAt": "",
+      "updatedAt": "",
+      "version": 0,
+      "metadataProvider": "VRCWB",
+      "sourceProviders": [
+        "VRCWB"
+      ]
+    },
+    {
+      "id": "avtr_dfa6462e-b6f9-467f-9a23-18162dcaadb5",
+      "name": "Cousin Kyle's Fkn' Sick Bong Water˸ The Avatar",
+      "author": "Unknown",
+      "authorId": "",
+      "description": "",
+      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_0bd5e739-cbd3-42eb-90e5-4826a744fd00/1/file",
+      "thumbnailImageUrl": "",
+      "releaseStatus": "public",
+      "searchable": true,
+      "platforms": [
+        "PC"
+      ],
+      "performancePc": "Good",
+      "performanceAndroid": "",
+      "performanceIos": "",
+      "tags": "",
+      "createdAt": "",
+      "updatedAt": "",
+      "version": 0,
+      "metadataProvider": "VRCWB",
+      "sourceProviders": [
+        "VRCWB"
+      ]
+    },
+    {
+      "id": "avtr_667641b5-1ff4-4ad1-bb6c-f406e2217605",
+      "name": "IHNMice's Metal Sonic OC （The Avatar）",
+      "author": "Unknown",
+      "authorId": "",
+      "description": "",
+      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_0f482f92-02e0-45c8-93c0-4e4c7afe8cf1/1/file",
+      "thumbnailImageUrl": "",
+      "releaseStatus": "public",
+      "searchable": true,
+      "platforms": [
+        "PC",
+        "Android"
+      ],
+      "performancePc": "Medium",
+      "performanceAndroid": "VeryPoor",
+      "performanceIos": "",
+      "tags": "",
+      "createdAt": "",
+      "updatedAt": "",
+      "version": 0,
+      "metadataProvider": "VRCWB",
+      "sourceProviders": [
+        "VRCWB"
+      ]
+    },
+    {
+      "id": "avtr_9e99a0bc-5cbb-4ef7-bae5-d194e47d3001",
+      "name": "Madoka Hand Holding Avatar",
+      "author": "Unknown",
+      "authorId": "",
+      "description": "",
+      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_265250c7-2c00-430d-9404-19e102412a54/1/file",
+      "thumbnailImageUrl": "",
+      "releaseStatus": "public",
+      "searchable": true,
+      "platforms": [
+        "PC"
+      ],
+      "performancePc": "Poor",
+      "performanceAndroid": "",
+      "performanceIos": "",
+      "tags": "",
+      "createdAt": "",
+      "updatedAt": "",
+      "version": 0,
+      "metadataProvider": "VRCWB",
+      "sourceProviders": [
+        "VRCWB"
+      ]
+    },
+    {
+      "id": "avtr_3c322b94-a2ae-4f8c-b5a2-3d02460c1486",
+      "name": "VRW Optimized Avatar",
+      "author": "Unknown",
+      "authorId": "",
+      "description": "",
+      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_fcca7edd-4299-4d76-a61e-c580ee125958/1/file",
+      "thumbnailImageUrl": "",
+      "releaseStatus": "public",
+      "searchable": true,
+      "platforms": [
+        "PC",
+        "Android"
+      ],
+      "performancePc": "Excellent",
+      "performanceAndroid": "Excellent",
+      "performanceIos": "",
+      "tags": "",
+      "createdAt": "",
+      "updatedAt": "",
+      "version": 0,
+      "metadataProvider": "VRCWB",
+      "sourceProviders": [
+        "VRCWB"
+      ]
+    },
+    {
+      "id": "avtr_dc076766-2216-42cc-bd78-bfafa50af1a4",
+      "name": "Public Avatar by Noodle",
+      "author": "Unknown",
+      "authorId": "",
+      "description": "",
+      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_6c69268c-6a68-414a-9aa9-a59e4be93612/1/file",
+      "thumbnailImageUrl": "",
+      "releaseStatus": "public",
+      "searchable": true,
+      "platforms": [
+        "PC"
+      ],
+      "performancePc": "Medium",
+      "performanceAndroid": "",
+      "performanceIos": "",
+      "tags": "",
+      "createdAt": "",
+      "updatedAt": "",
+      "version": 0,
+      "metadataProvider": "VRCWB",
+      "sourceProviders": [
+        "VRCWB"
+      ]
+    },
+    {
+      "id": "avtr_e3ded77a-671a-4821-90f1-ea109dc8ec1e",
+      "name": "Motocross Avatar 2",
+      "author": "Unknown",
+      "authorId": "",
+      "description": "",
+      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_0f15ca91-85bd-4569-8fe2-6de99e497615/2/file",
+      "thumbnailImageUrl": "",
+      "releaseStatus": "public",
+      "searchable": true,
+      "platforms": [
+        "PC"
+      ],
+      "performancePc": "VeryPoor",
+      "performanceAndroid": "",
+      "performanceIos": "",
+      "tags": "",
+      "createdAt": "",
+      "updatedAt": "",
+      "version": 0,
+      "metadataProvider": "VRCWB",
+      "sourceProviders": [
+        "VRCWB"
+      ]
+    },
+    {
+      "id": "avtr_ae49c81c-cd85-457d-9d8a-95e2ed276857",
+      "name": "better default avatar",
+      "author": "Unknown",
+      "authorId": "",
+      "description": "",
+      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_11c09682-d85d-4638-bc26-c449a87d9048/1/file",
+      "thumbnailImageUrl": "",
+      "releaseStatus": "public",
+      "searchable": true,
+      "platforms": [
+        "PC"
+      ],
+      "performancePc": "Poor",
+      "performanceAndroid": "",
+      "performanceIos": "",
+      "tags": "",
+      "createdAt": "",
+      "updatedAt": "",
+      "version": 0,
+      "metadataProvider": "VRCWB",
+      "sourceProviders": [
+        "VRCWB"
+      ]
+    },
+    {
+      "id": "avtr_81e6c223-d111-4b04-873a-39122496d2dd",
+      "name": "［MakeAvatar］ tiny tiny×マイメロディコラボ",
+      "author": "Unknown",
+      "authorId": "",
+      "description": "",
+      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_5f10ee69-34c5-4f14-8663-ba4e6adce40d/1/file",
+      "thumbnailImageUrl": "",
+      "releaseStatus": "public",
+      "searchable": true,
+      "platforms": [
+        "PC",
+        "Android"
+      ],
+      "performancePc": "Excellent",
+      "performanceAndroid": "Poor",
+      "performanceIos": "",
+      "tags": "",
+      "createdAt": "",
+      "updatedAt": "",
+      "version": 0,
+      "metadataProvider": "VRCWB",
+      "sourceProviders": [
+        "VRCWB"
+      ]
+    },
+    {
+      "id": "avtr_849eaa43-ed1c-4e40-8ed4-4327b50a3219",
+      "name": "Fren｜Base Avatar｜Preview",
+      "author": "Unknown",
+      "authorId": "",
+      "description": "",
+      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_73bff98d-a7bf-4324-a3c9-fb99ff4d6665/4/file",
+      "thumbnailImageUrl": "",
+      "releaseStatus": "public",
+      "searchable": true,
+      "platforms": [
+        "PC",
+        "Android"
+      ],
+      "performancePc": "Medium",
+      "performanceAndroid": "Medium",
+      "performanceIos": "",
+      "tags": "",
+      "createdAt": "",
+      "updatedAt": "",
+      "version": 0,
+      "metadataProvider": "VRCWB",
+      "sourceProviders": [
+        "VRCWB"
+      ]
+    },
+    {
+      "id": "avtr_734bafcd-c25c-4f0a-a161-50ff4d473dca",
+      "name": "210516 avatar",
+      "author": "Unknown",
+      "authorId": "",
+      "description": "",
+      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_630fd833-38dd-407e-85ac-4852403ba6ae/2/file",
+      "thumbnailImageUrl": "",
+      "releaseStatus": "public",
+      "searchable": true,
+      "platforms": [
+        "PC"
+      ],
+      "performancePc": "Poor",
+      "performanceAndroid": "",
+      "performanceIos": "",
+      "tags": "",
+      "createdAt": "",
+      "updatedAt": "",
+      "version": 0,
+      "metadataProvider": "VRCWB",
+      "sourceProviders": [
+        "VRCWB"
+      ]
+    },
+    {
+      "id": "avtr_3fba743d-ed1c-447e-b2ef-e7ffc8ab6f17",
+      "name": "BBL Avatar promote",
+      "author": "Unknown",
+      "authorId": "",
+      "description": "",
+      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_b05e3686-035c-4809-9986-9ae5e5c72068/1/file",
+      "thumbnailImageUrl": "",
+      "releaseStatus": "public",
+      "searchable": true,
+      "platforms": [
+        "PC"
+      ],
+      "performancePc": "VeryPoor",
+      "performanceAndroid": "",
+      "performanceIos": "",
+      "tags": "",
+      "createdAt": "",
+      "updatedAt": "",
+      "version": 0,
+      "metadataProvider": "VRCWB",
+      "sourceProviders": [
+        "VRCWB"
+      ]
+    },
+    {
+      "id": "avtr_6a18a2ca-8ba8-49f5-b90d-2fbece0442e8",
+      "name": "Hat Kid （Avatar 3․0）",
+      "author": "Unknown",
+      "authorId": "",
+      "description": "",
+      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_954d4166-34e7-4c4d-a002-85906ad34ab4/1/file",
+      "thumbnailImageUrl": "",
+      "releaseStatus": "public",
+      "searchable": true,
+      "platforms": [
+        "PC",
+        "Android"
+      ],
+      "performancePc": "VeryPoor",
+      "performanceAndroid": "VeryPoor",
+      "performanceIos": "",
+      "tags": "",
+      "createdAt": "",
+      "updatedAt": "",
+      "version": 0,
+      "metadataProvider": "VRCWB",
+      "sourceProviders": [
+        "VRCWB"
+      ]
+    },
+    {
+      "id": "avtr_33abfe24-ebc2-4792-afdb-1c9c3b405706",
+      "name": "Aster_AvatarType_Ver․1․1",
+      "author": "Unknown",
+      "authorId": "",
+      "description": "",
+      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_a28f6fd0-58cc-4394-ba70-de3be1b46711/5/file",
+      "thumbnailImageUrl": "",
+      "releaseStatus": "public",
+      "searchable": true,
+      "platforms": [
+        "PC",
+        "Android"
+      ],
+      "performancePc": "Excellent",
+      "performanceAndroid": "Excellent",
+      "performanceIos": "",
+      "tags": "",
+      "createdAt": "",
+      "updatedAt": "",
+      "version": 0,
+      "metadataProvider": "VRCWB",
+      "sourceProviders": [
+        "VRCWB"
+      ]
+    },
+    {
+      "id": "avtr_ed0928ad-bb8d-415a-85d2-15b7142255da",
+      "name": "Kobold-kun_AvatarMuseum_4",
+      "author": "Unknown",
+      "authorId": "",
+      "description": "",
+      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_eeccc58a-efac-4cfb-b1a6-92b7d89063c9/1/file",
+      "thumbnailImageUrl": "",
+      "releaseStatus": "public",
+      "searchable": true,
+      "platforms": [
+        "PC"
+      ],
+      "performancePc": "Good",
+      "performanceAndroid": "",
+      "performanceIos": "",
+      "tags": "",
+      "createdAt": "",
+      "updatedAt": "",
+      "version": 0,
+      "metadataProvider": "VRCWB",
+      "sourceProviders": [
+        "VRCWB"
+      ]
+    },
+    {
+      "id": "avtr_0a3f5ad0-3e11-44fc-9b71-1fd6d8f8f8ae",
+      "name": "Movieavatar penny",
+      "author": "Unknown",
+      "authorId": "",
+      "description": "",
+      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_79a8d47c-c569-4a7d-b093-e3c118057e36/1/file",
+      "thumbnailImageUrl": "",
+      "releaseStatus": "public",
+      "searchable": true,
+      "platforms": [
+        "PC"
+      ],
+      "performancePc": "Excellent",
+      "performanceAndroid": "",
+      "performanceIos": "",
+      "tags": "",
+      "createdAt": "",
+      "updatedAt": "",
+      "version": 0,
+      "metadataProvider": "VRCWB",
+      "sourceProviders": [
+        "VRCWB"
+      ]
+    },
+    {
+      "id": "avtr_72dd5e19-687b-49d0-8902-d1ebc5403973",
+      "name": "Coolavatarwitheffects",
+      "author": "Unknown",
+      "authorId": "",
+      "description": "",
+      "imageUrl": "",
+      "thumbnailImageUrl": "",
+      "releaseStatus": "public",
+      "searchable": true,
+      "platforms": [
+        "PC"
+      ],
+      "performancePc": "",
+      "performanceAndroid": "",
+      "performanceIos": "",
+      "tags": "",
+      "createdAt": "",
+      "updatedAt": "",
+      "version": 0,
+      "metadataProvider": "AviSeek",
+      "sourceProviders": [
+        "VRCWB"
+      ],
+      "safePlatformCheckCompleted": true,
+      "platformMetadataCheckedAt": "2026-10-20T19:47:31.798Z",
+      "platformMetadataState": "VERIFIED"
+    },
+    {
+      "id": "avtr_d1ee0401-5cb8-424f-8b84-3aa0f5198ead",
+      "name": "Of de avatar？",
+      "author": "Unknown",
+      "authorId": "",
+      "description": "",
+      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_44d23428-3d6a-40d5-918e-85a61ffaac7d/3/file",
+      "thumbnailImageUrl": "",
+      "releaseStatus": "public",
+      "searchable": true,
+      "platforms": [
+        "PC"
+      ],
+      "performancePc": "VeryPoor",
+      "performanceAndroid": "",
+      "performanceIos": "",
+      "tags": "",
+      "createdAt": "",
+      "updatedAt": "",
+      "version": 0,
+      "metadataProvider": "VRCWB",
+      "sourceProviders": [
+        "VRCWB"
+      ]
+    },
+    {
+      "id": "avtr_4ca155f4-21bb-4bb8-9595-0de31482b395",
+      "name": "first_avatar_animation",
+      "author": "Unknown",
+      "authorId": "",
+      "description": "",
+      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_b2b65e11-e94a-4c86-8322-ea275cfaca44/1/file",
+      "thumbnailImageUrl": "",
+      "releaseStatus": "public",
+      "searchable": true,
+      "platforms": [
+        "PC"
+      ],
+      "performancePc": "Good",
+      "performanceAndroid": "",
+      "performanceIos": "",
+      "tags": "",
+      "createdAt": "",
+      "updatedAt": "",
+      "version": 0,
+      "metadataProvider": "VRCWB",
+      "sourceProviders": [
+        "VRCWB"
+      ]
+    },
+    {
+      "id": "avtr_985eb7e5-7795-4d69-b9b7-64f653b6b099",
+      "name": "High Performance Avatar",
+      "author": "Unknown",
+      "authorId": "",
+      "description": "",
+      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_4df91298-c7d3-44d6-9b29-f4b993aaf7b7/2/file",
+      "thumbnailImageUrl": "",
+      "releaseStatus": "public",
+      "searchable": true,
+      "platforms": [
+        "PC",
+        "Android"
+      ],
+      "performancePc": "Excellent",
+      "performanceAndroid": "Excellent",
+      "performanceIos": "",
+      "tags": "",
+      "createdAt": "",
+      "updatedAt": "",
+      "version": 0,
+      "metadataProvider": "VRCWB",
+      "sourceProviders": [
+        "VRCWB"
+      ]
+    },
+    {
+      "id": "avtr_ad34d792-d0b8-404b-87ff-cf07f39d33f8",
+      "name": "Merry Avatar",
+      "author": "Unknown",
+      "authorId": "",
+      "description": "",
+      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_28c15e5f-747a-4175-97ad-76e8e014afa5/4/file",
+      "thumbnailImageUrl": "",
+      "releaseStatus": "public",
+      "searchable": true,
+      "platforms": [
+        "PC",
+        "Android"
+      ],
+      "performancePc": "Good",
+      "performanceAndroid": "Excellent",
+      "performanceIos": "",
+      "tags": "",
+      "createdAt": "",
+      "updatedAt": "",
+      "version": 0,
+      "metadataProvider": "VRCWB",
+      "sourceProviders": [
+        "VRCWB"
+      ]
+    },
+    {
+      "id": "avtr_799b84de-0c51-4f61-af22-a7685460e289",
+      "name": "Avatar 1",
+      "author": "Unknown",
+      "authorId": "",
+      "description": "",
+      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_2b660598-299c-4f0f-939f-0cf977a5ac6c/2/file",
+      "thumbnailImageUrl": "",
+      "releaseStatus": "public",
+      "searchable": true,
+      "platforms": [
+        "PC"
+      ],
+      "performancePc": "VeryPoor",
+      "performanceAndroid": "",
+      "performanceIos": "",
+      "tags": "",
+      "createdAt": "",
+      "updatedAt": "",
+      "version": 0,
+      "metadataProvider": "VRCWB",
+      "sourceProviders": [
+        "VRCWB"
+      ]
+    },
+    {
+      "id": "avtr_e1c9d03c-7124-4ed0-bcbc-94eccd8dc973",
+      "name": "KPG avatar by․odds",
+      "author": "Unknown",
+      "authorId": "",
+      "description": "",
+      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_f6213036-ae21-44cd-9692-9cc2f66f8273/1/file",
+      "thumbnailImageUrl": "",
+      "releaseStatus": "public",
+      "searchable": true,
+      "platforms": [
+        "PC"
+      ],
+      "performancePc": "VeryPoor",
+      "performanceAndroid": "",
+      "performanceIos": "",
+      "tags": "",
+      "createdAt": "",
+      "updatedAt": "",
+      "version": 0,
+      "metadataProvider": "VRCWB",
+      "sourceProviders": [
+        "VRCWB"
+      ]
+    },
+    {
+      "id": "avtr_c5cb9feb-ea60-448b-9bd9-d26441e1cf69",
+      "name": "Flat Avatar Chair",
+      "author": "Unknown",
+      "authorId": "",
+      "description": "",
+      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_03cbb7d2-bc90-4838-b3f2-89a9fa4c9f51/1/file",
+      "thumbnailImageUrl": "",
+      "releaseStatus": "public",
+      "searchable": true,
+      "platforms": [
+        "PC"
+      ],
+      "performancePc": "Excellent",
+      "performanceAndroid": "",
+      "performanceIos": "",
+      "tags": "",
+      "createdAt": "",
+      "updatedAt": "",
+      "version": 0,
+      "metadataProvider": "VRCWB",
+      "sourceProviders": [
+        "VRCWB"
+      ]
+    },
+    {
+      "id": "avtr_a65bfce6-0a1d-4973-a8ae-e0bf3fcebcc9",
+      "name": "Avatar_Lemon_vket4",
+      "author": "Unknown",
+      "authorId": "",
+      "description": "",
+      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_19cc0ebe-67f8-47fb-9435-6814dc085bb8/1/file",
+      "thumbnailImageUrl": "",
+      "releaseStatus": "public",
+      "searchable": true,
+      "platforms": [
+        "PC"
+      ],
+      "performancePc": "Medium",
+      "performanceAndroid": "",
+      "performanceIos": "",
+      "tags": "",
+      "createdAt": "",
+      "updatedAt": "",
+      "version": 0,
+      "metadataProvider": "VRCWB",
+      "sourceProviders": [
+        "VRCWB"
+      ]
+    },
+    {
+      "id": "avtr_48a95762-397f-4a1e-9204-14e38adbc8c2",
+      "name": "Pop it avatar",
+      "author": "Unknown",
+      "authorId": "",
+      "description": "",
+      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_c2a9015c-864d-4969-a626-d63b0809cbda/2/file",
+      "thumbnailImageUrl": "",
+      "releaseStatus": "public",
+      "searchable": true,
+      "platforms": [
+        "PC",
+        "Android"
+      ],
+      "performancePc": "VeryPoor",
+      "performanceAndroid": "VeryPoor",
+      "performanceIos": "",
+      "tags": "",
+      "createdAt": "",
+      "updatedAt": "",
+      "version": 0,
+      "metadataProvider": "VRCWB",
+      "sourceProviders": [
+        "VRCWB"
+      ]
+    },
+    {
+      "id": "avtr_861446d4-e9ff-4982-8652-fcca20b1894e",
+      "name": "Spookality Avatar by Yash",
+      "author": "Unknown",
+      "authorId": "",
+      "description": "",
+      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_81f43fbe-5bdd-41b7-827f-a3cf9531394a/1/file",
+      "thumbnailImageUrl": "",
+      "releaseStatus": "public",
+      "searchable": true,
+      "platforms": [
+        "PC"
+      ],
+      "performancePc": "Poor",
+      "performanceAndroid": "",
+      "performanceIos": "",
+      "tags": "",
+      "createdAt": "",
+      "updatedAt": "",
+      "version": 0,
+      "metadataProvider": "VRCWB",
+      "sourceProviders": [
+        "VRCWB"
+      ]
+    },
+    {
+      "id": "avtr_5dd4ae6a-8b6e-459d-a0bf-a36e7a0aedda",
+      "name": "A Peace Of S∗∗∗∗ Gross Avatar",
+      "author": "Unknown",
+      "authorId": "",
+      "description": "",
+      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_ffe8e6d3-a42c-49bb-8cec-e3ba8d81a2b0/1/file",
+      "thumbnailImageUrl": "",
+      "releaseStatus": "public",
+      "searchable": true,
+      "platforms": [
+        "PC",
+        "Android"
+      ],
+      "performancePc": "VeryPoor",
+      "performanceAndroid": "VeryPoor",
+      "performanceIos": "",
+      "tags": "",
+      "createdAt": "",
+      "updatedAt": "",
+      "version": 0,
+      "metadataProvider": "VRCWB",
+      "sourceProviders": [
+        "VRCWB"
+      ]
+    },
+    {
+      "id": "avtr_be276c37-6e41-4f22-95a2-baa7f1d7cd45",
+      "name": "IDA official avatar-ChineseStyle",
+      "author": "Unknown",
+      "authorId": "",
+      "description": "",
+      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_5c7b2c16-e083-4436-80ef-2e32977445e1/3/file",
+      "thumbnailImageUrl": "",
+      "releaseStatus": "public",
+      "searchable": true,
+      "platforms": [
+        "PC"
+      ],
+      "performancePc": "Poor",
+      "performanceAndroid": "",
+      "performanceIos": "",
+      "tags": "",
+      "createdAt": "",
+      "updatedAt": "",
+      "version": 0,
+      "metadataProvider": "VRCWB",
+      "sourceProviders": [
+        "VRCWB"
+      ]
+    },
+    {
+      "id": "avtr_d3e47a93-af7d-42fc-95f9-27983415cc1d",
+      "name": "Mia Reiner Avatar",
+      "author": "Unknown",
+      "authorId": "",
+      "description": "",
+      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_93ec7026-d91b-4f66-813f-0ec2ba61e2ff/1/file",
+      "thumbnailImageUrl": "",
+      "releaseStatus": "public",
+      "searchable": true,
+      "platforms": [
+        "PC",
+        "Android"
+      ],
+      "performancePc": "VeryPoor",
+      "performanceAndroid": "VeryPoor",
+      "performanceIos": "",
+      "tags": "",
+      "createdAt": "",
+      "updatedAt": "",
+      "version": 0,
+      "metadataProvider": "VRCWB",
+      "sourceProviders": [
+        "VRCWB"
+      ]
+    },
+    {
+      "id": "avtr_df33920e-6035-4a00-9005-23a0e96e69cb",
+      "name": "Scavatar",
+      "author": "Unknown",
+      "authorId": "",
+      "description": "",
+      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_38c53512-12ec-4058-8e69-7074bb9c1592/1/file",
+      "thumbnailImageUrl": "",
+      "releaseStatus": "public",
+      "searchable": true,
+      "platforms": [
+        "PC",
+        "Android"
+      ],
+      "performancePc": "Good",
+      "performanceAndroid": "VeryPoor",
+      "performanceIos": "",
+      "tags": "",
+      "createdAt": "",
+      "updatedAt": "",
+      "version": 0,
+      "metadataProvider": "VRCWB",
+      "sourceProviders": [
+        "VRCWB"
+      ]
+    },
+    {
+      "id": "avtr_b6c8ec31-79cc-4f2e-9771-a88a8fa341f9",
+      "name": "［MakeAvatar］【第2弾】PAGEBOYLIM×バッドばつ丸",
+      "author": "Unknown",
+      "authorId": "",
+      "description": "",
+      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_e6cc882c-ee3a-4b4c-b5dd-1af9dddd0996/1/file",
+      "thumbnailImageUrl": "",
+      "releaseStatus": "public",
+      "searchable": true,
+      "platforms": [
+        "PC",
+        "Android"
+      ],
+      "performancePc": "Excellent",
+      "performanceAndroid": "Poor",
+      "performanceIos": "",
+      "tags": "",
+      "createdAt": "",
+      "updatedAt": "",
+      "version": 0,
+      "metadataProvider": "VRCWB",
+      "sourceProviders": [
+        "VRCWB"
+      ]
+    },
+    {
+      "id": "avtr_7eeeeb9c-53eb-4e72-b630-47576fd64138",
+      "name": "Snowy （Tiny）［3․0］ （SylviaCrisp's Wickerbeast Avatar）",
+      "author": "Unknown",
+      "authorId": "",
+      "description": "",
+      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_d246d552-78c4-489c-a244-79743aa67a22/1/file",
+      "thumbnailImageUrl": "",
+      "releaseStatus": "public",
+      "searchable": true,
+      "platforms": [
+        "PC",
+        "Android"
+      ],
+      "performancePc": "VeryPoor",
+      "performanceAndroid": "VeryPoor",
+      "performanceIos": "",
+      "tags": "",
+      "createdAt": "",
+      "updatedAt": "",
+      "version": 0,
+      "metadataProvider": "VRCWB",
+      "sourceProviders": [
+        "VRCWB"
+      ]
+    },
+    {
+      "id": "avtr_682aa16d-55c9-4b57-944f-ae0c5af844c9",
+      "name": "This is Phillips Avatarǃ",
+      "author": "Unknown",
+      "authorId": "",
+      "description": "",
+      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_aca9c5ea-6c45-4b13-a442-bfebeee82c1c/1/file",
+      "thumbnailImageUrl": "",
+      "releaseStatus": "public",
+      "searchable": true,
+      "platforms": [
+        "PC",
+        "Android"
+      ],
+      "performancePc": "Excellent",
+      "performanceAndroid": "Poor",
+      "performanceIos": "",
+      "tags": "",
+      "createdAt": "",
+      "updatedAt": "",
+      "version": 0,
+      "metadataProvider": "VRCWB",
+      "sourceProviders": [
+        "VRCWB"
+      ]
+    },
+    {
+      "id": "avtr_86da54f1-78fd-4693-8041-21bd0eb4f3c2",
+      "name": "Chika Avatar",
+      "author": "Unknown",
+      "authorId": "",
+      "description": "",
+      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_7c336e19-3627-42ab-9b15-9474ffc24243/1/file",
+      "thumbnailImageUrl": "",
+      "releaseStatus": "public",
+      "searchable": true,
+      "platforms": [
+        "PC"
+      ],
+      "performancePc": "Good",
+      "performanceAndroid": "",
+      "performanceIos": "",
+      "tags": "",
+      "createdAt": "",
+      "updatedAt": "",
+      "version": 0,
+      "metadataProvider": "VRCWB",
+      "sourceProviders": [
+        "VRCWB"
+      ]
+    },
+    {
+      "id": "avtr_e09751e4-a2b8-4779-a5b5-433f64c59f14",
+      "name": "Kattobi's Avatar",
+      "author": "Unknown",
+      "authorId": "",
+      "description": "",
+      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_9d0b4dd1-dc5e-4432-b4cb-910d37ccc48d/2/file",
+      "thumbnailImageUrl": "",
+      "releaseStatus": "public",
+      "searchable": true,
+      "platforms": [
+        "PC",
+        "Android"
+      ],
+      "performancePc": "Medium",
+      "performanceAndroid": "VeryPoor",
+      "performanceIos": "",
+      "tags": "",
+      "createdAt": "",
+      "updatedAt": "",
+      "version": 0,
+      "metadataProvider": "VRCWB",
+      "sourceProviders": [
+        "VRCWB"
+      ]
+    },
+    {
+      "id": "avtr_75f4d907-7180-4b1a-95b4-415ced84ab74",
+      "name": "Khaleesi's first avatar",
+      "author": "Unknown",
+      "authorId": "",
+      "description": "",
+      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_fbdece27-795c-475e-8535-1bd914d6f028/1/file",
+      "thumbnailImageUrl": "",
+      "releaseStatus": "public",
+      "searchable": true,
+      "platforms": [
+        "PC"
+      ],
+      "performancePc": "Medium",
+      "performanceAndroid": "",
+      "performanceIos": "",
+      "tags": "",
+      "createdAt": "",
+      "updatedAt": "",
+      "version": 0,
+      "metadataProvider": "VRCWB",
+      "sourceProviders": [
+        "VRCWB"
+      ]
+    },
+    {
+      "id": "avtr_8c7c5651-ddcf-458a-8a3b-1306ce7c4d61",
+      "name": "Default Error Avatar （OLD）",
+      "author": "Unknown",
+      "authorId": "",
+      "description": "",
+      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_de6e629f-41dc-48d6-b80c-278b9292702f/1/file",
+      "thumbnailImageUrl": "",
+      "releaseStatus": "public",
+      "searchable": true,
+      "platforms": [
+        "PC"
+      ],
+      "performancePc": "",
+      "performanceAndroid": "",
+      "performanceIos": "",
+      "tags": "",
+      "createdAt": "",
+      "updatedAt": "",
+      "version": 0,
+      "metadataProvider": "NekoSuneVR Exact Lookup",
+      "sourceProviders": [
+        "VRCWB"
+      ],
+      "safePlatformCheckCompleted": true,
+      "platformMetadataCheckedAt": "2026-10-20T19:48:27.682Z",
+      "platformMetadataState": "UNRESOLVED",
+      "metadataEvidence": "public exact-ID Platform field",
+      "metadataCheckedAt": "2026-10-20T19:48:27.682Z"
+    },
+    {
+      "id": "avtr_712007f7-e5bd-4bd1-bc64-71d0e91295b5",
+      "name": "optimized avatar",
+      "author": "Unknown",
+      "authorId": "",
+      "description": "",
+      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_08e77644-2de1-4fda-a582-7f0756cd088f/1/file",
+      "thumbnailImageUrl": "",
+      "releaseStatus": "public",
+      "searchable": true,
+      "platforms": [
+        "PC"
+      ],
+      "performancePc": "Excellent",
+      "performanceAndroid": "",
+      "performanceIos": "",
+      "tags": "",
+      "createdAt": "",
+      "updatedAt": "",
+      "version": 0,
+      "metadataProvider": "VRCWB",
+      "sourceProviders": [
+        "VRCWB"
+      ]
+    },
+    {
+      "id": "avtr_347d27d6-7cd9-4f57-a250-366ccde1b25a",
+      "name": "Tomo MC Avatar",
+      "author": "Unknown",
+      "authorId": "",
+      "description": "",
+      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_0d3d8ac6-e152-4faf-9752-9b51c89a4162/1/file",
+      "thumbnailImageUrl": "",
+      "releaseStatus": "public",
+      "searchable": true,
+      "platforms": [
+        "PC"
+      ],
+      "performancePc": "Excellent",
+      "performanceAndroid": "",
+      "performanceIos": "",
+      "tags": "",
+      "createdAt": "",
+      "updatedAt": "",
+      "version": 0,
+      "metadataProvider": "VRCWB",
+      "sourceProviders": [
+        "VRCWB"
+      ]
+    },
+    {
+      "id": "avtr_68a9e66e-1042-4a87-953a-cf4607004a76",
+      "name": "Spectator Avatar",
+      "author": "Unknown",
+      "authorId": "",
+      "description": "",
+      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_edde99f8-42da-4544-9726-727fec9a1edb/1/file",
+      "thumbnailImageUrl": "",
+      "releaseStatus": "public",
+      "searchable": true,
+      "platforms": [
+        "PC"
+      ],
+      "performancePc": "Excellent",
+      "performanceAndroid": "",
+      "performanceIos": "",
+      "tags": "",
+      "createdAt": "",
+      "updatedAt": "",
+      "version": 0,
+      "metadataProvider": "VRCWB",
+      "sourceProviders": [
+        "VRCWB"
+      ]
+    },
+    {
+      "id": "avtr_6f89a87f-2526-4cfb-bb4b-80c15d25d4bc",
+      "name": "Me NVS Ver Avatar 3․0",
+      "author": "Unknown",
+      "authorId": "",
+      "description": "",
+      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_8d308e21-95de-45e5-bb28-228edf19d040/1/file",
+      "thumbnailImageUrl": "",
+      "releaseStatus": "public",
+      "searchable": true,
+      "platforms": [
+        "PC"
+      ],
+      "performancePc": "Medium",
+      "performanceAndroid": "",
+      "performanceIos": "",
+      "tags": "",
+      "createdAt": "",
+      "updatedAt": "",
+      "version": 0,
+      "metadataProvider": "VRCWB",
+      "sourceProviders": [
+        "VRCWB"
+      ]
+    },
+    {
+      "id": "avtr_376db19b-2bac-4e6f-8dd9-31d6e35d6c39",
+      "name": "First Avatar Test",
+      "author": "Unknown",
+      "authorId": "",
+      "description": "",
+      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_3f388a29-9a6d-482b-b3b0-0e031f7bb119/1/file",
+      "thumbnailImageUrl": "",
+      "releaseStatus": "public",
+      "searchable": true,
+      "platforms": [
+        "PC"
+      ],
+      "performancePc": "Excellent",
+      "performanceAndroid": "",
+      "performanceIos": "",
+      "tags": "",
+      "createdAt": "",
+      "updatedAt": "",
+      "version": 0,
+      "metadataProvider": "VRCWB",
+      "sourceProviders": [
+        "VRCWB"
+      ]
+    },
+    {
+      "id": "avtr_55befe5e-1dd9-4038-8877-7e00d416f4e9",
+      "name": "Public Avatar 2",
+      "author": "Unknown",
+      "authorId": "",
+      "description": "",
+      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_3e4d40ff-94ef-41e5-b019-9b0dbe2cd2b8/1/file",
+      "thumbnailImageUrl": "",
+      "releaseStatus": "public",
+      "searchable": true,
+      "platforms": [
+        "PC"
+      ],
+      "performancePc": "Medium",
+      "performanceAndroid": "",
+      "performanceIos": "",
+      "tags": "",
+      "createdAt": "",
+      "updatedAt": "",
+      "version": 0,
+      "metadataProvider": "VRCWB",
+      "sourceProviders": [
+        "VRCWB"
+      ]
+    },
+    {
+      "id": "avtr_565d651e-b07c-4739-afb0-d21c60821b6d",
+      "name": "FENKOS x SUBARU VRC Avatar",
+      "author": "Unknown",
+      "authorId": "",
+      "description": "",
+      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_c08baf5d-1c1a-4773-a4b3-a312bfff791c/2/file",
+      "thumbnailImageUrl": "",
+      "releaseStatus": "public",
+      "searchable": true,
+      "platforms": [
+        "PC"
+      ],
+      "performancePc": "VeryPoor",
+      "performanceAndroid": "",
+      "performanceIos": "",
+      "tags": "",
+      "createdAt": "",
+      "updatedAt": "",
+      "version": 0,
+      "metadataProvider": "VRCWB",
+      "sourceProviders": [
+        "VRCWB"
+      ]
+    },
+    {
+      "id": "avtr_1b6d7ecf-bce0-42b4-9250-15e1655348d7",
+      "name": "avatar",
+      "author": "Unknown",
+      "authorId": "",
+      "description": "",
+      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_82adea92-81ca-4cbe-a111-e8059637ccf3/1/file",
+      "thumbnailImageUrl": "",
+      "releaseStatus": "public",
+      "searchable": true,
+      "platforms": [
+        "PC"
+      ],
+      "performancePc": "VeryPoor",
+      "performanceAndroid": "",
+      "performanceIos": "",
+      "tags": "",
+      "createdAt": "",
+      "updatedAt": "",
+      "version": 0,
+      "metadataProvider": "VRCWB",
+      "sourceProviders": [
+        "VRCWB"
+      ]
+    },
+    {
+      "id": "avtr_4f5a0598-052f-4cdb-9a4a-bcb48c3a610f",
+      "name": "Mii Avatar",
+      "author": "Unknown",
+      "authorId": "",
+      "description": "",
+      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_f4e43b92-f872-4b71-a9b3-4d2ff1027e3f/1/file",
+      "thumbnailImageUrl": "",
+      "releaseStatus": "public",
+      "searchable": true,
+      "platforms": [
+        "PC"
+      ],
+      "performancePc": "Good",
+      "performanceAndroid": "",
+      "performanceIos": "",
+      "tags": "",
+      "createdAt": "",
+      "updatedAt": "",
+      "version": 0,
+      "metadataProvider": "VRCWB",
+      "sourceProviders": [
+        "VRCWB"
+      ]
+    },
+    {
+      "id": "avtr_c5c82ce5-9614-49cd-80b4-78361326a74f",
+      "name": "Loading Avatar...",
+      "author": "Unknown",
+      "authorId": "",
+      "description": "",
+      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_ecbc3422-8948-4c7a-b9ad-913655fd8093/1/file",
+      "thumbnailImageUrl": "",
+      "releaseStatus": "public",
+      "searchable": true,
+      "platforms": [
+        "PC"
+      ],
+      "performancePc": "Good",
+      "performanceAndroid": "",
+      "performanceIos": "",
+      "tags": "",
+      "createdAt": "",
+      "updatedAt": "",
+      "version": 0,
+      "metadataProvider": "VRCWB",
+      "sourceProviders": [
+        "VRCWB"
+      ]
+    },
+    {
+      "id": "avtr_4b496e17-f0df-418f-86e5-73a6b89df9f1",
+      "name": "HuskaChi - Avatar",
+      "author": "Unknown",
+      "authorId": "",
+      "description": "",
+      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_e677ce16-87dd-4d77-bbb3-dbc809e1e1a6/1/file",
+      "thumbnailImageUrl": "",
+      "releaseStatus": "public",
+      "searchable": true,
+      "platforms": [
+        "PC"
+      ],
+      "performancePc": "VeryPoor",
+      "performanceAndroid": "",
+      "performanceIos": "",
+      "tags": "",
+      "createdAt": "",
+      "updatedAt": "",
+      "version": 0,
+      "metadataProvider": "VRCWB",
+      "sourceProviders": [
+        "VRCWB"
+      ]
+    },
+    {
+      "id": "avtr_d3ba924d-2a54-41d2-abca-8526c861740f",
+      "name": "ghost girl - test avatar - PC｜oculus",
+      "author": "Unknown",
+      "authorId": "",
+      "description": "",
+      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_b8305760-f1e4-4022-b127-3c44a72e3a22/1/file",
+      "thumbnailImageUrl": "",
+      "releaseStatus": "public",
+      "searchable": true,
+      "platforms": [
+        "PC",
+        "Android"
+      ],
+      "performancePc": "VeryPoor",
+      "performanceAndroid": "VeryPoor",
+      "performanceIos": "",
+      "tags": "",
+      "createdAt": "",
+      "updatedAt": "",
+      "version": 0,
+      "metadataProvider": "VRCWB",
+      "sourceProviders": [
+        "VRCWB"
+      ]
+    },
+    {
+      "id": "avtr_cb30cf5c-6db7-4c87-9d4e-ead737b64628",
+      "name": "Bunnings Avatar",
+      "author": "Unknown",
+      "authorId": "",
+      "description": "",
+      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_d6102362-e8ef-4dc0-a128-48843d94f99d/1/file",
+      "thumbnailImageUrl": "",
+      "releaseStatus": "public",
+      "searchable": true,
+      "platforms": [
+        "PC"
+      ],
+      "performancePc": "Good",
+      "performanceAndroid": "",
+      "performanceIos": "",
+      "tags": "",
+      "createdAt": "",
+      "updatedAt": "",
+      "version": 0,
+      "metadataProvider": "VRCWB",
+      "sourceProviders": [
+        "VRCWB"
+      ]
+    },
+    {
+      "id": "avtr_ee539dd8-1c74-4044-a7af-5fee88deb278",
+      "name": "Cat's Custom Avatar",
+      "author": "Unknown",
+      "authorId": "",
+      "description": "",
+      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_bbd76ca1-3d56-402d-a096-04be9235e5b1/1/file",
+      "thumbnailImageUrl": "",
+      "releaseStatus": "public",
+      "searchable": true,
+      "platforms": [
+        "PC"
+      ],
+      "performancePc": "VeryPoor",
+      "performanceAndroid": "",
+      "performanceIos": "",
+      "tags": "",
+      "createdAt": "",
+      "updatedAt": "",
+      "version": 0,
+      "metadataProvider": "VRCWB",
+      "sourceProviders": [
+        "VRCWB"
+      ]
+    },
+    {
+      "id": "avtr_bc979fd0-41e3-433f-aa52-81d79f1e059c",
+      "name": "ASDFmovie Avatar",
+      "author": "Unknown",
+      "authorId": "",
+      "description": "",
+      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_b5f4604e-3f55-4818-97c3-c76aa50bad64/2/file",
+      "thumbnailImageUrl": "",
+      "releaseStatus": "public",
+      "searchable": true,
+      "platforms": [
+        "PC"
+      ],
+      "performancePc": "Medium",
+      "performanceAndroid": "",
+      "performanceIos": "",
+      "tags": "",
+      "createdAt": "",
+      "updatedAt": "",
+      "version": 0,
+      "metadataProvider": "VRCWB",
+      "sourceProviders": [
+        "VRCWB"
+      ]
+    },
+    {
+      "id": "avtr_2089c937-67fe-4bb4-9ba7-4a8170a22a8b",
+      "name": "Tea's Avatar",
+      "author": "Unknown",
+      "authorId": "",
+      "description": "",
+      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_831bfc3b-5169-403f-9638-fe480c58af20/1/file",
+      "thumbnailImageUrl": "",
+      "releaseStatus": "public",
+      "searchable": true,
+      "platforms": [
+        "PC",
+        "Android"
+      ],
+      "performancePc": "VeryPoor",
+      "performanceAndroid": "VeryPoor",
+      "performanceIos": "",
+      "tags": "",
+      "createdAt": "",
+      "updatedAt": "",
+      "version": 0,
+      "metadataProvider": "VRCWB",
+      "sourceProviders": [
+        "VRCWB"
+      ]
+    },
+    {
+      "id": "avtr_1fb4b261-816c-4e2c-b375-fbf9f2153782",
+      "name": "MyAVatar4",
+      "author": "Unknown",
+      "authorId": "",
+      "description": "",
+      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_83ac3e5b-fea1-46f5-823a-b0dad7d0faa8/2/file",
+      "thumbnailImageUrl": "",
+      "releaseStatus": "public",
+      "searchable": true,
+      "platforms": [
+        "PC"
+      ],
+      "performancePc": "Medium",
+      "performanceAndroid": "",
+      "performanceIos": "",
+      "tags": "",
+      "createdAt": "",
+      "updatedAt": "",
+      "version": 0,
+      "metadataProvider": "VRCWB",
+      "sourceProviders": [
+        "VRCWB"
+      ]
+    },
+    {
+      "id": "avtr_981e2e7a-6293-43a0-bec2-7ceca595a537",
+      "name": "VRML Male Avatar",
+      "author": "Unknown",
+      "authorId": "",
+      "description": "",
+      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_1e724d4a-156a-459b-9564-d2fa03a7eb46/1/file",
+      "thumbnailImageUrl": "",
+      "releaseStatus": "public",
+      "searchable": true,
+      "platforms": [
+        "PC"
+      ],
+      "performancePc": "Medium",
+      "performanceAndroid": "",
+      "performanceIos": "",
+      "tags": "",
+      "createdAt": "",
+      "updatedAt": "",
+      "version": 0,
+      "metadataProvider": "VRCWB",
+      "sourceProviders": [
+        "VRCWB"
+      ]
+    },
+    {
+      "id": "avtr_71133b33-13f1-481c-af04-f45bbc521cdb",
+      "name": "Security Guy_Avatar World",
+      "author": "Unknown",
+      "authorId": "",
+      "description": "",
+      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_d65083d0-49aa-4ab0-8c32-01212635a415/1/file",
+      "thumbnailImageUrl": "",
+      "releaseStatus": "public",
+      "searchable": true,
+      "platforms": [
+        "PC",
+        "Android"
+      ],
+      "performancePc": "Excellent",
+      "performanceAndroid": "Good",
+      "performanceIos": "",
+      "tags": "",
+      "createdAt": "",
+      "updatedAt": "",
+      "version": 0,
+      "metadataProvider": "VRCWB",
+      "sourceProviders": [
+        "VRCWB"
+      ]
+    },
+    {
+      "id": "avtr_99012b6a-4940-46b9-8520-e9ac8de2cca7",
+      "name": "Chapel-Chan Avatar 3․0 ［Maru Edit］",
+      "author": "Unknown",
+      "authorId": "",
+      "description": "",
+      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_03f1c0c4-42d8-4186-896e-4d0c2b5b161f/1/file",
+      "thumbnailImageUrl": "",
+      "releaseStatus": "public",
+      "searchable": true,
+      "platforms": [
+        "PC",
+        "Android"
+      ],
+      "performancePc": "Medium",
+      "performanceAndroid": "VeryPoor",
+      "performanceIos": "",
+      "tags": "",
+      "createdAt": "",
+      "updatedAt": "",
+      "version": 0,
+      "metadataProvider": "VRCWB",
+      "sourceProviders": [
+        "VRCWB"
+      ]
+    },
+    {
+      "id": "avtr_20e471e7-6d13-4bd3-a55c-d2210a5af51a",
+      "name": "Jey Avatar",
+      "author": "Unknown",
+      "authorId": "",
+      "description": "",
+      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_2f2d934b-00c9-46dd-87ca-063dac67a07f/1/file",
+      "thumbnailImageUrl": "",
+      "releaseStatus": "public",
+      "searchable": true,
+      "platforms": [
+        "PC",
+        "Android"
+      ],
+      "performancePc": "Medium",
+      "performanceAndroid": "VeryPoor",
+      "performanceIos": "",
+      "tags": "",
+      "createdAt": "",
+      "updatedAt": "",
+      "version": 0,
+      "metadataProvider": "VRCWB",
+      "sourceProviders": [
+        "VRCWB"
+      ]
+    },
+    {
+      "id": "avtr_3eb55164-21d6-4109-82fc-ca30119ba246",
+      "name": "♔ Цsคgɨ ♔ Avatar 1",
+      "author": "Unknown",
+      "authorId": "",
+      "description": "",
+      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_db7f7844-38b1-4843-b040-2b7bc7dbc32c/3/file",
+      "thumbnailImageUrl": "",
+      "releaseStatus": "public",
+      "searchable": true,
+      "platforms": [
+        "PC"
+      ],
+      "performancePc": "Poor",
+      "performanceAndroid": "",
+      "performanceIos": "",
+      "tags": "",
+      "createdAt": "",
+      "updatedAt": "",
+      "version": 0,
+      "metadataProvider": "VRCWB",
+      "sourceProviders": [
+        "VRCWB"
+      ]
     }
   ]
 }
