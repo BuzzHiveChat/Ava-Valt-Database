@@ -65,7 +65,7 @@
     "CuteDB": false,
     "PAW": true,
     "VRCWB": true,
-    "NSVR": false,
+    "NSVR": true,
     "AviSeek": true
   },
   "lastRun": "2026-10-07T13:00:03.941Z",
@@ -159,6 +159,6 @@
   "lastQuarantineError": null,
   "currentStage": "STOPPED",
   "stageUpdatedAt": "2026-10-07T13:10:24.355Z",
-  "updatedAt": "2026-10-20T21:53:52.607Z",
+  "updatedAt": "2026-11-03T02:22:04.275Z",
   "lastConflicts": 0
 }
