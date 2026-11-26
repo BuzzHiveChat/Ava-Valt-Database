@@ -3,8 +3,8 @@
   "searchMode": "two-letter-word-prefix",
   "bucketCount": 256,
   "baseUrl": "https://buzzhivechat.github.io/Ava-Valt-Database/search/v1/",
-  "sourceSha": "a04f8d5e3beb81f961cc83b946e3cf7aed228f6c",
-  "total": 20735,
-  "generatedAt": "2026-11-25T21:43:10.296Z",
+  "sourceSha": "ee5196a6cece2eb76d59a8e365b6ed616474f3e7",
+  "total": 21107,
+  "generatedAt": "2026-11-26T03:00:22.965Z",
   "note": "Search terms require two letters; matching routes by name, author or tags."
 }
