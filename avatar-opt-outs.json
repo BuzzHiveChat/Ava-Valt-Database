@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-20T20:10:11.273Z",
+  "updated": "2026-11-26T03:04:21.348Z",
   "excludedAvatars": [
     {
       "id": "avtr_382346f2-2874-4192-be25-336ada0d9082",
@@ -1087,6 +1087,24 @@
       "proof": "provider-avatar-description-unverified",
       "source": "AviSeek",
       "autoExcludedAt": "2026-10-20T20:10:11.272Z"
+    },
+    {
+      "id": "avtr_1b28092b-1ea2-4215-82f6-eaf9972f7cc6",
+      "marker": "blacklist",
+      "reason": "Avatar description opt-out marker (automatic)",
+      "verifiedBy": "Automatic — not owner verified",
+      "proof": "provider-avatar-description-unverified",
+      "source": "AviSeek",
+      "autoExcludedAt": "2026-11-26T03:04:21.347Z"
+    },
+    {
+      "id": "avtr_80559dd7-b1bd-4764-9b08-7be893b62421",
+      "marker": "blacklist",
+      "reason": "Avatar description opt-out marker (automatic)",
+      "verifiedBy": "Automatic — not owner verified",
+      "proof": "provider-avatar-description-unverified",
+      "source": "AviSeek",
+      "autoExcludedAt": "2026-11-26T03:04:21.348Z"
     }
   ],
   "excludedCreators": [
