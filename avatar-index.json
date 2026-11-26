@@ -411827,32 +411827,6 @@
       ]
     },
     {
-      "id": "avtr_226f8402-5225-4c14-b5f3-1d00ac2090dd",
-      "name": "Private Avatar",
-      "author": "Unknown",
-      "authorId": "",
-      "description": "",
-      "imageUrl": "https://api.vrchat.cloud/api/1/file/file_bd3ddfcc-e693-4510-b954-fa8260519092/1/file",
-      "thumbnailImageUrl": "",
-      "releaseStatus": "public",
-      "searchable": true,
-      "platforms": [
-        "PC",
-        "Android"
-      ],
-      "performancePc": "Medium",
-      "performanceAndroid": "VeryPoor",
-      "performanceIos": "",
-      "tags": "",
-      "createdAt": "",
-      "updatedAt": "",
-      "version": 0,
-      "metadataProvider": "VRCWB",
-      "sourceProviders": [
-        "VRCWB"
-      ]
-    },
-    {
       "id": "avtr_d2110c58-9cf1-4b89-a15b-8cbb240b312a",
       "name": "MyAvatarWedding",
       "author": "Unknown",
