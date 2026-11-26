@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-26T03:12:35.144Z",
+  "updated": "2026-11-26T03:27:27.836Z",
   "excludedAvatars": [
     {
       "id": "avtr_382346f2-2874-4192-be25-336ada0d9082",
@@ -1123,6 +1123,60 @@
       "proof": "provider-avatar-description-unverified",
       "source": "AviSeek",
       "autoExcludedAt": "2026-11-26T03:12:35.141Z"
+    },
+    {
+      "id": "avtr_976d61d0-2afc-4f6f-906b-9289fbba5eab",
+      "marker": "blacklist",
+      "reason": "Avatar description opt-out marker (automatic)",
+      "verifiedBy": "Automatic — not owner verified",
+      "proof": "provider-avatar-description-unverified",
+      "source": "AviSeek",
+      "autoExcludedAt": "2026-11-26T03:27:27.834Z"
+    },
+    {
+      "id": "avtr_b31fbecb-e008-49c1-ba2d-d5b8c9e8607b",
+      "marker": "blacklist",
+      "reason": "Avatar description opt-out marker (automatic)",
+      "verifiedBy": "Automatic — not owner verified",
+      "proof": "provider-avatar-description-unverified",
+      "source": "AviSeek",
+      "autoExcludedAt": "2026-11-26T03:27:27.835Z"
+    },
+    {
+      "id": "avtr_226f8402-5225-4c14-b5f3-1d00ac2090dd",
+      "marker": "private",
+      "reason": "Avatar description opt-out marker (automatic)",
+      "verifiedBy": "Automatic — not owner verified",
+      "proof": "provider-avatar-description-unverified",
+      "source": "VRCWB",
+      "autoExcludedAt": "2026-11-26T03:27:27.835Z"
+    },
+    {
+      "id": "avtr_8d306205-836f-42d0-9895-5e5eb3deaca9",
+      "marker": "blacklist",
+      "reason": "Avatar description opt-out marker (automatic)",
+      "verifiedBy": "Automatic — not owner verified",
+      "proof": "provider-avatar-description-unverified",
+      "source": "AviSeek",
+      "autoExcludedAt": "2026-11-26T03:27:27.835Z"
+    },
+    {
+      "id": "avtr_83bda151-185e-44b6-bbb9-8515562c6c48",
+      "marker": "blacklist",
+      "reason": "Avatar description opt-out marker (automatic)",
+      "verifiedBy": "Automatic — not owner verified",
+      "proof": "provider-avatar-description-unverified",
+      "source": "AviSeek",
+      "autoExcludedAt": "2026-11-26T03:27:27.835Z"
+    },
+    {
+      "id": "avtr_48ad6bfe-ae45-43d1-a4b6-afc13ff7a688",
+      "marker": "blacklist",
+      "reason": "Avatar description opt-out marker (automatic)",
+      "verifiedBy": "Automatic — not owner verified",
+      "proof": "provider-avatar-description-unverified",
+      "source": "AviSeek",
+      "autoExcludedAt": "2026-11-26T03:27:27.836Z"
     }
   ],
   "excludedCreators": [
